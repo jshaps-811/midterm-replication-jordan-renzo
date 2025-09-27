@@ -1,0 +1,281 @@
+sentid	pairid	expected	sentence
+1	1	True	the author laughs
+2	1	False	the author laugh
+3	2	True	the author swims
+4	2	False	the author swim
+5	3	True	the author smiles
+6	3	False	the author smile
+7	4	True	the author is tall
+8	4	False	the author are tall
+9	5	True	the author is old
+10	5	False	the author are old
+11	6	True	the author is young
+12	6	False	the author are young
+13	7	True	the author is short
+14	7	False	the author are short
+15	8	True	the pilot laughs
+16	8	False	the pilot laugh
+17	9	True	the pilot swims
+18	9	False	the pilot swim
+19	10	True	the pilot smiles
+20	10	False	the pilot smile
+21	11	True	the pilot is tall
+22	11	False	the pilot are tall
+23	12	True	the pilot is old
+24	12	False	the pilot are old
+25	13	True	the pilot is young
+26	13	False	the pilot are young
+27	14	True	the pilot is short
+28	14	False	the pilot are short
+29	15	True	the surgeon laughs
+30	15	False	the surgeon laugh
+31	16	True	the surgeon swims
+32	16	False	the surgeon swim
+33	17	True	the surgeon smiles
+34	17	False	the surgeon smile
+35	18	True	the surgeon is tall
+36	18	False	the surgeon are tall
+37	19	True	the surgeon is old
+38	19	False	the surgeon are old
+39	20	True	the surgeon is young
+40	20	False	the surgeon are young
+41	21	True	the surgeon is short
+42	21	False	the surgeon are short
+43	22	True	the farmer laughs
+44	22	False	the farmer laugh
+45	23	True	the farmer swims
+46	23	False	the farmer swim
+47	24	True	the farmer smiles
+48	24	False	the farmer smile
+49	25	True	the farmer is tall
+50	25	False	the farmer are tall
+51	26	True	the farmer is old
+52	26	False	the farmer are old
+53	27	True	the farmer is young
+54	27	False	the farmer are young
+55	28	True	the farmer is short
+56	28	False	the farmer are short
+57	29	True	the manager laughs
+58	29	False	the manager laugh
+59	30	True	the manager swims
+60	30	False	the manager swim
+61	31	True	the manager smiles
+62	31	False	the manager smile
+63	32	True	the manager is tall
+64	32	False	the manager are tall
+65	33	True	the manager is old
+66	33	False	the manager are old
+67	34	True	the manager is young
+68	34	False	the manager are young
+69	35	True	the manager is short
+70	35	False	the manager are short
+71	36	True	the customer laughs
+72	36	False	the customer laugh
+73	37	True	the customer swims
+74	37	False	the customer swim
+75	38	True	the customer smiles
+76	38	False	the customer smile
+77	39	True	the customer is tall
+78	39	False	the customer are tall
+79	40	True	the customer is old
+80	40	False	the customer are old
+81	41	True	the customer is young
+82	41	False	the customer are young
+83	42	True	the customer is short
+84	42	False	the customer are short
+85	43	True	the officer laughs
+86	43	False	the officer laugh
+87	44	True	the officer swims
+88	44	False	the officer swim
+89	45	True	the officer smiles
+90	45	False	the officer smile
+91	46	True	the officer is tall
+92	46	False	the officer are tall
+93	47	True	the officer is old
+94	47	False	the officer are old
+95	48	True	the officer is young
+96	48	False	the officer are young
+97	49	True	the officer is short
+98	49	False	the officer are short
+99	50	True	the teacher laughs
+100	50	False	the teacher laugh
+101	51	True	the teacher swims
+102	51	False	the teacher swim
+103	52	True	the teacher smiles
+104	52	False	the teacher smile
+105	53	True	the teacher is tall
+106	53	False	the teacher are tall
+107	54	True	the teacher is old
+108	54	False	the teacher are old
+109	55	True	the teacher is young
+110	55	False	the teacher are young
+111	56	True	the teacher is short
+112	56	False	the teacher are short
+113	57	True	the senator laughs
+114	57	False	the senator laugh
+115	58	True	the senator swims
+116	58	False	the senator swim
+117	59	True	the senator smiles
+118	59	False	the senator smile
+119	60	True	the senator is tall
+120	60	False	the senator are tall
+121	61	True	the senator is old
+122	61	False	the senator are old
+123	62	True	the senator is young
+124	62	False	the senator are young
+125	63	True	the senator is short
+126	63	False	the senator are short
+127	64	True	the consultant laughs
+128	64	False	the consultant laugh
+129	65	True	the consultant swims
+130	65	False	the consultant swim
+131	66	True	the consultant smiles
+132	66	False	the consultant smile
+133	67	True	the consultant is tall
+134	67	False	the consultant are tall
+135	68	True	the consultant is old
+136	68	False	the consultant are old
+137	69	True	the consultant is young
+138	69	False	the consultant are young
+139	70	True	the consultant is short
+140	70	False	the consultant are short
+141	71	True	the authors laugh
+142	71	False	the authors laughs
+143	72	True	the authors swim
+144	72	False	the authors swims
+145	73	True	the authors smile
+146	73	False	the authors smiles
+147	74	True	the authors are tall
+148	74	False	the authors is tall
+149	75	True	the authors are old
+150	75	False	the authors is old
+151	76	True	the authors are young
+152	76	False	the authors is young
+153	77	True	the authors are short
+154	77	False	the authors is short
+155	78	True	the pilots laugh
+156	78	False	the pilots laughs
+157	79	True	the pilots swim
+158	79	False	the pilots swims
+159	80	True	the pilots smile
+160	80	False	the pilots smiles
+161	81	True	the pilots are tall
+162	81	False	the pilots is tall
+163	82	True	the pilots are old
+164	82	False	the pilots is old
+165	83	True	the pilots are young
+166	83	False	the pilots is young
+167	84	True	the pilots are short
+168	84	False	the pilots is short
+169	85	True	the surgeons laugh
+170	85	False	the surgeons laughs
+171	86	True	the surgeons swim
+172	86	False	the surgeons swims
+173	87	True	the surgeons smile
+174	87	False	the surgeons smiles
+175	88	True	the surgeons are tall
+176	88	False	the surgeons is tall
+177	89	True	the surgeons are old
+178	89	False	the surgeons is old
+179	90	True	the surgeons are young
+180	90	False	the surgeons is young
+181	91	True	the surgeons are short
+182	91	False	the surgeons is short
+183	92	True	the farmers laugh
+184	92	False	the farmers laughs
+185	93	True	the farmers swim
+186	93	False	the farmers swims
+187	94	True	the farmers smile
+188	94	False	the farmers smiles
+189	95	True	the farmers are tall
+190	95	False	the farmers is tall
+191	96	True	the farmers are old
+192	96	False	the farmers is old
+193	97	True	the farmers are young
+194	97	False	the farmers is young
+195	98	True	the farmers are short
+196	98	False	the farmers is short
+197	99	True	the managers laugh
+198	99	False	the managers laughs
+199	100	True	the managers swim
+200	100	False	the managers swims
+201	101	True	the managers smile
+202	101	False	the managers smiles
+203	102	True	the managers are tall
+204	102	False	the managers is tall
+205	103	True	the managers are old
+206	103	False	the managers is old
+207	104	True	the managers are young
+208	104	False	the managers is young
+209	105	True	the managers are short
+210	105	False	the managers is short
+211	106	True	the customers laugh
+212	106	False	the customers laughs
+213	107	True	the customers swim
+214	107	False	the customers swims
+215	108	True	the customers smile
+216	108	False	the customers smiles
+217	109	True	the customers are tall
+218	109	False	the customers is tall
+219	110	True	the customers are old
+220	110	False	the customers is old
+221	111	True	the customers are young
+222	111	False	the customers is young
+223	112	True	the customers are short
+224	112	False	the customers is short
+225	113	True	the officers laugh
+226	113	False	the officers laughs
+227	114	True	the officers swim
+228	114	False	the officers swims
+229	115	True	the officers smile
+230	115	False	the officers smiles
+231	116	True	the officers are tall
+232	116	False	the officers is tall
+233	117	True	the officers are old
+234	117	False	the officers is old
+235	118	True	the officers are young
+236	118	False	the officers is young
+237	119	True	the officers are short
+238	119	False	the officers is short
+239	120	True	the teachers laugh
+240	120	False	the teachers laughs
+241	121	True	the teachers swim
+242	121	False	the teachers swims
+243	122	True	the teachers smile
+244	122	False	the teachers smiles
+245	123	True	the teachers are tall
+246	123	False	the teachers is tall
+247	124	True	the teachers are old
+248	124	False	the teachers is old
+249	125	True	the teachers are young
+250	125	False	the teachers is young
+251	126	True	the teachers are short
+252	126	False	the teachers is short
+253	127	True	the senators laugh
+254	127	False	the senators laughs
+255	128	True	the senators swim
+256	128	False	the senators swims
+257	129	True	the senators smile
+258	129	False	the senators smiles
+259	130	True	the senators are tall
+260	130	False	the senators is tall
+261	131	True	the senators are old
+262	131	False	the senators is old
+263	132	True	the senators are young
+264	132	False	the senators is young
+265	133	True	the senators are short
+266	133	False	the senators is short
+267	134	True	the consultants laugh
+268	134	False	the consultants laughs
+269	135	True	the consultants swim
+270	135	False	the consultants swims
+271	136	True	the consultants smile
+272	136	False	the consultants smiles
+273	137	True	the consultants are tall
+274	137	False	the consultants is tall
+275	138	True	the consultants are old
+276	138	False	the consultants is old
+277	139	True	the consultants are young
+278	139	False	the consultants is young
+279	140	True	the consultants are short
+280	140	False	the consultants is short
