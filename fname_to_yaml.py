@@ -40,8 +40,8 @@ def fname_to_yaml(in_folder, out_folder, base_yaml):
                 print(f"Error processing '{fname}': {e}")
 
 
-in_directory = "./test_cases/eval_tsv_files/hebrew"  
-out_directory = "./configs/hebrew" 
+in_directory = "./test_cases/eval_tsv_files/russian"  
+out_directory = "./configs/russian" 
 base_yaml = "./base_config.yaml"
 
 fname_to_yaml(in_directory, out_directory, base_yaml)

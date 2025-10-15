@@ -5,7 +5,7 @@ mode:
     - analyze
 
 models:
-    hf_causal_model:
+    hf_masked_model:
       - google-bert/bert-base-multilingual-cased
 
 resultsfpath: ./midterm-replication-jordan-renzo/predictions/pred_obj_rel_no_comp_within_inanim.tsv
