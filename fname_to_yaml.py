@@ -23,18 +23,14 @@ def fname_to_yaml(in_folder, out_folder, base_yaml):
                         if "fpath" in line:
                             sent = line.strip().split('/')
                             if "datafpath:" in line:
-                                print(sent[-1])
-                                sent[-1] = tsv_fpath
-                                print(sent)
+                                sent  = "datafpath: " + tsv_fpath
                             elif "resultsfpath:" in line:
-                                print(sent[-1])
                                 sent[-1] = "results_" + tsv_fname
-                                print(sent)
+                                sent = "/".join(sent)
                             elif "predfpath:" in line:
-                                print(sent[-1])
                                 sent[-1] = "pred_" + tsv_fname
-                                print(sent)
-                            out_file.write("/".join(sent))
+                                sent = "/".join(sent)
+                            out_file.write(sent)
                         else:
                             out_file.write(line)
 
@@ -42,8 +38,8 @@ def fname_to_yaml(in_folder, out_folder, base_yaml):
                 print(f"Error processing '{fname}': {e}")
 
 
-in_directory = "./test_cases/eval_tsv_files/german"  
-out_directory = "./configs/german" 
+in_directory = "./test_cases/eval_tsv_files/russian"  
+out_directory = "./configs/russian" 
 base_yaml = "./base_config.yaml"
 
 fname_to_yaml(in_directory, out_directory, base_yaml)

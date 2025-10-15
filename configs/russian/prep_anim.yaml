@@ -9,6 +9,6 @@ models:
       - mbert-base-multilingual-cased
 
 predfpath: ./predictions/pred_prep_anim.tsv
-datafpath: ./data/./test_cases/eval_tsv_files/russian/prep_anim.tsv
+datafpath: ./test_cases/eval_tsv_files/russian/prep_anim.tsv
 resultsfpath: ./results/results_prep_anim.tsv
 save: by_word, by_pair, by_cond
