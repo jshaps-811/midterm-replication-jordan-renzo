@@ -1,0 +1,1681 @@
+sentid	pairid	comparison	sentence
+1	1	expected	the authors laugh and swim
+2	1	unexpected	the authors laugh and swims
+3	2	expected	the authors laugh and smile
+4	2	unexpected	the authors laugh and smiles
+5	3	expected	the authors laugh and are tall
+6	3	unexpected	the authors laugh and is tall
+7	4	expected	the authors laugh and are old
+8	4	unexpected	the authors laugh and is old
+9	5	expected	the authors laugh and are young
+10	5	unexpected	the authors laugh and is young
+11	6	expected	the authors laugh and are short
+12	6	unexpected	the authors laugh and is short
+13	7	expected	the authors swim and laugh
+14	7	unexpected	the authors swim and laughs
+15	8	expected	the authors swim and smile
+16	8	unexpected	the authors swim and smiles
+17	9	expected	the authors swim and are tall
+18	9	unexpected	the authors swim and is tall
+19	10	expected	the authors swim and are old
+20	10	unexpected	the authors swim and is old
+21	11	expected	the authors swim and are young
+22	11	unexpected	the authors swim and is young
+23	12	expected	the authors swim and are short
+24	12	unexpected	the authors swim and is short
+25	13	expected	the authors smile and laugh
+26	13	unexpected	the authors smile and laughs
+27	14	expected	the authors smile and swim
+28	14	unexpected	the authors smile and swims
+29	15	expected	the authors smile and are tall
+30	15	unexpected	the authors smile and is tall
+31	16	expected	the authors smile and are old
+32	16	unexpected	the authors smile and is old
+33	17	expected	the authors smile and are young
+34	17	unexpected	the authors smile and is young
+35	18	expected	the authors smile and are short
+36	18	unexpected	the authors smile and is short
+37	19	expected	the authors are tall and laugh
+38	19	unexpected	the authors are tall and laughs
+39	20	expected	the authors are tall and swim
+40	20	unexpected	the authors are tall and swims
+41	21	expected	the authors are tall and smile
+42	21	unexpected	the authors are tall and smiles
+43	22	expected	the authors are tall and are old
+44	22	unexpected	the authors are tall and is old
+45	23	expected	the authors are tall and are young
+46	23	unexpected	the authors are tall and is young
+47	24	expected	the authors are tall and are short
+48	24	unexpected	the authors are tall and is short
+49	25	expected	the authors are old and laugh
+50	25	unexpected	the authors are old and laughs
+51	26	expected	the authors are old and swim
+52	26	unexpected	the authors are old and swims
+53	27	expected	the authors are old and smile
+54	27	unexpected	the authors are old and smiles
+55	28	expected	the authors are old and are tall
+56	28	unexpected	the authors are old and is tall
+57	29	expected	the authors are old and are young
+58	29	unexpected	the authors are old and is young
+59	30	expected	the authors are old and are short
+60	30	unexpected	the authors are old and is short
+61	31	expected	the authors are young and laugh
+62	31	unexpected	the authors are young and laughs
+63	32	expected	the authors are young and swim
+64	32	unexpected	the authors are young and swims
+65	33	expected	the authors are young and smile
+66	33	unexpected	the authors are young and smiles
+67	34	expected	the authors are young and are tall
+68	34	unexpected	the authors are young and is tall
+69	35	expected	the authors are young and are old
+70	35	unexpected	the authors are young and is old
+71	36	expected	the authors are young and are short
+72	36	unexpected	the authors are young and is short
+73	37	expected	the authors are short and laugh
+74	37	unexpected	the authors are short and laughs
+75	38	expected	the authors are short and swim
+76	38	unexpected	the authors are short and swims
+77	39	expected	the authors are short and smile
+78	39	unexpected	the authors are short and smiles
+79	40	expected	the authors are short and are tall
+80	40	unexpected	the authors are short and is tall
+81	41	expected	the authors are short and are old
+82	41	unexpected	the authors are short and is old
+83	42	expected	the authors are short and are young
+84	42	unexpected	the authors are short and is young
+85	43	expected	the pilots laugh and swim
+86	43	unexpected	the pilots laugh and swims
+87	44	expected	the pilots laugh and smile
+88	44	unexpected	the pilots laugh and smiles
+89	45	expected	the pilots laugh and are tall
+90	45	unexpected	the pilots laugh and is tall
+91	46	expected	the pilots laugh and are old
+92	46	unexpected	the pilots laugh and is old
+93	47	expected	the pilots laugh and are young
+94	47	unexpected	the pilots laugh and is young
+95	48	expected	the pilots laugh and are short
+96	48	unexpected	the pilots laugh and is short
+97	49	expected	the pilots swim and laugh
+98	49	unexpected	the pilots swim and laughs
+99	50	expected	the pilots swim and smile
+100	50	unexpected	the pilots swim and smiles
+101	51	expected	the pilots swim and are tall
+102	51	unexpected	the pilots swim and is tall
+103	52	expected	the pilots swim and are old
+104	52	unexpected	the pilots swim and is old
+105	53	expected	the pilots swim and are young
+106	53	unexpected	the pilots swim and is young
+107	54	expected	the pilots swim and are short
+108	54	unexpected	the pilots swim and is short
+109	55	expected	the pilots smile and laugh
+110	55	unexpected	the pilots smile and laughs
+111	56	expected	the pilots smile and swim
+112	56	unexpected	the pilots smile and swims
+113	57	expected	the pilots smile and are tall
+114	57	unexpected	the pilots smile and is tall
+115	58	expected	the pilots smile and are old
+116	58	unexpected	the pilots smile and is old
+117	59	expected	the pilots smile and are young
+118	59	unexpected	the pilots smile and is young
+119	60	expected	the pilots smile and are short
+120	60	unexpected	the pilots smile and is short
+121	61	expected	the pilots are tall and laugh
+122	61	unexpected	the pilots are tall and laughs
+123	62	expected	the pilots are tall and swim
+124	62	unexpected	the pilots are tall and swims
+125	63	expected	the pilots are tall and smile
+126	63	unexpected	the pilots are tall and smiles
+127	64	expected	the pilots are tall and are old
+128	64	unexpected	the pilots are tall and is old
+129	65	expected	the pilots are tall and are young
+130	65	unexpected	the pilots are tall and is young
+131	66	expected	the pilots are tall and are short
+132	66	unexpected	the pilots are tall and is short
+133	67	expected	the pilots are old and laugh
+134	67	unexpected	the pilots are old and laughs
+135	68	expected	the pilots are old and swim
+136	68	unexpected	the pilots are old and swims
+137	69	expected	the pilots are old and smile
+138	69	unexpected	the pilots are old and smiles
+139	70	expected	the pilots are old and are tall
+140	70	unexpected	the pilots are old and is tall
+141	71	expected	the pilots are old and are young
+142	71	unexpected	the pilots are old and is young
+143	72	expected	the pilots are old and are short
+144	72	unexpected	the pilots are old and is short
+145	73	expected	the pilots are young and laugh
+146	73	unexpected	the pilots are young and laughs
+147	74	expected	the pilots are young and swim
+148	74	unexpected	the pilots are young and swims
+149	75	expected	the pilots are young and smile
+150	75	unexpected	the pilots are young and smiles
+151	76	expected	the pilots are young and are tall
+152	76	unexpected	the pilots are young and is tall
+153	77	expected	the pilots are young and are old
+154	77	unexpected	the pilots are young and is old
+155	78	expected	the pilots are young and are short
+156	78	unexpected	the pilots are young and is short
+157	79	expected	the pilots are short and laugh
+158	79	unexpected	the pilots are short and laughs
+159	80	expected	the pilots are short and swim
+160	80	unexpected	the pilots are short and swims
+161	81	expected	the pilots are short and smile
+162	81	unexpected	the pilots are short and smiles
+163	82	expected	the pilots are short and are tall
+164	82	unexpected	the pilots are short and is tall
+165	83	expected	the pilots are short and are old
+166	83	unexpected	the pilots are short and is old
+167	84	expected	the pilots are short and are young
+168	84	unexpected	the pilots are short and is young
+169	85	expected	the surgeons laugh and swim
+170	85	unexpected	the surgeons laugh and swims
+171	86	expected	the surgeons laugh and smile
+172	86	unexpected	the surgeons laugh and smiles
+173	87	expected	the surgeons laugh and are tall
+174	87	unexpected	the surgeons laugh and is tall
+175	88	expected	the surgeons laugh and are old
+176	88	unexpected	the surgeons laugh and is old
+177	89	expected	the surgeons laugh and are young
+178	89	unexpected	the surgeons laugh and is young
+179	90	expected	the surgeons laugh and are short
+180	90	unexpected	the surgeons laugh and is short
+181	91	expected	the surgeons swim and laugh
+182	91	unexpected	the surgeons swim and laughs
+183	92	expected	the surgeons swim and smile
+184	92	unexpected	the surgeons swim and smiles
+185	93	expected	the surgeons swim and are tall
+186	93	unexpected	the surgeons swim and is tall
+187	94	expected	the surgeons swim and are old
+188	94	unexpected	the surgeons swim and is old
+189	95	expected	the surgeons swim and are young
+190	95	unexpected	the surgeons swim and is young
+191	96	expected	the surgeons swim and are short
+192	96	unexpected	the surgeons swim and is short
+193	97	expected	the surgeons smile and laugh
+194	97	unexpected	the surgeons smile and laughs
+195	98	expected	the surgeons smile and swim
+196	98	unexpected	the surgeons smile and swims
+197	99	expected	the surgeons smile and are tall
+198	99	unexpected	the surgeons smile and is tall
+199	100	expected	the surgeons smile and are old
+200	100	unexpected	the surgeons smile and is old
+201	101	expected	the surgeons smile and are young
+202	101	unexpected	the surgeons smile and is young
+203	102	expected	the surgeons smile and are short
+204	102	unexpected	the surgeons smile and is short
+205	103	expected	the surgeons are tall and laugh
+206	103	unexpected	the surgeons are tall and laughs
+207	104	expected	the surgeons are tall and swim
+208	104	unexpected	the surgeons are tall and swims
+209	105	expected	the surgeons are tall and smile
+210	105	unexpected	the surgeons are tall and smiles
+211	106	expected	the surgeons are tall and are old
+212	106	unexpected	the surgeons are tall and is old
+213	107	expected	the surgeons are tall and are young
+214	107	unexpected	the surgeons are tall and is young
+215	108	expected	the surgeons are tall and are short
+216	108	unexpected	the surgeons are tall and is short
+217	109	expected	the surgeons are old and laugh
+218	109	unexpected	the surgeons are old and laughs
+219	110	expected	the surgeons are old and swim
+220	110	unexpected	the surgeons are old and swims
+221	111	expected	the surgeons are old and smile
+222	111	unexpected	the surgeons are old and smiles
+223	112	expected	the surgeons are old and are tall
+224	112	unexpected	the surgeons are old and is tall
+225	113	expected	the surgeons are old and are young
+226	113	unexpected	the surgeons are old and is young
+227	114	expected	the surgeons are old and are short
+228	114	unexpected	the surgeons are old and is short
+229	115	expected	the surgeons are young and laugh
+230	115	unexpected	the surgeons are young and laughs
+231	116	expected	the surgeons are young and swim
+232	116	unexpected	the surgeons are young and swims
+233	117	expected	the surgeons are young and smile
+234	117	unexpected	the surgeons are young and smiles
+235	118	expected	the surgeons are young and are tall
+236	118	unexpected	the surgeons are young and is tall
+237	119	expected	the surgeons are young and are old
+238	119	unexpected	the surgeons are young and is old
+239	120	expected	the surgeons are young and are short
+240	120	unexpected	the surgeons are young and is short
+241	121	expected	the surgeons are short and laugh
+242	121	unexpected	the surgeons are short and laughs
+243	122	expected	the surgeons are short and swim
+244	122	unexpected	the surgeons are short and swims
+245	123	expected	the surgeons are short and smile
+246	123	unexpected	the surgeons are short and smiles
+247	124	expected	the surgeons are short and are tall
+248	124	unexpected	the surgeons are short and is tall
+249	125	expected	the surgeons are short and are old
+250	125	unexpected	the surgeons are short and is old
+251	126	expected	the surgeons are short and are young
+252	126	unexpected	the surgeons are short and is young
+253	127	expected	the farmers laugh and swim
+254	127	unexpected	the farmers laugh and swims
+255	128	expected	the farmers laugh and smile
+256	128	unexpected	the farmers laugh and smiles
+257	129	expected	the farmers laugh and are tall
+258	129	unexpected	the farmers laugh and is tall
+259	130	expected	the farmers laugh and are old
+260	130	unexpected	the farmers laugh and is old
+261	131	expected	the farmers laugh and are young
+262	131	unexpected	the farmers laugh and is young
+263	132	expected	the farmers laugh and are short
+264	132	unexpected	the farmers laugh and is short
+265	133	expected	the farmers swim and laugh
+266	133	unexpected	the farmers swim and laughs
+267	134	expected	the farmers swim and smile
+268	134	unexpected	the farmers swim and smiles
+269	135	expected	the farmers swim and are tall
+270	135	unexpected	the farmers swim and is tall
+271	136	expected	the farmers swim and are old
+272	136	unexpected	the farmers swim and is old
+273	137	expected	the farmers swim and are young
+274	137	unexpected	the farmers swim and is young
+275	138	expected	the farmers swim and are short
+276	138	unexpected	the farmers swim and is short
+277	139	expected	the farmers smile and laugh
+278	139	unexpected	the farmers smile and laughs
+279	140	expected	the farmers smile and swim
+280	140	unexpected	the farmers smile and swims
+281	141	expected	the farmers smile and are tall
+282	141	unexpected	the farmers smile and is tall
+283	142	expected	the farmers smile and are old
+284	142	unexpected	the farmers smile and is old
+285	143	expected	the farmers smile and are young
+286	143	unexpected	the farmers smile and is young
+287	144	expected	the farmers smile and are short
+288	144	unexpected	the farmers smile and is short
+289	145	expected	the farmers are tall and laugh
+290	145	unexpected	the farmers are tall and laughs
+291	146	expected	the farmers are tall and swim
+292	146	unexpected	the farmers are tall and swims
+293	147	expected	the farmers are tall and smile
+294	147	unexpected	the farmers are tall and smiles
+295	148	expected	the farmers are tall and are old
+296	148	unexpected	the farmers are tall and is old
+297	149	expected	the farmers are tall and are young
+298	149	unexpected	the farmers are tall and is young
+299	150	expected	the farmers are tall and are short
+300	150	unexpected	the farmers are tall and is short
+301	151	expected	the farmers are old and laugh
+302	151	unexpected	the farmers are old and laughs
+303	152	expected	the farmers are old and swim
+304	152	unexpected	the farmers are old and swims
+305	153	expected	the farmers are old and smile
+306	153	unexpected	the farmers are old and smiles
+307	154	expected	the farmers are old and are tall
+308	154	unexpected	the farmers are old and is tall
+309	155	expected	the farmers are old and are young
+310	155	unexpected	the farmers are old and is young
+311	156	expected	the farmers are old and are short
+312	156	unexpected	the farmers are old and is short
+313	157	expected	the farmers are young and laugh
+314	157	unexpected	the farmers are young and laughs
+315	158	expected	the farmers are young and swim
+316	158	unexpected	the farmers are young and swims
+317	159	expected	the farmers are young and smile
+318	159	unexpected	the farmers are young and smiles
+319	160	expected	the farmers are young and are tall
+320	160	unexpected	the farmers are young and is tall
+321	161	expected	the farmers are young and are old
+322	161	unexpected	the farmers are young and is old
+323	162	expected	the farmers are young and are short
+324	162	unexpected	the farmers are young and is short
+325	163	expected	the farmers are short and laugh
+326	163	unexpected	the farmers are short and laughs
+327	164	expected	the farmers are short and swim
+328	164	unexpected	the farmers are short and swims
+329	165	expected	the farmers are short and smile
+330	165	unexpected	the farmers are short and smiles
+331	166	expected	the farmers are short and are tall
+332	166	unexpected	the farmers are short and is tall
+333	167	expected	the farmers are short and are old
+334	167	unexpected	the farmers are short and is old
+335	168	expected	the farmers are short and are young
+336	168	unexpected	the farmers are short and is young
+337	169	expected	the managers laugh and swim
+338	169	unexpected	the managers laugh and swims
+339	170	expected	the managers laugh and smile
+340	170	unexpected	the managers laugh and smiles
+341	171	expected	the managers laugh and are tall
+342	171	unexpected	the managers laugh and is tall
+343	172	expected	the managers laugh and are old
+344	172	unexpected	the managers laugh and is old
+345	173	expected	the managers laugh and are young
+346	173	unexpected	the managers laugh and is young
+347	174	expected	the managers laugh and are short
+348	174	unexpected	the managers laugh and is short
+349	175	expected	the managers swim and laugh
+350	175	unexpected	the managers swim and laughs
+351	176	expected	the managers swim and smile
+352	176	unexpected	the managers swim and smiles
+353	177	expected	the managers swim and are tall
+354	177	unexpected	the managers swim and is tall
+355	178	expected	the managers swim and are old
+356	178	unexpected	the managers swim and is old
+357	179	expected	the managers swim and are young
+358	179	unexpected	the managers swim and is young
+359	180	expected	the managers swim and are short
+360	180	unexpected	the managers swim and is short
+361	181	expected	the managers smile and laugh
+362	181	unexpected	the managers smile and laughs
+363	182	expected	the managers smile and swim
+364	182	unexpected	the managers smile and swims
+365	183	expected	the managers smile and are tall
+366	183	unexpected	the managers smile and is tall
+367	184	expected	the managers smile and are old
+368	184	unexpected	the managers smile and is old
+369	185	expected	the managers smile and are young
+370	185	unexpected	the managers smile and is young
+371	186	expected	the managers smile and are short
+372	186	unexpected	the managers smile and is short
+373	187	expected	the managers are tall and laugh
+374	187	unexpected	the managers are tall and laughs
+375	188	expected	the managers are tall and swim
+376	188	unexpected	the managers are tall and swims
+377	189	expected	the managers are tall and smile
+378	189	unexpected	the managers are tall and smiles
+379	190	expected	the managers are tall and are old
+380	190	unexpected	the managers are tall and is old
+381	191	expected	the managers are tall and are young
+382	191	unexpected	the managers are tall and is young
+383	192	expected	the managers are tall and are short
+384	192	unexpected	the managers are tall and is short
+385	193	expected	the managers are old and laugh
+386	193	unexpected	the managers are old and laughs
+387	194	expected	the managers are old and swim
+388	194	unexpected	the managers are old and swims
+389	195	expected	the managers are old and smile
+390	195	unexpected	the managers are old and smiles
+391	196	expected	the managers are old and are tall
+392	196	unexpected	the managers are old and is tall
+393	197	expected	the managers are old and are young
+394	197	unexpected	the managers are old and is young
+395	198	expected	the managers are old and are short
+396	198	unexpected	the managers are old and is short
+397	199	expected	the managers are young and laugh
+398	199	unexpected	the managers are young and laughs
+399	200	expected	the managers are young and swim
+400	200	unexpected	the managers are young and swims
+401	201	expected	the managers are young and smile
+402	201	unexpected	the managers are young and smiles
+403	202	expected	the managers are young and are tall
+404	202	unexpected	the managers are young and is tall
+405	203	expected	the managers are young and are old
+406	203	unexpected	the managers are young and is old
+407	204	expected	the managers are young and are short
+408	204	unexpected	the managers are young and is short
+409	205	expected	the managers are short and laugh
+410	205	unexpected	the managers are short and laughs
+411	206	expected	the managers are short and swim
+412	206	unexpected	the managers are short and swims
+413	207	expected	the managers are short and smile
+414	207	unexpected	the managers are short and smiles
+415	208	expected	the managers are short and are tall
+416	208	unexpected	the managers are short and is tall
+417	209	expected	the managers are short and are old
+418	209	unexpected	the managers are short and is old
+419	210	expected	the managers are short and are young
+420	210	unexpected	the managers are short and is young
+421	211	expected	the customers laugh and swim
+422	211	unexpected	the customers laugh and swims
+423	212	expected	the customers laugh and smile
+424	212	unexpected	the customers laugh and smiles
+425	213	expected	the customers laugh and are tall
+426	213	unexpected	the customers laugh and is tall
+427	214	expected	the customers laugh and are old
+428	214	unexpected	the customers laugh and is old
+429	215	expected	the customers laugh and are young
+430	215	unexpected	the customers laugh and is young
+431	216	expected	the customers laugh and are short
+432	216	unexpected	the customers laugh and is short
+433	217	expected	the customers swim and laugh
+434	217	unexpected	the customers swim and laughs
+435	218	expected	the customers swim and smile
+436	218	unexpected	the customers swim and smiles
+437	219	expected	the customers swim and are tall
+438	219	unexpected	the customers swim and is tall
+439	220	expected	the customers swim and are old
+440	220	unexpected	the customers swim and is old
+441	221	expected	the customers swim and are young
+442	221	unexpected	the customers swim and is young
+443	222	expected	the customers swim and are short
+444	222	unexpected	the customers swim and is short
+445	223	expected	the customers smile and laugh
+446	223	unexpected	the customers smile and laughs
+447	224	expected	the customers smile and swim
+448	224	unexpected	the customers smile and swims
+449	225	expected	the customers smile and are tall
+450	225	unexpected	the customers smile and is tall
+451	226	expected	the customers smile and are old
+452	226	unexpected	the customers smile and is old
+453	227	expected	the customers smile and are young
+454	227	unexpected	the customers smile and is young
+455	228	expected	the customers smile and are short
+456	228	unexpected	the customers smile and is short
+457	229	expected	the customers are tall and laugh
+458	229	unexpected	the customers are tall and laughs
+459	230	expected	the customers are tall and swim
+460	230	unexpected	the customers are tall and swims
+461	231	expected	the customers are tall and smile
+462	231	unexpected	the customers are tall and smiles
+463	232	expected	the customers are tall and are old
+464	232	unexpected	the customers are tall and is old
+465	233	expected	the customers are tall and are young
+466	233	unexpected	the customers are tall and is young
+467	234	expected	the customers are tall and are short
+468	234	unexpected	the customers are tall and is short
+469	235	expected	the customers are old and laugh
+470	235	unexpected	the customers are old and laughs
+471	236	expected	the customers are old and swim
+472	236	unexpected	the customers are old and swims
+473	237	expected	the customers are old and smile
+474	237	unexpected	the customers are old and smiles
+475	238	expected	the customers are old and are tall
+476	238	unexpected	the customers are old and is tall
+477	239	expected	the customers are old and are young
+478	239	unexpected	the customers are old and is young
+479	240	expected	the customers are old and are short
+480	240	unexpected	the customers are old and is short
+481	241	expected	the customers are young and laugh
+482	241	unexpected	the customers are young and laughs
+483	242	expected	the customers are young and swim
+484	242	unexpected	the customers are young and swims
+485	243	expected	the customers are young and smile
+486	243	unexpected	the customers are young and smiles
+487	244	expected	the customers are young and are tall
+488	244	unexpected	the customers are young and is tall
+489	245	expected	the customers are young and are old
+490	245	unexpected	the customers are young and is old
+491	246	expected	the customers are young and are short
+492	246	unexpected	the customers are young and is short
+493	247	expected	the customers are short and laugh
+494	247	unexpected	the customers are short and laughs
+495	248	expected	the customers are short and swim
+496	248	unexpected	the customers are short and swims
+497	249	expected	the customers are short and smile
+498	249	unexpected	the customers are short and smiles
+499	250	expected	the customers are short and are tall
+500	250	unexpected	the customers are short and is tall
+501	251	expected	the customers are short and are old
+502	251	unexpected	the customers are short and is old
+503	252	expected	the customers are short and are young
+504	252	unexpected	the customers are short and is young
+505	253	expected	the officers laugh and swim
+506	253	unexpected	the officers laugh and swims
+507	254	expected	the officers laugh and smile
+508	254	unexpected	the officers laugh and smiles
+509	255	expected	the officers laugh and are tall
+510	255	unexpected	the officers laugh and is tall
+511	256	expected	the officers laugh and are old
+512	256	unexpected	the officers laugh and is old
+513	257	expected	the officers laugh and are young
+514	257	unexpected	the officers laugh and is young
+515	258	expected	the officers laugh and are short
+516	258	unexpected	the officers laugh and is short
+517	259	expected	the officers swim and laugh
+518	259	unexpected	the officers swim and laughs
+519	260	expected	the officers swim and smile
+520	260	unexpected	the officers swim and smiles
+521	261	expected	the officers swim and are tall
+522	261	unexpected	the officers swim and is tall
+523	262	expected	the officers swim and are old
+524	262	unexpected	the officers swim and is old
+525	263	expected	the officers swim and are young
+526	263	unexpected	the officers swim and is young
+527	264	expected	the officers swim and are short
+528	264	unexpected	the officers swim and is short
+529	265	expected	the officers smile and laugh
+530	265	unexpected	the officers smile and laughs
+531	266	expected	the officers smile and swim
+532	266	unexpected	the officers smile and swims
+533	267	expected	the officers smile and are tall
+534	267	unexpected	the officers smile and is tall
+535	268	expected	the officers smile and are old
+536	268	unexpected	the officers smile and is old
+537	269	expected	the officers smile and are young
+538	269	unexpected	the officers smile and is young
+539	270	expected	the officers smile and are short
+540	270	unexpected	the officers smile and is short
+541	271	expected	the officers are tall and laugh
+542	271	unexpected	the officers are tall and laughs
+543	272	expected	the officers are tall and swim
+544	272	unexpected	the officers are tall and swims
+545	273	expected	the officers are tall and smile
+546	273	unexpected	the officers are tall and smiles
+547	274	expected	the officers are tall and are old
+548	274	unexpected	the officers are tall and is old
+549	275	expected	the officers are tall and are young
+550	275	unexpected	the officers are tall and is young
+551	276	expected	the officers are tall and are short
+552	276	unexpected	the officers are tall and is short
+553	277	expected	the officers are old and laugh
+554	277	unexpected	the officers are old and laughs
+555	278	expected	the officers are old and swim
+556	278	unexpected	the officers are old and swims
+557	279	expected	the officers are old and smile
+558	279	unexpected	the officers are old and smiles
+559	280	expected	the officers are old and are tall
+560	280	unexpected	the officers are old and is tall
+561	281	expected	the officers are old and are young
+562	281	unexpected	the officers are old and is young
+563	282	expected	the officers are old and are short
+564	282	unexpected	the officers are old and is short
+565	283	expected	the officers are young and laugh
+566	283	unexpected	the officers are young and laughs
+567	284	expected	the officers are young and swim
+568	284	unexpected	the officers are young and swims
+569	285	expected	the officers are young and smile
+570	285	unexpected	the officers are young and smiles
+571	286	expected	the officers are young and are tall
+572	286	unexpected	the officers are young and is tall
+573	287	expected	the officers are young and are old
+574	287	unexpected	the officers are young and is old
+575	288	expected	the officers are young and are short
+576	288	unexpected	the officers are young and is short
+577	289	expected	the officers are short and laugh
+578	289	unexpected	the officers are short and laughs
+579	290	expected	the officers are short and swim
+580	290	unexpected	the officers are short and swims
+581	291	expected	the officers are short and smile
+582	291	unexpected	the officers are short and smiles
+583	292	expected	the officers are short and are tall
+584	292	unexpected	the officers are short and is tall
+585	293	expected	the officers are short and are old
+586	293	unexpected	the officers are short and is old
+587	294	expected	the officers are short and are young
+588	294	unexpected	the officers are short and is young
+589	295	expected	the teachers laugh and swim
+590	295	unexpected	the teachers laugh and swims
+591	296	expected	the teachers laugh and smile
+592	296	unexpected	the teachers laugh and smiles
+593	297	expected	the teachers laugh and are tall
+594	297	unexpected	the teachers laugh and is tall
+595	298	expected	the teachers laugh and are old
+596	298	unexpected	the teachers laugh and is old
+597	299	expected	the teachers laugh and are young
+598	299	unexpected	the teachers laugh and is young
+599	300	expected	the teachers laugh and are short
+600	300	unexpected	the teachers laugh and is short
+601	301	expected	the teachers swim and laugh
+602	301	unexpected	the teachers swim and laughs
+603	302	expected	the teachers swim and smile
+604	302	unexpected	the teachers swim and smiles
+605	303	expected	the teachers swim and are tall
+606	303	unexpected	the teachers swim and is tall
+607	304	expected	the teachers swim and are old
+608	304	unexpected	the teachers swim and is old
+609	305	expected	the teachers swim and are young
+610	305	unexpected	the teachers swim and is young
+611	306	expected	the teachers swim and are short
+612	306	unexpected	the teachers swim and is short
+613	307	expected	the teachers smile and laugh
+614	307	unexpected	the teachers smile and laughs
+615	308	expected	the teachers smile and swim
+616	308	unexpected	the teachers smile and swims
+617	309	expected	the teachers smile and are tall
+618	309	unexpected	the teachers smile and is tall
+619	310	expected	the teachers smile and are old
+620	310	unexpected	the teachers smile and is old
+621	311	expected	the teachers smile and are young
+622	311	unexpected	the teachers smile and is young
+623	312	expected	the teachers smile and are short
+624	312	unexpected	the teachers smile and is short
+625	313	expected	the teachers are tall and laugh
+626	313	unexpected	the teachers are tall and laughs
+627	314	expected	the teachers are tall and swim
+628	314	unexpected	the teachers are tall and swims
+629	315	expected	the teachers are tall and smile
+630	315	unexpected	the teachers are tall and smiles
+631	316	expected	the teachers are tall and are old
+632	316	unexpected	the teachers are tall and is old
+633	317	expected	the teachers are tall and are young
+634	317	unexpected	the teachers are tall and is young
+635	318	expected	the teachers are tall and are short
+636	318	unexpected	the teachers are tall and is short
+637	319	expected	the teachers are old and laugh
+638	319	unexpected	the teachers are old and laughs
+639	320	expected	the teachers are old and swim
+640	320	unexpected	the teachers are old and swims
+641	321	expected	the teachers are old and smile
+642	321	unexpected	the teachers are old and smiles
+643	322	expected	the teachers are old and are tall
+644	322	unexpected	the teachers are old and is tall
+645	323	expected	the teachers are old and are young
+646	323	unexpected	the teachers are old and is young
+647	324	expected	the teachers are old and are short
+648	324	unexpected	the teachers are old and is short
+649	325	expected	the teachers are young and laugh
+650	325	unexpected	the teachers are young and laughs
+651	326	expected	the teachers are young and swim
+652	326	unexpected	the teachers are young and swims
+653	327	expected	the teachers are young and smile
+654	327	unexpected	the teachers are young and smiles
+655	328	expected	the teachers are young and are tall
+656	328	unexpected	the teachers are young and is tall
+657	329	expected	the teachers are young and are old
+658	329	unexpected	the teachers are young and is old
+659	330	expected	the teachers are young and are short
+660	330	unexpected	the teachers are young and is short
+661	331	expected	the teachers are short and laugh
+662	331	unexpected	the teachers are short and laughs
+663	332	expected	the teachers are short and swim
+664	332	unexpected	the teachers are short and swims
+665	333	expected	the teachers are short and smile
+666	333	unexpected	the teachers are short and smiles
+667	334	expected	the teachers are short and are tall
+668	334	unexpected	the teachers are short and is tall
+669	335	expected	the teachers are short and are old
+670	335	unexpected	the teachers are short and is old
+671	336	expected	the teachers are short and are young
+672	336	unexpected	the teachers are short and is young
+673	337	expected	the senators laugh and swim
+674	337	unexpected	the senators laugh and swims
+675	338	expected	the senators laugh and smile
+676	338	unexpected	the senators laugh and smiles
+677	339	expected	the senators laugh and are tall
+678	339	unexpected	the senators laugh and is tall
+679	340	expected	the senators laugh and are old
+680	340	unexpected	the senators laugh and is old
+681	341	expected	the senators laugh and are young
+682	341	unexpected	the senators laugh and is young
+683	342	expected	the senators laugh and are short
+684	342	unexpected	the senators laugh and is short
+685	343	expected	the senators swim and laugh
+686	343	unexpected	the senators swim and laughs
+687	344	expected	the senators swim and smile
+688	344	unexpected	the senators swim and smiles
+689	345	expected	the senators swim and are tall
+690	345	unexpected	the senators swim and is tall
+691	346	expected	the senators swim and are old
+692	346	unexpected	the senators swim and is old
+693	347	expected	the senators swim and are young
+694	347	unexpected	the senators swim and is young
+695	348	expected	the senators swim and are short
+696	348	unexpected	the senators swim and is short
+697	349	expected	the senators smile and laugh
+698	349	unexpected	the senators smile and laughs
+699	350	expected	the senators smile and swim
+700	350	unexpected	the senators smile and swims
+701	351	expected	the senators smile and are tall
+702	351	unexpected	the senators smile and is tall
+703	352	expected	the senators smile and are old
+704	352	unexpected	the senators smile and is old
+705	353	expected	the senators smile and are young
+706	353	unexpected	the senators smile and is young
+707	354	expected	the senators smile and are short
+708	354	unexpected	the senators smile and is short
+709	355	expected	the senators are tall and laugh
+710	355	unexpected	the senators are tall and laughs
+711	356	expected	the senators are tall and swim
+712	356	unexpected	the senators are tall and swims
+713	357	expected	the senators are tall and smile
+714	357	unexpected	the senators are tall and smiles
+715	358	expected	the senators are tall and are old
+716	358	unexpected	the senators are tall and is old
+717	359	expected	the senators are tall and are young
+718	359	unexpected	the senators are tall and is young
+719	360	expected	the senators are tall and are short
+720	360	unexpected	the senators are tall and is short
+721	361	expected	the senators are old and laugh
+722	361	unexpected	the senators are old and laughs
+723	362	expected	the senators are old and swim
+724	362	unexpected	the senators are old and swims
+725	363	expected	the senators are old and smile
+726	363	unexpected	the senators are old and smiles
+727	364	expected	the senators are old and are tall
+728	364	unexpected	the senators are old and is tall
+729	365	expected	the senators are old and are young
+730	365	unexpected	the senators are old and is young
+731	366	expected	the senators are old and are short
+732	366	unexpected	the senators are old and is short
+733	367	expected	the senators are young and laugh
+734	367	unexpected	the senators are young and laughs
+735	368	expected	the senators are young and swim
+736	368	unexpected	the senators are young and swims
+737	369	expected	the senators are young and smile
+738	369	unexpected	the senators are young and smiles
+739	370	expected	the senators are young and are tall
+740	370	unexpected	the senators are young and is tall
+741	371	expected	the senators are young and are old
+742	371	unexpected	the senators are young and is old
+743	372	expected	the senators are young and are short
+744	372	unexpected	the senators are young and is short
+745	373	expected	the senators are short and laugh
+746	373	unexpected	the senators are short and laughs
+747	374	expected	the senators are short and swim
+748	374	unexpected	the senators are short and swims
+749	375	expected	the senators are short and smile
+750	375	unexpected	the senators are short and smiles
+751	376	expected	the senators are short and are tall
+752	376	unexpected	the senators are short and is tall
+753	377	expected	the senators are short and are old
+754	377	unexpected	the senators are short and is old
+755	378	expected	the senators are short and are young
+756	378	unexpected	the senators are short and is young
+757	379	expected	the consultants laugh and swim
+758	379	unexpected	the consultants laugh and swims
+759	380	expected	the consultants laugh and smile
+760	380	unexpected	the consultants laugh and smiles
+761	381	expected	the consultants laugh and are tall
+762	381	unexpected	the consultants laugh and is tall
+763	382	expected	the consultants laugh and are old
+764	382	unexpected	the consultants laugh and is old
+765	383	expected	the consultants laugh and are young
+766	383	unexpected	the consultants laugh and is young
+767	384	expected	the consultants laugh and are short
+768	384	unexpected	the consultants laugh and is short
+769	385	expected	the consultants swim and laugh
+770	385	unexpected	the consultants swim and laughs
+771	386	expected	the consultants swim and smile
+772	386	unexpected	the consultants swim and smiles
+773	387	expected	the consultants swim and are tall
+774	387	unexpected	the consultants swim and is tall
+775	388	expected	the consultants swim and are old
+776	388	unexpected	the consultants swim and is old
+777	389	expected	the consultants swim and are young
+778	389	unexpected	the consultants swim and is young
+779	390	expected	the consultants swim and are short
+780	390	unexpected	the consultants swim and is short
+781	391	expected	the consultants smile and laugh
+782	391	unexpected	the consultants smile and laughs
+783	392	expected	the consultants smile and swim
+784	392	unexpected	the consultants smile and swims
+785	393	expected	the consultants smile and are tall
+786	393	unexpected	the consultants smile and is tall
+787	394	expected	the consultants smile and are old
+788	394	unexpected	the consultants smile and is old
+789	395	expected	the consultants smile and are young
+790	395	unexpected	the consultants smile and is young
+791	396	expected	the consultants smile and are short
+792	396	unexpected	the consultants smile and is short
+793	397	expected	the consultants are tall and laugh
+794	397	unexpected	the consultants are tall and laughs
+795	398	expected	the consultants are tall and swim
+796	398	unexpected	the consultants are tall and swims
+797	399	expected	the consultants are tall and smile
+798	399	unexpected	the consultants are tall and smiles
+799	400	expected	the consultants are tall and are old
+800	400	unexpected	the consultants are tall and is old
+801	401	expected	the consultants are tall and are young
+802	401	unexpected	the consultants are tall and is young
+803	402	expected	the consultants are tall and are short
+804	402	unexpected	the consultants are tall and is short
+805	403	expected	the consultants are old and laugh
+806	403	unexpected	the consultants are old and laughs
+807	404	expected	the consultants are old and swim
+808	404	unexpected	the consultants are old and swims
+809	405	expected	the consultants are old and smile
+810	405	unexpected	the consultants are old and smiles
+811	406	expected	the consultants are old and are tall
+812	406	unexpected	the consultants are old and is tall
+813	407	expected	the consultants are old and are young
+814	407	unexpected	the consultants are old and is young
+815	408	expected	the consultants are old and are short
+816	408	unexpected	the consultants are old and is short
+817	409	expected	the consultants are young and laugh
+818	409	unexpected	the consultants are young and laughs
+819	410	expected	the consultants are young and swim
+820	410	unexpected	the consultants are young and swims
+821	411	expected	the consultants are young and smile
+822	411	unexpected	the consultants are young and smiles
+823	412	expected	the consultants are young and are tall
+824	412	unexpected	the consultants are young and is tall
+825	413	expected	the consultants are young and are old
+826	413	unexpected	the consultants are young and is old
+827	414	expected	the consultants are young and are short
+828	414	unexpected	the consultants are young and is short
+829	415	expected	the consultants are short and laugh
+830	415	unexpected	the consultants are short and laughs
+831	416	expected	the consultants are short and swim
+832	416	unexpected	the consultants are short and swims
+833	417	expected	the consultants are short and smile
+834	417	unexpected	the consultants are short and smiles
+835	418	expected	the consultants are short and are tall
+836	418	unexpected	the consultants are short and is tall
+837	419	expected	the consultants are short and are old
+838	419	unexpected	the consultants are short and is old
+839	420	expected	the consultants are short and are young
+840	420	unexpected	the consultants are short and is young
+841	421	expected	the author laughs and swims
+842	421	unexpected	the author laughs and swim
+843	422	expected	the author laughs and smiles
+844	422	unexpected	the author laughs and smile
+845	423	expected	the author laughs and is tall
+846	423	unexpected	the author laughs and are tall
+847	424	expected	the author laughs and is old
+848	424	unexpected	the author laughs and are old
+849	425	expected	the author laughs and is young
+850	425	unexpected	the author laughs and are young
+851	426	expected	the author laughs and is short
+852	426	unexpected	the author laughs and are short
+853	427	expected	the author swims and laughs
+854	427	unexpected	the author swims and laugh
+855	428	expected	the author swims and smiles
+856	428	unexpected	the author swims and smile
+857	429	expected	the author swims and is tall
+858	429	unexpected	the author swims and are tall
+859	430	expected	the author swims and is old
+860	430	unexpected	the author swims and are old
+861	431	expected	the author swims and is young
+862	431	unexpected	the author swims and are young
+863	432	expected	the author swims and is short
+864	432	unexpected	the author swims and are short
+865	433	expected	the author smiles and laughs
+866	433	unexpected	the author smiles and laugh
+867	434	expected	the author smiles and swims
+868	434	unexpected	the author smiles and swim
+869	435	expected	the author smiles and is tall
+870	435	unexpected	the author smiles and are tall
+871	436	expected	the author smiles and is old
+872	436	unexpected	the author smiles and are old
+873	437	expected	the author smiles and is young
+874	437	unexpected	the author smiles and are young
+875	438	expected	the author smiles and is short
+876	438	unexpected	the author smiles and are short
+877	439	expected	the author is tall and laughs
+878	439	unexpected	the author is tall and laugh
+879	440	expected	the author is tall and swims
+880	440	unexpected	the author is tall and swim
+881	441	expected	the author is tall and smiles
+882	441	unexpected	the author is tall and smile
+883	442	expected	the author is tall and is old
+884	442	unexpected	the author is tall and are old
+885	443	expected	the author is tall and is young
+886	443	unexpected	the author is tall and are young
+887	444	expected	the author is tall and is short
+888	444	unexpected	the author is tall and are short
+889	445	expected	the author is old and laughs
+890	445	unexpected	the author is old and laugh
+891	446	expected	the author is old and swims
+892	446	unexpected	the author is old and swim
+893	447	expected	the author is old and smiles
+894	447	unexpected	the author is old and smile
+895	448	expected	the author is old and is tall
+896	448	unexpected	the author is old and are tall
+897	449	expected	the author is old and is young
+898	449	unexpected	the author is old and are young
+899	450	expected	the author is old and is short
+900	450	unexpected	the author is old and are short
+901	451	expected	the author is young and laughs
+902	451	unexpected	the author is young and laugh
+903	452	expected	the author is young and swims
+904	452	unexpected	the author is young and swim
+905	453	expected	the author is young and smiles
+906	453	unexpected	the author is young and smile
+907	454	expected	the author is young and is tall
+908	454	unexpected	the author is young and are tall
+909	455	expected	the author is young and is old
+910	455	unexpected	the author is young and are old
+911	456	expected	the author is young and is short
+912	456	unexpected	the author is young and are short
+913	457	expected	the author is short and laughs
+914	457	unexpected	the author is short and laugh
+915	458	expected	the author is short and swims
+916	458	unexpected	the author is short and swim
+917	459	expected	the author is short and smiles
+918	459	unexpected	the author is short and smile
+919	460	expected	the author is short and is tall
+920	460	unexpected	the author is short and are tall
+921	461	expected	the author is short and is old
+922	461	unexpected	the author is short and are old
+923	462	expected	the author is short and is young
+924	462	unexpected	the author is short and are young
+925	463	expected	the pilot laughs and swims
+926	463	unexpected	the pilot laughs and swim
+927	464	expected	the pilot laughs and smiles
+928	464	unexpected	the pilot laughs and smile
+929	465	expected	the pilot laughs and is tall
+930	465	unexpected	the pilot laughs and are tall
+931	466	expected	the pilot laughs and is old
+932	466	unexpected	the pilot laughs and are old
+933	467	expected	the pilot laughs and is young
+934	467	unexpected	the pilot laughs and are young
+935	468	expected	the pilot laughs and is short
+936	468	unexpected	the pilot laughs and are short
+937	469	expected	the pilot swims and laughs
+938	469	unexpected	the pilot swims and laugh
+939	470	expected	the pilot swims and smiles
+940	470	unexpected	the pilot swims and smile
+941	471	expected	the pilot swims and is tall
+942	471	unexpected	the pilot swims and are tall
+943	472	expected	the pilot swims and is old
+944	472	unexpected	the pilot swims and are old
+945	473	expected	the pilot swims and is young
+946	473	unexpected	the pilot swims and are young
+947	474	expected	the pilot swims and is short
+948	474	unexpected	the pilot swims and are short
+949	475	expected	the pilot smiles and laughs
+950	475	unexpected	the pilot smiles and laugh
+951	476	expected	the pilot smiles and swims
+952	476	unexpected	the pilot smiles and swim
+953	477	expected	the pilot smiles and is tall
+954	477	unexpected	the pilot smiles and are tall
+955	478	expected	the pilot smiles and is old
+956	478	unexpected	the pilot smiles and are old
+957	479	expected	the pilot smiles and is young
+958	479	unexpected	the pilot smiles and are young
+959	480	expected	the pilot smiles and is short
+960	480	unexpected	the pilot smiles and are short
+961	481	expected	the pilot is tall and laughs
+962	481	unexpected	the pilot is tall and laugh
+963	482	expected	the pilot is tall and swims
+964	482	unexpected	the pilot is tall and swim
+965	483	expected	the pilot is tall and smiles
+966	483	unexpected	the pilot is tall and smile
+967	484	expected	the pilot is tall and is old
+968	484	unexpected	the pilot is tall and are old
+969	485	expected	the pilot is tall and is young
+970	485	unexpected	the pilot is tall and are young
+971	486	expected	the pilot is tall and is short
+972	486	unexpected	the pilot is tall and are short
+973	487	expected	the pilot is old and laughs
+974	487	unexpected	the pilot is old and laugh
+975	488	expected	the pilot is old and swims
+976	488	unexpected	the pilot is old and swim
+977	489	expected	the pilot is old and smiles
+978	489	unexpected	the pilot is old and smile
+979	490	expected	the pilot is old and is tall
+980	490	unexpected	the pilot is old and are tall
+981	491	expected	the pilot is old and is young
+982	491	unexpected	the pilot is old and are young
+983	492	expected	the pilot is old and is short
+984	492	unexpected	the pilot is old and are short
+985	493	expected	the pilot is young and laughs
+986	493	unexpected	the pilot is young and laugh
+987	494	expected	the pilot is young and swims
+988	494	unexpected	the pilot is young and swim
+989	495	expected	the pilot is young and smiles
+990	495	unexpected	the pilot is young and smile
+991	496	expected	the pilot is young and is tall
+992	496	unexpected	the pilot is young and are tall
+993	497	expected	the pilot is young and is old
+994	497	unexpected	the pilot is young and are old
+995	498	expected	the pilot is young and is short
+996	498	unexpected	the pilot is young and are short
+997	499	expected	the pilot is short and laughs
+998	499	unexpected	the pilot is short and laugh
+999	500	expected	the pilot is short and swims
+1000	500	unexpected	the pilot is short and swim
+1001	501	expected	the pilot is short and smiles
+1002	501	unexpected	the pilot is short and smile
+1003	502	expected	the pilot is short and is tall
+1004	502	unexpected	the pilot is short and are tall
+1005	503	expected	the pilot is short and is old
+1006	503	unexpected	the pilot is short and are old
+1007	504	expected	the pilot is short and is young
+1008	504	unexpected	the pilot is short and are young
+1009	505	expected	the surgeon laughs and swims
+1010	505	unexpected	the surgeon laughs and swim
+1011	506	expected	the surgeon laughs and smiles
+1012	506	unexpected	the surgeon laughs and smile
+1013	507	expected	the surgeon laughs and is tall
+1014	507	unexpected	the surgeon laughs and are tall
+1015	508	expected	the surgeon laughs and is old
+1016	508	unexpected	the surgeon laughs and are old
+1017	509	expected	the surgeon laughs and is young
+1018	509	unexpected	the surgeon laughs and are young
+1019	510	expected	the surgeon laughs and is short
+1020	510	unexpected	the surgeon laughs and are short
+1021	511	expected	the surgeon swims and laughs
+1022	511	unexpected	the surgeon swims and laugh
+1023	512	expected	the surgeon swims and smiles
+1024	512	unexpected	the surgeon swims and smile
+1025	513	expected	the surgeon swims and is tall
+1026	513	unexpected	the surgeon swims and are tall
+1027	514	expected	the surgeon swims and is old
+1028	514	unexpected	the surgeon swims and are old
+1029	515	expected	the surgeon swims and is young
+1030	515	unexpected	the surgeon swims and are young
+1031	516	expected	the surgeon swims and is short
+1032	516	unexpected	the surgeon swims and are short
+1033	517	expected	the surgeon smiles and laughs
+1034	517	unexpected	the surgeon smiles and laugh
+1035	518	expected	the surgeon smiles and swims
+1036	518	unexpected	the surgeon smiles and swim
+1037	519	expected	the surgeon smiles and is tall
+1038	519	unexpected	the surgeon smiles and are tall
+1039	520	expected	the surgeon smiles and is old
+1040	520	unexpected	the surgeon smiles and are old
+1041	521	expected	the surgeon smiles and is young
+1042	521	unexpected	the surgeon smiles and are young
+1043	522	expected	the surgeon smiles and is short
+1044	522	unexpected	the surgeon smiles and are short
+1045	523	expected	the surgeon is tall and laughs
+1046	523	unexpected	the surgeon is tall and laugh
+1047	524	expected	the surgeon is tall and swims
+1048	524	unexpected	the surgeon is tall and swim
+1049	525	expected	the surgeon is tall and smiles
+1050	525	unexpected	the surgeon is tall and smile
+1051	526	expected	the surgeon is tall and is old
+1052	526	unexpected	the surgeon is tall and are old
+1053	527	expected	the surgeon is tall and is young
+1054	527	unexpected	the surgeon is tall and are young
+1055	528	expected	the surgeon is tall and is short
+1056	528	unexpected	the surgeon is tall and are short
+1057	529	expected	the surgeon is old and laughs
+1058	529	unexpected	the surgeon is old and laugh
+1059	530	expected	the surgeon is old and swims
+1060	530	unexpected	the surgeon is old and swim
+1061	531	expected	the surgeon is old and smiles
+1062	531	unexpected	the surgeon is old and smile
+1063	532	expected	the surgeon is old and is tall
+1064	532	unexpected	the surgeon is old and are tall
+1065	533	expected	the surgeon is old and is young
+1066	533	unexpected	the surgeon is old and are young
+1067	534	expected	the surgeon is old and is short
+1068	534	unexpected	the surgeon is old and are short
+1069	535	expected	the surgeon is young and laughs
+1070	535	unexpected	the surgeon is young and laugh
+1071	536	expected	the surgeon is young and swims
+1072	536	unexpected	the surgeon is young and swim
+1073	537	expected	the surgeon is young and smiles
+1074	537	unexpected	the surgeon is young and smile
+1075	538	expected	the surgeon is young and is tall
+1076	538	unexpected	the surgeon is young and are tall
+1077	539	expected	the surgeon is young and is old
+1078	539	unexpected	the surgeon is young and are old
+1079	540	expected	the surgeon is young and is short
+1080	540	unexpected	the surgeon is young and are short
+1081	541	expected	the surgeon is short and laughs
+1082	541	unexpected	the surgeon is short and laugh
+1083	542	expected	the surgeon is short and swims
+1084	542	unexpected	the surgeon is short and swim
+1085	543	expected	the surgeon is short and smiles
+1086	543	unexpected	the surgeon is short and smile
+1087	544	expected	the surgeon is short and is tall
+1088	544	unexpected	the surgeon is short and are tall
+1089	545	expected	the surgeon is short and is old
+1090	545	unexpected	the surgeon is short and are old
+1091	546	expected	the surgeon is short and is young
+1092	546	unexpected	the surgeon is short and are young
+1093	547	expected	the farmer laughs and swims
+1094	547	unexpected	the farmer laughs and swim
+1095	548	expected	the farmer laughs and smiles
+1096	548	unexpected	the farmer laughs and smile
+1097	549	expected	the farmer laughs and is tall
+1098	549	unexpected	the farmer laughs and are tall
+1099	550	expected	the farmer laughs and is old
+1100	550	unexpected	the farmer laughs and are old
+1101	551	expected	the farmer laughs and is young
+1102	551	unexpected	the farmer laughs and are young
+1103	552	expected	the farmer laughs and is short
+1104	552	unexpected	the farmer laughs and are short
+1105	553	expected	the farmer swims and laughs
+1106	553	unexpected	the farmer swims and laugh
+1107	554	expected	the farmer swims and smiles
+1108	554	unexpected	the farmer swims and smile
+1109	555	expected	the farmer swims and is tall
+1110	555	unexpected	the farmer swims and are tall
+1111	556	expected	the farmer swims and is old
+1112	556	unexpected	the farmer swims and are old
+1113	557	expected	the farmer swims and is young
+1114	557	unexpected	the farmer swims and are young
+1115	558	expected	the farmer swims and is short
+1116	558	unexpected	the farmer swims and are short
+1117	559	expected	the farmer smiles and laughs
+1118	559	unexpected	the farmer smiles and laugh
+1119	560	expected	the farmer smiles and swims
+1120	560	unexpected	the farmer smiles and swim
+1121	561	expected	the farmer smiles and is tall
+1122	561	unexpected	the farmer smiles and are tall
+1123	562	expected	the farmer smiles and is old
+1124	562	unexpected	the farmer smiles and are old
+1125	563	expected	the farmer smiles and is young
+1126	563	unexpected	the farmer smiles and are young
+1127	564	expected	the farmer smiles and is short
+1128	564	unexpected	the farmer smiles and are short
+1129	565	expected	the farmer is tall and laughs
+1130	565	unexpected	the farmer is tall and laugh
+1131	566	expected	the farmer is tall and swims
+1132	566	unexpected	the farmer is tall and swim
+1133	567	expected	the farmer is tall and smiles
+1134	567	unexpected	the farmer is tall and smile
+1135	568	expected	the farmer is tall and is old
+1136	568	unexpected	the farmer is tall and are old
+1137	569	expected	the farmer is tall and is young
+1138	569	unexpected	the farmer is tall and are young
+1139	570	expected	the farmer is tall and is short
+1140	570	unexpected	the farmer is tall and are short
+1141	571	expected	the farmer is old and laughs
+1142	571	unexpected	the farmer is old and laugh
+1143	572	expected	the farmer is old and swims
+1144	572	unexpected	the farmer is old and swim
+1145	573	expected	the farmer is old and smiles
+1146	573	unexpected	the farmer is old and smile
+1147	574	expected	the farmer is old and is tall
+1148	574	unexpected	the farmer is old and are tall
+1149	575	expected	the farmer is old and is young
+1150	575	unexpected	the farmer is old and are young
+1151	576	expected	the farmer is old and is short
+1152	576	unexpected	the farmer is old and are short
+1153	577	expected	the farmer is young and laughs
+1154	577	unexpected	the farmer is young and laugh
+1155	578	expected	the farmer is young and swims
+1156	578	unexpected	the farmer is young and swim
+1157	579	expected	the farmer is young and smiles
+1158	579	unexpected	the farmer is young and smile
+1159	580	expected	the farmer is young and is tall
+1160	580	unexpected	the farmer is young and are tall
+1161	581	expected	the farmer is young and is old
+1162	581	unexpected	the farmer is young and are old
+1163	582	expected	the farmer is young and is short
+1164	582	unexpected	the farmer is young and are short
+1165	583	expected	the farmer is short and laughs
+1166	583	unexpected	the farmer is short and laugh
+1167	584	expected	the farmer is short and swims
+1168	584	unexpected	the farmer is short and swim
+1169	585	expected	the farmer is short and smiles
+1170	585	unexpected	the farmer is short and smile
+1171	586	expected	the farmer is short and is tall
+1172	586	unexpected	the farmer is short and are tall
+1173	587	expected	the farmer is short and is old
+1174	587	unexpected	the farmer is short and are old
+1175	588	expected	the farmer is short and is young
+1176	588	unexpected	the farmer is short and are young
+1177	589	expected	the manager laughs and swims
+1178	589	unexpected	the manager laughs and swim
+1179	590	expected	the manager laughs and smiles
+1180	590	unexpected	the manager laughs and smile
+1181	591	expected	the manager laughs and is tall
+1182	591	unexpected	the manager laughs and are tall
+1183	592	expected	the manager laughs and is old
+1184	592	unexpected	the manager laughs and are old
+1185	593	expected	the manager laughs and is young
+1186	593	unexpected	the manager laughs and are young
+1187	594	expected	the manager laughs and is short
+1188	594	unexpected	the manager laughs and are short
+1189	595	expected	the manager swims and laughs
+1190	595	unexpected	the manager swims and laugh
+1191	596	expected	the manager swims and smiles
+1192	596	unexpected	the manager swims and smile
+1193	597	expected	the manager swims and is tall
+1194	597	unexpected	the manager swims and are tall
+1195	598	expected	the manager swims and is old
+1196	598	unexpected	the manager swims and are old
+1197	599	expected	the manager swims and is young
+1198	599	unexpected	the manager swims and are young
+1199	600	expected	the manager swims and is short
+1200	600	unexpected	the manager swims and are short
+1201	601	expected	the manager smiles and laughs
+1202	601	unexpected	the manager smiles and laugh
+1203	602	expected	the manager smiles and swims
+1204	602	unexpected	the manager smiles and swim
+1205	603	expected	the manager smiles and is tall
+1206	603	unexpected	the manager smiles and are tall
+1207	604	expected	the manager smiles and is old
+1208	604	unexpected	the manager smiles and are old
+1209	605	expected	the manager smiles and is young
+1210	605	unexpected	the manager smiles and are young
+1211	606	expected	the manager smiles and is short
+1212	606	unexpected	the manager smiles and are short
+1213	607	expected	the manager is tall and laughs
+1214	607	unexpected	the manager is tall and laugh
+1215	608	expected	the manager is tall and swims
+1216	608	unexpected	the manager is tall and swim
+1217	609	expected	the manager is tall and smiles
+1218	609	unexpected	the manager is tall and smile
+1219	610	expected	the manager is tall and is old
+1220	610	unexpected	the manager is tall and are old
+1221	611	expected	the manager is tall and is young
+1222	611	unexpected	the manager is tall and are young
+1223	612	expected	the manager is tall and is short
+1224	612	unexpected	the manager is tall and are short
+1225	613	expected	the manager is old and laughs
+1226	613	unexpected	the manager is old and laugh
+1227	614	expected	the manager is old and swims
+1228	614	unexpected	the manager is old and swim
+1229	615	expected	the manager is old and smiles
+1230	615	unexpected	the manager is old and smile
+1231	616	expected	the manager is old and is tall
+1232	616	unexpected	the manager is old and are tall
+1233	617	expected	the manager is old and is young
+1234	617	unexpected	the manager is old and are young
+1235	618	expected	the manager is old and is short
+1236	618	unexpected	the manager is old and are short
+1237	619	expected	the manager is young and laughs
+1238	619	unexpected	the manager is young and laugh
+1239	620	expected	the manager is young and swims
+1240	620	unexpected	the manager is young and swim
+1241	621	expected	the manager is young and smiles
+1242	621	unexpected	the manager is young and smile
+1243	622	expected	the manager is young and is tall
+1244	622	unexpected	the manager is young and are tall
+1245	623	expected	the manager is young and is old
+1246	623	unexpected	the manager is young and are old
+1247	624	expected	the manager is young and is short
+1248	624	unexpected	the manager is young and are short
+1249	625	expected	the manager is short and laughs
+1250	625	unexpected	the manager is short and laugh
+1251	626	expected	the manager is short and swims
+1252	626	unexpected	the manager is short and swim
+1253	627	expected	the manager is short and smiles
+1254	627	unexpected	the manager is short and smile
+1255	628	expected	the manager is short and is tall
+1256	628	unexpected	the manager is short and are tall
+1257	629	expected	the manager is short and is old
+1258	629	unexpected	the manager is short and are old
+1259	630	expected	the manager is short and is young
+1260	630	unexpected	the manager is short and are young
+1261	631	expected	the customer laughs and swims
+1262	631	unexpected	the customer laughs and swim
+1263	632	expected	the customer laughs and smiles
+1264	632	unexpected	the customer laughs and smile
+1265	633	expected	the customer laughs and is tall
+1266	633	unexpected	the customer laughs and are tall
+1267	634	expected	the customer laughs and is old
+1268	634	unexpected	the customer laughs and are old
+1269	635	expected	the customer laughs and is young
+1270	635	unexpected	the customer laughs and are young
+1271	636	expected	the customer laughs and is short
+1272	636	unexpected	the customer laughs and are short
+1273	637	expected	the customer swims and laughs
+1274	637	unexpected	the customer swims and laugh
+1275	638	expected	the customer swims and smiles
+1276	638	unexpected	the customer swims and smile
+1277	639	expected	the customer swims and is tall
+1278	639	unexpected	the customer swims and are tall
+1279	640	expected	the customer swims and is old
+1280	640	unexpected	the customer swims and are old
+1281	641	expected	the customer swims and is young
+1282	641	unexpected	the customer swims and are young
+1283	642	expected	the customer swims and is short
+1284	642	unexpected	the customer swims and are short
+1285	643	expected	the customer smiles and laughs
+1286	643	unexpected	the customer smiles and laugh
+1287	644	expected	the customer smiles and swims
+1288	644	unexpected	the customer smiles and swim
+1289	645	expected	the customer smiles and is tall
+1290	645	unexpected	the customer smiles and are tall
+1291	646	expected	the customer smiles and is old
+1292	646	unexpected	the customer smiles and are old
+1293	647	expected	the customer smiles and is young
+1294	647	unexpected	the customer smiles and are young
+1295	648	expected	the customer smiles and is short
+1296	648	unexpected	the customer smiles and are short
+1297	649	expected	the customer is tall and laughs
+1298	649	unexpected	the customer is tall and laugh
+1299	650	expected	the customer is tall and swims
+1300	650	unexpected	the customer is tall and swim
+1301	651	expected	the customer is tall and smiles
+1302	651	unexpected	the customer is tall and smile
+1303	652	expected	the customer is tall and is old
+1304	652	unexpected	the customer is tall and are old
+1305	653	expected	the customer is tall and is young
+1306	653	unexpected	the customer is tall and are young
+1307	654	expected	the customer is tall and is short
+1308	654	unexpected	the customer is tall and are short
+1309	655	expected	the customer is old and laughs
+1310	655	unexpected	the customer is old and laugh
+1311	656	expected	the customer is old and swims
+1312	656	unexpected	the customer is old and swim
+1313	657	expected	the customer is old and smiles
+1314	657	unexpected	the customer is old and smile
+1315	658	expected	the customer is old and is tall
+1316	658	unexpected	the customer is old and are tall
+1317	659	expected	the customer is old and is young
+1318	659	unexpected	the customer is old and are young
+1319	660	expected	the customer is old and is short
+1320	660	unexpected	the customer is old and are short
+1321	661	expected	the customer is young and laughs
+1322	661	unexpected	the customer is young and laugh
+1323	662	expected	the customer is young and swims
+1324	662	unexpected	the customer is young and swim
+1325	663	expected	the customer is young and smiles
+1326	663	unexpected	the customer is young and smile
+1327	664	expected	the customer is young and is tall
+1328	664	unexpected	the customer is young and are tall
+1329	665	expected	the customer is young and is old
+1330	665	unexpected	the customer is young and are old
+1331	666	expected	the customer is young and is short
+1332	666	unexpected	the customer is young and are short
+1333	667	expected	the customer is short and laughs
+1334	667	unexpected	the customer is short and laugh
+1335	668	expected	the customer is short and swims
+1336	668	unexpected	the customer is short and swim
+1337	669	expected	the customer is short and smiles
+1338	669	unexpected	the customer is short and smile
+1339	670	expected	the customer is short and is tall
+1340	670	unexpected	the customer is short and are tall
+1341	671	expected	the customer is short and is old
+1342	671	unexpected	the customer is short and are old
+1343	672	expected	the customer is short and is young
+1344	672	unexpected	the customer is short and are young
+1345	673	expected	the officer laughs and swims
+1346	673	unexpected	the officer laughs and swim
+1347	674	expected	the officer laughs and smiles
+1348	674	unexpected	the officer laughs and smile
+1349	675	expected	the officer laughs and is tall
+1350	675	unexpected	the officer laughs and are tall
+1351	676	expected	the officer laughs and is old
+1352	676	unexpected	the officer laughs and are old
+1353	677	expected	the officer laughs and is young
+1354	677	unexpected	the officer laughs and are young
+1355	678	expected	the officer laughs and is short
+1356	678	unexpected	the officer laughs and are short
+1357	679	expected	the officer swims and laughs
+1358	679	unexpected	the officer swims and laugh
+1359	680	expected	the officer swims and smiles
+1360	680	unexpected	the officer swims and smile
+1361	681	expected	the officer swims and is tall
+1362	681	unexpected	the officer swims and are tall
+1363	682	expected	the officer swims and is old
+1364	682	unexpected	the officer swims and are old
+1365	683	expected	the officer swims and is young
+1366	683	unexpected	the officer swims and are young
+1367	684	expected	the officer swims and is short
+1368	684	unexpected	the officer swims and are short
+1369	685	expected	the officer smiles and laughs
+1370	685	unexpected	the officer smiles and laugh
+1371	686	expected	the officer smiles and swims
+1372	686	unexpected	the officer smiles and swim
+1373	687	expected	the officer smiles and is tall
+1374	687	unexpected	the officer smiles and are tall
+1375	688	expected	the officer smiles and is old
+1376	688	unexpected	the officer smiles and are old
+1377	689	expected	the officer smiles and is young
+1378	689	unexpected	the officer smiles and are young
+1379	690	expected	the officer smiles and is short
+1380	690	unexpected	the officer smiles and are short
+1381	691	expected	the officer is tall and laughs
+1382	691	unexpected	the officer is tall and laugh
+1383	692	expected	the officer is tall and swims
+1384	692	unexpected	the officer is tall and swim
+1385	693	expected	the officer is tall and smiles
+1386	693	unexpected	the officer is tall and smile
+1387	694	expected	the officer is tall and is old
+1388	694	unexpected	the officer is tall and are old
+1389	695	expected	the officer is tall and is young
+1390	695	unexpected	the officer is tall and are young
+1391	696	expected	the officer is tall and is short
+1392	696	unexpected	the officer is tall and are short
+1393	697	expected	the officer is old and laughs
+1394	697	unexpected	the officer is old and laugh
+1395	698	expected	the officer is old and swims
+1396	698	unexpected	the officer is old and swim
+1397	699	expected	the officer is old and smiles
+1398	699	unexpected	the officer is old and smile
+1399	700	expected	the officer is old and is tall
+1400	700	unexpected	the officer is old and are tall
+1401	701	expected	the officer is old and is young
+1402	701	unexpected	the officer is old and are young
+1403	702	expected	the officer is old and is short
+1404	702	unexpected	the officer is old and are short
+1405	703	expected	the officer is young and laughs
+1406	703	unexpected	the officer is young and laugh
+1407	704	expected	the officer is young and swims
+1408	704	unexpected	the officer is young and swim
+1409	705	expected	the officer is young and smiles
+1410	705	unexpected	the officer is young and smile
+1411	706	expected	the officer is young and is tall
+1412	706	unexpected	the officer is young and are tall
+1413	707	expected	the officer is young and is old
+1414	707	unexpected	the officer is young and are old
+1415	708	expected	the officer is young and is short
+1416	708	unexpected	the officer is young and are short
+1417	709	expected	the officer is short and laughs
+1418	709	unexpected	the officer is short and laugh
+1419	710	expected	the officer is short and swims
+1420	710	unexpected	the officer is short and swim
+1421	711	expected	the officer is short and smiles
+1422	711	unexpected	the officer is short and smile
+1423	712	expected	the officer is short and is tall
+1424	712	unexpected	the officer is short and are tall
+1425	713	expected	the officer is short and is old
+1426	713	unexpected	the officer is short and are old
+1427	714	expected	the officer is short and is young
+1428	714	unexpected	the officer is short and are young
+1429	715	expected	the teacher laughs and swims
+1430	715	unexpected	the teacher laughs and swim
+1431	716	expected	the teacher laughs and smiles
+1432	716	unexpected	the teacher laughs and smile
+1433	717	expected	the teacher laughs and is tall
+1434	717	unexpected	the teacher laughs and are tall
+1435	718	expected	the teacher laughs and is old
+1436	718	unexpected	the teacher laughs and are old
+1437	719	expected	the teacher laughs and is young
+1438	719	unexpected	the teacher laughs and are young
+1439	720	expected	the teacher laughs and is short
+1440	720	unexpected	the teacher laughs and are short
+1441	721	expected	the teacher swims and laughs
+1442	721	unexpected	the teacher swims and laugh
+1443	722	expected	the teacher swims and smiles
+1444	722	unexpected	the teacher swims and smile
+1445	723	expected	the teacher swims and is tall
+1446	723	unexpected	the teacher swims and are tall
+1447	724	expected	the teacher swims and is old
+1448	724	unexpected	the teacher swims and are old
+1449	725	expected	the teacher swims and is young
+1450	725	unexpected	the teacher swims and are young
+1451	726	expected	the teacher swims and is short
+1452	726	unexpected	the teacher swims and are short
+1453	727	expected	the teacher smiles and laughs
+1454	727	unexpected	the teacher smiles and laugh
+1455	728	expected	the teacher smiles and swims
+1456	728	unexpected	the teacher smiles and swim
+1457	729	expected	the teacher smiles and is tall
+1458	729	unexpected	the teacher smiles and are tall
+1459	730	expected	the teacher smiles and is old
+1460	730	unexpected	the teacher smiles and are old
+1461	731	expected	the teacher smiles and is young
+1462	731	unexpected	the teacher smiles and are young
+1463	732	expected	the teacher smiles and is short
+1464	732	unexpected	the teacher smiles and are short
+1465	733	expected	the teacher is tall and laughs
+1466	733	unexpected	the teacher is tall and laugh
+1467	734	expected	the teacher is tall and swims
+1468	734	unexpected	the teacher is tall and swim
+1469	735	expected	the teacher is tall and smiles
+1470	735	unexpected	the teacher is tall and smile
+1471	736	expected	the teacher is tall and is old
+1472	736	unexpected	the teacher is tall and are old
+1473	737	expected	the teacher is tall and is young
+1474	737	unexpected	the teacher is tall and are young
+1475	738	expected	the teacher is tall and is short
+1476	738	unexpected	the teacher is tall and are short
+1477	739	expected	the teacher is old and laughs
+1478	739	unexpected	the teacher is old and laugh
+1479	740	expected	the teacher is old and swims
+1480	740	unexpected	the teacher is old and swim
+1481	741	expected	the teacher is old and smiles
+1482	741	unexpected	the teacher is old and smile
+1483	742	expected	the teacher is old and is tall
+1484	742	unexpected	the teacher is old and are tall
+1485	743	expected	the teacher is old and is young
+1486	743	unexpected	the teacher is old and are young
+1487	744	expected	the teacher is old and is short
+1488	744	unexpected	the teacher is old and are short
+1489	745	expected	the teacher is young and laughs
+1490	745	unexpected	the teacher is young and laugh
+1491	746	expected	the teacher is young and swims
+1492	746	unexpected	the teacher is young and swim
+1493	747	expected	the teacher is young and smiles
+1494	747	unexpected	the teacher is young and smile
+1495	748	expected	the teacher is young and is tall
+1496	748	unexpected	the teacher is young and are tall
+1497	749	expected	the teacher is young and is old
+1498	749	unexpected	the teacher is young and are old
+1499	750	expected	the teacher is young and is short
+1500	750	unexpected	the teacher is young and are short
+1501	751	expected	the teacher is short and laughs
+1502	751	unexpected	the teacher is short and laugh
+1503	752	expected	the teacher is short and swims
+1504	752	unexpected	the teacher is short and swim
+1505	753	expected	the teacher is short and smiles
+1506	753	unexpected	the teacher is short and smile
+1507	754	expected	the teacher is short and is tall
+1508	754	unexpected	the teacher is short and are tall
+1509	755	expected	the teacher is short and is old
+1510	755	unexpected	the teacher is short and are old
+1511	756	expected	the teacher is short and is young
+1512	756	unexpected	the teacher is short and are young
+1513	757	expected	the senator laughs and swims
+1514	757	unexpected	the senator laughs and swim
+1515	758	expected	the senator laughs and smiles
+1516	758	unexpected	the senator laughs and smile
+1517	759	expected	the senator laughs and is tall
+1518	759	unexpected	the senator laughs and are tall
+1519	760	expected	the senator laughs and is old
+1520	760	unexpected	the senator laughs and are old
+1521	761	expected	the senator laughs and is young
+1522	761	unexpected	the senator laughs and are young
+1523	762	expected	the senator laughs and is short
+1524	762	unexpected	the senator laughs and are short
+1525	763	expected	the senator swims and laughs
+1526	763	unexpected	the senator swims and laugh
+1527	764	expected	the senator swims and smiles
+1528	764	unexpected	the senator swims and smile
+1529	765	expected	the senator swims and is tall
+1530	765	unexpected	the senator swims and are tall
+1531	766	expected	the senator swims and is old
+1532	766	unexpected	the senator swims and are old
+1533	767	expected	the senator swims and is young
+1534	767	unexpected	the senator swims and are young
+1535	768	expected	the senator swims and is short
+1536	768	unexpected	the senator swims and are short
+1537	769	expected	the senator smiles and laughs
+1538	769	unexpected	the senator smiles and laugh
+1539	770	expected	the senator smiles and swims
+1540	770	unexpected	the senator smiles and swim
+1541	771	expected	the senator smiles and is tall
+1542	771	unexpected	the senator smiles and are tall
+1543	772	expected	the senator smiles and is old
+1544	772	unexpected	the senator smiles and are old
+1545	773	expected	the senator smiles and is young
+1546	773	unexpected	the senator smiles and are young
+1547	774	expected	the senator smiles and is short
+1548	774	unexpected	the senator smiles and are short
+1549	775	expected	the senator is tall and laughs
+1550	775	unexpected	the senator is tall and laugh
+1551	776	expected	the senator is tall and swims
+1552	776	unexpected	the senator is tall and swim
+1553	777	expected	the senator is tall and smiles
+1554	777	unexpected	the senator is tall and smile
+1555	778	expected	the senator is tall and is old
+1556	778	unexpected	the senator is tall and are old
+1557	779	expected	the senator is tall and is young
+1558	779	unexpected	the senator is tall and are young
+1559	780	expected	the senator is tall and is short
+1560	780	unexpected	the senator is tall and are short
+1561	781	expected	the senator is old and laughs
+1562	781	unexpected	the senator is old and laugh
+1563	782	expected	the senator is old and swims
+1564	782	unexpected	the senator is old and swim
+1565	783	expected	the senator is old and smiles
+1566	783	unexpected	the senator is old and smile
+1567	784	expected	the senator is old and is tall
+1568	784	unexpected	the senator is old and are tall
+1569	785	expected	the senator is old and is young
+1570	785	unexpected	the senator is old and are young
+1571	786	expected	the senator is old and is short
+1572	786	unexpected	the senator is old and are short
+1573	787	expected	the senator is young and laughs
+1574	787	unexpected	the senator is young and laugh
+1575	788	expected	the senator is young and swims
+1576	788	unexpected	the senator is young and swim
+1577	789	expected	the senator is young and smiles
+1578	789	unexpected	the senator is young and smile
+1579	790	expected	the senator is young and is tall
+1580	790	unexpected	the senator is young and are tall
+1581	791	expected	the senator is young and is old
+1582	791	unexpected	the senator is young and are old
+1583	792	expected	the senator is young and is short
+1584	792	unexpected	the senator is young and are short
+1585	793	expected	the senator is short and laughs
+1586	793	unexpected	the senator is short and laugh
+1587	794	expected	the senator is short and swims
+1588	794	unexpected	the senator is short and swim
+1589	795	expected	the senator is short and smiles
+1590	795	unexpected	the senator is short and smile
+1591	796	expected	the senator is short and is tall
+1592	796	unexpected	the senator is short and are tall
+1593	797	expected	the senator is short and is old
+1594	797	unexpected	the senator is short and are old
+1595	798	expected	the senator is short and is young
+1596	798	unexpected	the senator is short and are young
+1597	799	expected	the consultant laughs and swims
+1598	799	unexpected	the consultant laughs and swim
+1599	800	expected	the consultant laughs and smiles
+1600	800	unexpected	the consultant laughs and smile
+1601	801	expected	the consultant laughs and is tall
+1602	801	unexpected	the consultant laughs and are tall
+1603	802	expected	the consultant laughs and is old
+1604	802	unexpected	the consultant laughs and are old
+1605	803	expected	the consultant laughs and is young
+1606	803	unexpected	the consultant laughs and are young
+1607	804	expected	the consultant laughs and is short
+1608	804	unexpected	the consultant laughs and are short
+1609	805	expected	the consultant swims and laughs
+1610	805	unexpected	the consultant swims and laugh
+1611	806	expected	the consultant swims and smiles
+1612	806	unexpected	the consultant swims and smile
+1613	807	expected	the consultant swims and is tall
+1614	807	unexpected	the consultant swims and are tall
+1615	808	expected	the consultant swims and is old
+1616	808	unexpected	the consultant swims and are old
+1617	809	expected	the consultant swims and is young
+1618	809	unexpected	the consultant swims and are young
+1619	810	expected	the consultant swims and is short
+1620	810	unexpected	the consultant swims and are short
+1621	811	expected	the consultant smiles and laughs
+1622	811	unexpected	the consultant smiles and laugh
+1623	812	expected	the consultant smiles and swims
+1624	812	unexpected	the consultant smiles and swim
+1625	813	expected	the consultant smiles and is tall
+1626	813	unexpected	the consultant smiles and are tall
+1627	814	expected	the consultant smiles and is old
+1628	814	unexpected	the consultant smiles and are old
+1629	815	expected	the consultant smiles and is young
+1630	815	unexpected	the consultant smiles and are young
+1631	816	expected	the consultant smiles and is short
+1632	816	unexpected	the consultant smiles and are short
+1633	817	expected	the consultant is tall and laughs
+1634	817	unexpected	the consultant is tall and laugh
+1635	818	expected	the consultant is tall and swims
+1636	818	unexpected	the consultant is tall and swim
+1637	819	expected	the consultant is tall and smiles
+1638	819	unexpected	the consultant is tall and smile
+1639	820	expected	the consultant is tall and is old
+1640	820	unexpected	the consultant is tall and are old
+1641	821	expected	the consultant is tall and is young
+1642	821	unexpected	the consultant is tall and are young
+1643	822	expected	the consultant is tall and is short
+1644	822	unexpected	the consultant is tall and are short
+1645	823	expected	the consultant is old and laughs
+1646	823	unexpected	the consultant is old and laugh
+1647	824	expected	the consultant is old and swims
+1648	824	unexpected	the consultant is old and swim
+1649	825	expected	the consultant is old and smiles
+1650	825	unexpected	the consultant is old and smile
+1651	826	expected	the consultant is old and is tall
+1652	826	unexpected	the consultant is old and are tall
+1653	827	expected	the consultant is old and is young
+1654	827	unexpected	the consultant is old and are young
+1655	828	expected	the consultant is old and is short
+1656	828	unexpected	the consultant is old and are short
+1657	829	expected	the consultant is young and laughs
+1658	829	unexpected	the consultant is young and laugh
+1659	830	expected	the consultant is young and swims
+1660	830	unexpected	the consultant is young and swim
+1661	831	expected	the consultant is young and smiles
+1662	831	unexpected	the consultant is young and smile
+1663	832	expected	the consultant is young and is tall
+1664	832	unexpected	the consultant is young and are tall
+1665	833	expected	the consultant is young and is old
+1666	833	unexpected	the consultant is young and are old
+1667	834	expected	the consultant is young and is short
+1668	834	unexpected	the consultant is young and are short
+1669	835	expected	the consultant is short and laughs
+1670	835	unexpected	the consultant is short and laugh
+1671	836	expected	the consultant is short and swims
+1672	836	unexpected	the consultant is short and swim
+1673	837	expected	the consultant is short and smiles
+1674	837	unexpected	the consultant is short and smile
+1675	838	expected	the consultant is short and is tall
+1676	838	unexpected	the consultant is short and are tall
+1677	839	expected	the consultant is short and is old
+1678	839	unexpected	the consultant is short and are old
+1679	840	expected	the consultant is short and is young
+1680	840	unexpected	the consultant is short and are young

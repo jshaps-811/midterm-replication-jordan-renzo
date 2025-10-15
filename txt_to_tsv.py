@@ -25,13 +25,17 @@ def txt_to_tsv(in_folder, out_folder):
 
                 with open(tsv_fpath, 'w', newline='', encoding='utf-8') as out_file:
                     tsv_writer = csv.writer(out_file, delimiter='\t')
-                    header = ["sentid", "pairid", "expected", "sentence"]
+                    header = ["sentid", "pairid", "comparison", "sentence"]
                     tsv_writer.writerow(header)
                     sentid = 1
                     pairid = 1
                     for line in lines:
                         sent = line.strip().split()
-                        to_write = [sentid, pairid, sent[0], " ".join(sent[1:])]
+                        if sent[0] == 'True':
+                            comparison = 'expected'
+                        else:
+                            comparison = 'unexpected'
+                        to_write = [sentid, pairid, comparison, " ".join(sent[1:])]
                         tsv_writer.writerow(to_write)
                         sentid += 1
                         if sentid % 2 == 1:
@@ -41,7 +45,7 @@ def txt_to_tsv(in_folder, out_folder):
                 print(f"Error processing '{fname}': {e}")
 
 
-in_directory = "./test_cases/source_txt_files"  
-out_directory = "./test_cases/eval_tsv_files" 
+in_directory = "./test_cases/source_txt_files/russian"  
+out_directory = "./test_cases/eval_tsv_files/russian" 
 
 txt_to_tsv(in_directory, out_directory)

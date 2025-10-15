@@ -1,0 +1,281 @@
+sentid	pairid	comparison	sentence
+1	1	expected	the author laughs
+2	1	unexpected	the author laugh
+3	2	expected	the author swims
+4	2	unexpected	the author swim
+5	3	expected	the author smiles
+6	3	unexpected	the author smile
+7	4	expected	the author is tall
+8	4	unexpected	the author are tall
+9	5	expected	the author is old
+10	5	unexpected	the author are old
+11	6	expected	the author is young
+12	6	unexpected	the author are young
+13	7	expected	the author is short
+14	7	unexpected	the author are short
+15	8	expected	the pilot laughs
+16	8	unexpected	the pilot laugh
+17	9	expected	the pilot swims
+18	9	unexpected	the pilot swim
+19	10	expected	the pilot smiles
+20	10	unexpected	the pilot smile
+21	11	expected	the pilot is tall
+22	11	unexpected	the pilot are tall
+23	12	expected	the pilot is old
+24	12	unexpected	the pilot are old
+25	13	expected	the pilot is young
+26	13	unexpected	the pilot are young
+27	14	expected	the pilot is short
+28	14	unexpected	the pilot are short
+29	15	expected	the surgeon laughs
+30	15	unexpected	the surgeon laugh
+31	16	expected	the surgeon swims
+32	16	unexpected	the surgeon swim
+33	17	expected	the surgeon smiles
+34	17	unexpected	the surgeon smile
+35	18	expected	the surgeon is tall
+36	18	unexpected	the surgeon are tall
+37	19	expected	the surgeon is old
+38	19	unexpected	the surgeon are old
+39	20	expected	the surgeon is young
+40	20	unexpected	the surgeon are young
+41	21	expected	the surgeon is short
+42	21	unexpected	the surgeon are short
+43	22	expected	the farmer laughs
+44	22	unexpected	the farmer laugh
+45	23	expected	the farmer swims
+46	23	unexpected	the farmer swim
+47	24	expected	the farmer smiles
+48	24	unexpected	the farmer smile
+49	25	expected	the farmer is tall
+50	25	unexpected	the farmer are tall
+51	26	expected	the farmer is old
+52	26	unexpected	the farmer are old
+53	27	expected	the farmer is young
+54	27	unexpected	the farmer are young
+55	28	expected	the farmer is short
+56	28	unexpected	the farmer are short
+57	29	expected	the manager laughs
+58	29	unexpected	the manager laugh
+59	30	expected	the manager swims
+60	30	unexpected	the manager swim
+61	31	expected	the manager smiles
+62	31	unexpected	the manager smile
+63	32	expected	the manager is tall
+64	32	unexpected	the manager are tall
+65	33	expected	the manager is old
+66	33	unexpected	the manager are old
+67	34	expected	the manager is young
+68	34	unexpected	the manager are young
+69	35	expected	the manager is short
+70	35	unexpected	the manager are short
+71	36	expected	the customer laughs
+72	36	unexpected	the customer laugh
+73	37	expected	the customer swims
+74	37	unexpected	the customer swim
+75	38	expected	the customer smiles
+76	38	unexpected	the customer smile
+77	39	expected	the customer is tall
+78	39	unexpected	the customer are tall
+79	40	expected	the customer is old
+80	40	unexpected	the customer are old
+81	41	expected	the customer is young
+82	41	unexpected	the customer are young
+83	42	expected	the customer is short
+84	42	unexpected	the customer are short
+85	43	expected	the officer laughs
+86	43	unexpected	the officer laugh
+87	44	expected	the officer swims
+88	44	unexpected	the officer swim
+89	45	expected	the officer smiles
+90	45	unexpected	the officer smile
+91	46	expected	the officer is tall
+92	46	unexpected	the officer are tall
+93	47	expected	the officer is old
+94	47	unexpected	the officer are old
+95	48	expected	the officer is young
+96	48	unexpected	the officer are young
+97	49	expected	the officer is short
+98	49	unexpected	the officer are short
+99	50	expected	the teacher laughs
+100	50	unexpected	the teacher laugh
+101	51	expected	the teacher swims
+102	51	unexpected	the teacher swim
+103	52	expected	the teacher smiles
+104	52	unexpected	the teacher smile
+105	53	expected	the teacher is tall
+106	53	unexpected	the teacher are tall
+107	54	expected	the teacher is old
+108	54	unexpected	the teacher are old
+109	55	expected	the teacher is young
+110	55	unexpected	the teacher are young
+111	56	expected	the teacher is short
+112	56	unexpected	the teacher are short
+113	57	expected	the senator laughs
+114	57	unexpected	the senator laugh
+115	58	expected	the senator swims
+116	58	unexpected	the senator swim
+117	59	expected	the senator smiles
+118	59	unexpected	the senator smile
+119	60	expected	the senator is tall
+120	60	unexpected	the senator are tall
+121	61	expected	the senator is old
+122	61	unexpected	the senator are old
+123	62	expected	the senator is young
+124	62	unexpected	the senator are young
+125	63	expected	the senator is short
+126	63	unexpected	the senator are short
+127	64	expected	the consultant laughs
+128	64	unexpected	the consultant laugh
+129	65	expected	the consultant swims
+130	65	unexpected	the consultant swim
+131	66	expected	the consultant smiles
+132	66	unexpected	the consultant smile
+133	67	expected	the consultant is tall
+134	67	unexpected	the consultant are tall
+135	68	expected	the consultant is old
+136	68	unexpected	the consultant are old
+137	69	expected	the consultant is young
+138	69	unexpected	the consultant are young
+139	70	expected	the consultant is short
+140	70	unexpected	the consultant are short
+141	71	expected	the authors laugh
+142	71	unexpected	the authors laughs
+143	72	expected	the authors swim
+144	72	unexpected	the authors swims
+145	73	expected	the authors smile
+146	73	unexpected	the authors smiles
+147	74	expected	the authors are tall
+148	74	unexpected	the authors is tall
+149	75	expected	the authors are old
+150	75	unexpected	the authors is old
+151	76	expected	the authors are young
+152	76	unexpected	the authors is young
+153	77	expected	the authors are short
+154	77	unexpected	the authors is short
+155	78	expected	the pilots laugh
+156	78	unexpected	the pilots laughs
+157	79	expected	the pilots swim
+158	79	unexpected	the pilots swims
+159	80	expected	the pilots smile
+160	80	unexpected	the pilots smiles
+161	81	expected	the pilots are tall
+162	81	unexpected	the pilots is tall
+163	82	expected	the pilots are old
+164	82	unexpected	the pilots is old
+165	83	expected	the pilots are young
+166	83	unexpected	the pilots is young
+167	84	expected	the pilots are short
+168	84	unexpected	the pilots is short
+169	85	expected	the surgeons laugh
+170	85	unexpected	the surgeons laughs
+171	86	expected	the surgeons swim
+172	86	unexpected	the surgeons swims
+173	87	expected	the surgeons smile
+174	87	unexpected	the surgeons smiles
+175	88	expected	the surgeons are tall
+176	88	unexpected	the surgeons is tall
+177	89	expected	the surgeons are old
+178	89	unexpected	the surgeons is old
+179	90	expected	the surgeons are young
+180	90	unexpected	the surgeons is young
+181	91	expected	the surgeons are short
+182	91	unexpected	the surgeons is short
+183	92	expected	the farmers laugh
+184	92	unexpected	the farmers laughs
+185	93	expected	the farmers swim
+186	93	unexpected	the farmers swims
+187	94	expected	the farmers smile
+188	94	unexpected	the farmers smiles
+189	95	expected	the farmers are tall
+190	95	unexpected	the farmers is tall
+191	96	expected	the farmers are old
+192	96	unexpected	the farmers is old
+193	97	expected	the farmers are young
+194	97	unexpected	the farmers is young
+195	98	expected	the farmers are short
+196	98	unexpected	the farmers is short
+197	99	expected	the managers laugh
+198	99	unexpected	the managers laughs
+199	100	expected	the managers swim
+200	100	unexpected	the managers swims
+201	101	expected	the managers smile
+202	101	unexpected	the managers smiles
+203	102	expected	the managers are tall
+204	102	unexpected	the managers is tall
+205	103	expected	the managers are old
+206	103	unexpected	the managers is old
+207	104	expected	the managers are young
+208	104	unexpected	the managers is young
+209	105	expected	the managers are short
+210	105	unexpected	the managers is short
+211	106	expected	the customers laugh
+212	106	unexpected	the customers laughs
+213	107	expected	the customers swim
+214	107	unexpected	the customers swims
+215	108	expected	the customers smile
+216	108	unexpected	the customers smiles
+217	109	expected	the customers are tall
+218	109	unexpected	the customers is tall
+219	110	expected	the customers are old
+220	110	unexpected	the customers is old
+221	111	expected	the customers are young
+222	111	unexpected	the customers is young
+223	112	expected	the customers are short
+224	112	unexpected	the customers is short
+225	113	expected	the officers laugh
+226	113	unexpected	the officers laughs
+227	114	expected	the officers swim
+228	114	unexpected	the officers swims
+229	115	expected	the officers smile
+230	115	unexpected	the officers smiles
+231	116	expected	the officers are tall
+232	116	unexpected	the officers is tall
+233	117	expected	the officers are old
+234	117	unexpected	the officers is old
+235	118	expected	the officers are young
+236	118	unexpected	the officers is young
+237	119	expected	the officers are short
+238	119	unexpected	the officers is short
+239	120	expected	the teachers laugh
+240	120	unexpected	the teachers laughs
+241	121	expected	the teachers swim
+242	121	unexpected	the teachers swims
+243	122	expected	the teachers smile
+244	122	unexpected	the teachers smiles
+245	123	expected	the teachers are tall
+246	123	unexpected	the teachers is tall
+247	124	expected	the teachers are old
+248	124	unexpected	the teachers is old
+249	125	expected	the teachers are young
+250	125	unexpected	the teachers is young
+251	126	expected	the teachers are short
+252	126	unexpected	the teachers is short
+253	127	expected	the senators laugh
+254	127	unexpected	the senators laughs
+255	128	expected	the senators swim
+256	128	unexpected	the senators swims
+257	129	expected	the senators smile
+258	129	unexpected	the senators smiles
+259	130	expected	the senators are tall
+260	130	unexpected	the senators is tall
+261	131	expected	the senators are old
+262	131	unexpected	the senators is old
+263	132	expected	the senators are young
+264	132	unexpected	the senators is young
+265	133	expected	the senators are short
+266	133	unexpected	the senators is short
+267	134	expected	the consultants laugh
+268	134	unexpected	the consultants laughs
+269	135	expected	the consultants swim
+270	135	unexpected	the consultants swims
+271	136	expected	the consultants smile
+272	136	unexpected	the consultants smiles
+273	137	expected	the consultants are tall
+274	137	unexpected	the consultants is tall
+275	138	expected	the consultants are old
+276	138	unexpected	the consultants is old
+277	139	expected	the consultants are young
+278	139	unexpected	the consultants is young
+279	140	expected	the consultants are short
+280	140	unexpected	the consultants is short

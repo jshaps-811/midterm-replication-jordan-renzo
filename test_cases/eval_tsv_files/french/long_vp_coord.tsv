@@ -1,0 +1,1001 @@
+sentid	pairid	comparison	sentence
+1	1	expected	l' auteur connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+2	1	unexpected	l' auteur connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+3	2	expected	l' auteur connaît beaucoup de langues étrangères et aime regarder des émissions de télévision
+4	2	unexpected	l' auteur connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision
+5	3	expected	l' auteur connaît beaucoup de langues étrangères et a vingt trois ans
+6	3	unexpected	l' auteur connaît beaucoup de langues étrangères et ont vingt trois ans
+7	4	expected	l' auteur connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+8	4	unexpected	l' auteur connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+9	5	expected	l' auteur connaît beaucoup de langues étrangères et écrit dans un journal tous les jours
+10	5	unexpected	l' auteur connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours
+11	6	expected	le directeur connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+12	6	unexpected	le directeur connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+13	7	expected	le directeur connaît beaucoup de langues étrangères et aime regarder des émissions de télévision
+14	7	unexpected	le directeur connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision
+15	8	expected	le directeur connaît beaucoup de langues étrangères et a vingt trois ans
+16	8	unexpected	le directeur connaît beaucoup de langues étrangères et ont vingt trois ans
+17	9	expected	le directeur connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+18	9	unexpected	le directeur connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+19	10	expected	le directeur connaît beaucoup de langues étrangères et écrit dans un journal tous les jours
+20	10	unexpected	le directeur connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours
+21	11	expected	l' agriculteur connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+22	11	unexpected	l' agriculteur connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+23	12	expected	l' agriculteur connaît beaucoup de langues étrangères et aime regarder des émissions de télévision
+24	12	unexpected	l' agriculteur connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision
+25	13	expected	l' agriculteur connaît beaucoup de langues étrangères et a vingt trois ans
+26	13	unexpected	l' agriculteur connaît beaucoup de langues étrangères et ont vingt trois ans
+27	14	expected	l' agriculteur connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+28	14	unexpected	l' agriculteur connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+29	15	expected	l' agriculteur connaît beaucoup de langues étrangères et écrit dans un journal tous les jours
+30	15	unexpected	l' agriculteur connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours
+31	16	expected	le chirurgien connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+32	16	unexpected	le chirurgien connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+33	17	expected	le chirurgien connaît beaucoup de langues étrangères et aime regarder des émissions de télévision
+34	17	unexpected	le chirurgien connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision
+35	18	expected	le chirurgien connaît beaucoup de langues étrangères et a vingt trois ans
+36	18	unexpected	le chirurgien connaît beaucoup de langues étrangères et ont vingt trois ans
+37	19	expected	le chirurgien connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+38	19	unexpected	le chirurgien connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+39	20	expected	le chirurgien connaît beaucoup de langues étrangères et écrit dans un journal tous les jours
+40	20	unexpected	le chirurgien connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours
+41	21	expected	le sénateur connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+42	21	unexpected	le sénateur connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+43	22	expected	le sénateur connaît beaucoup de langues étrangères et aime regarder des émissions de télévision
+44	22	unexpected	le sénateur connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision
+45	23	expected	le sénateur connaît beaucoup de langues étrangères et a vingt trois ans
+46	23	unexpected	le sénateur connaît beaucoup de langues étrangères et ont vingt trois ans
+47	24	expected	le sénateur connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+48	24	unexpected	le sénateur connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+49	25	expected	le sénateur connaît beaucoup de langues étrangères et écrit dans un journal tous les jours
+50	25	unexpected	le sénateur connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours
+51	26	expected	le professeur connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+52	26	unexpected	le professeur connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+53	27	expected	le professeur connaît beaucoup de langues étrangères et aime regarder des émissions de télévision
+54	27	unexpected	le professeur connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision
+55	28	expected	le professeur connaît beaucoup de langues étrangères et a vingt trois ans
+56	28	unexpected	le professeur connaît beaucoup de langues étrangères et ont vingt trois ans
+57	29	expected	le professeur connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+58	29	unexpected	le professeur connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+59	30	expected	le professeur connaît beaucoup de langues étrangères et écrit dans un journal tous les jours
+60	30	unexpected	le professeur connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours
+61	31	expected	le client connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+62	31	unexpected	le client connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+63	32	expected	le client connaît beaucoup de langues étrangères et aime regarder des émissions de télévision
+64	32	unexpected	le client connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision
+65	33	expected	le client connaît beaucoup de langues étrangères et a vingt trois ans
+66	33	unexpected	le client connaît beaucoup de langues étrangères et ont vingt trois ans
+67	34	expected	le client connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+68	34	unexpected	le client connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+69	35	expected	le client connaît beaucoup de langues étrangères et écrit dans un journal tous les jours
+70	35	unexpected	le client connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours
+71	36	expected	l' officier connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+72	36	unexpected	l' officier connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+73	37	expected	l' officier connaît beaucoup de langues étrangères et aime regarder des émissions de télévision
+74	37	unexpected	l' officier connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision
+75	38	expected	l' officier connaît beaucoup de langues étrangères et a vingt trois ans
+76	38	unexpected	l' officier connaît beaucoup de langues étrangères et ont vingt trois ans
+77	39	expected	l' officier connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+78	39	unexpected	l' officier connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+79	40	expected	l' officier connaît beaucoup de langues étrangères et écrit dans un journal tous les jours
+80	40	unexpected	l' officier connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours
+81	41	expected	le pilote connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+82	41	unexpected	le pilote connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+83	42	expected	le pilote connaît beaucoup de langues étrangères et aime regarder des émissions de télévision
+84	42	unexpected	le pilote connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision
+85	43	expected	le pilote connaît beaucoup de langues étrangères et a vingt trois ans
+86	43	unexpected	le pilote connaît beaucoup de langues étrangères et ont vingt trois ans
+87	44	expected	le pilote connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+88	44	unexpected	le pilote connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+89	45	expected	le pilote connaît beaucoup de langues étrangères et écrit dans un journal tous les jours
+90	45	unexpected	le pilote connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours
+91	46	expected	le consultant connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+92	46	unexpected	le consultant connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+93	47	expected	le consultant connaît beaucoup de langues étrangères et aime regarder des émissions de télévision
+94	47	unexpected	le consultant connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision
+95	48	expected	le consultant connaît beaucoup de langues étrangères et a vingt trois ans
+96	48	unexpected	le consultant connaît beaucoup de langues étrangères et ont vingt trois ans
+97	49	expected	le consultant connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+98	49	unexpected	le consultant connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+99	50	expected	le consultant connaît beaucoup de langues étrangères et écrit dans un journal tous les jours
+100	50	unexpected	le consultant connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours
+101	51	expected	l' auteur aime regarder des émissions de télévision et connaît beaucoup de langues étrangères
+102	51	unexpected	l' auteur aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+103	52	expected	l' auteur aime regarder des émissions de télévision et aime regarder des émissions de télévision
+104	52	unexpected	l' auteur aime regarder des émissions de télévision et aiment regarder des émissions de télévision
+105	53	expected	l' auteur aime regarder des émissions de télévision et a vingt trois ans
+106	53	unexpected	l' auteur aime regarder des émissions de télévision et ont vingt trois ans
+107	54	expected	l' auteur aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+108	54	unexpected	l' auteur aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+109	55	expected	l' auteur aime regarder des émissions de télévision et écrit dans un journal tous les jours
+110	55	unexpected	l' auteur aime regarder des émissions de télévision et écrivent dans un journal tous les jours
+111	56	expected	le directeur aime regarder des émissions de télévision et connaît beaucoup de langues étrangères
+112	56	unexpected	le directeur aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+113	57	expected	le directeur aime regarder des émissions de télévision et aime regarder des émissions de télévision
+114	57	unexpected	le directeur aime regarder des émissions de télévision et aiment regarder des émissions de télévision
+115	58	expected	le directeur aime regarder des émissions de télévision et a vingt trois ans
+116	58	unexpected	le directeur aime regarder des émissions de télévision et ont vingt trois ans
+117	59	expected	le directeur aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+118	59	unexpected	le directeur aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+119	60	expected	le directeur aime regarder des émissions de télévision et écrit dans un journal tous les jours
+120	60	unexpected	le directeur aime regarder des émissions de télévision et écrivent dans un journal tous les jours
+121	61	expected	l' agriculteur aime regarder des émissions de télévision et connaît beaucoup de langues étrangères
+122	61	unexpected	l' agriculteur aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+123	62	expected	l' agriculteur aime regarder des émissions de télévision et aime regarder des émissions de télévision
+124	62	unexpected	l' agriculteur aime regarder des émissions de télévision et aiment regarder des émissions de télévision
+125	63	expected	l' agriculteur aime regarder des émissions de télévision et a vingt trois ans
+126	63	unexpected	l' agriculteur aime regarder des émissions de télévision et ont vingt trois ans
+127	64	expected	l' agriculteur aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+128	64	unexpected	l' agriculteur aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+129	65	expected	l' agriculteur aime regarder des émissions de télévision et écrit dans un journal tous les jours
+130	65	unexpected	l' agriculteur aime regarder des émissions de télévision et écrivent dans un journal tous les jours
+131	66	expected	le chirurgien aime regarder des émissions de télévision et connaît beaucoup de langues étrangères
+132	66	unexpected	le chirurgien aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+133	67	expected	le chirurgien aime regarder des émissions de télévision et aime regarder des émissions de télévision
+134	67	unexpected	le chirurgien aime regarder des émissions de télévision et aiment regarder des émissions de télévision
+135	68	expected	le chirurgien aime regarder des émissions de télévision et a vingt trois ans
+136	68	unexpected	le chirurgien aime regarder des émissions de télévision et ont vingt trois ans
+137	69	expected	le chirurgien aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+138	69	unexpected	le chirurgien aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+139	70	expected	le chirurgien aime regarder des émissions de télévision et écrit dans un journal tous les jours
+140	70	unexpected	le chirurgien aime regarder des émissions de télévision et écrivent dans un journal tous les jours
+141	71	expected	le sénateur aime regarder des émissions de télévision et connaît beaucoup de langues étrangères
+142	71	unexpected	le sénateur aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+143	72	expected	le sénateur aime regarder des émissions de télévision et aime regarder des émissions de télévision
+144	72	unexpected	le sénateur aime regarder des émissions de télévision et aiment regarder des émissions de télévision
+145	73	expected	le sénateur aime regarder des émissions de télévision et a vingt trois ans
+146	73	unexpected	le sénateur aime regarder des émissions de télévision et ont vingt trois ans
+147	74	expected	le sénateur aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+148	74	unexpected	le sénateur aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+149	75	expected	le sénateur aime regarder des émissions de télévision et écrit dans un journal tous les jours
+150	75	unexpected	le sénateur aime regarder des émissions de télévision et écrivent dans un journal tous les jours
+151	76	expected	le professeur aime regarder des émissions de télévision et connaît beaucoup de langues étrangères
+152	76	unexpected	le professeur aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+153	77	expected	le professeur aime regarder des émissions de télévision et aime regarder des émissions de télévision
+154	77	unexpected	le professeur aime regarder des émissions de télévision et aiment regarder des émissions de télévision
+155	78	expected	le professeur aime regarder des émissions de télévision et a vingt trois ans
+156	78	unexpected	le professeur aime regarder des émissions de télévision et ont vingt trois ans
+157	79	expected	le professeur aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+158	79	unexpected	le professeur aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+159	80	expected	le professeur aime regarder des émissions de télévision et écrit dans un journal tous les jours
+160	80	unexpected	le professeur aime regarder des émissions de télévision et écrivent dans un journal tous les jours
+161	81	expected	le client aime regarder des émissions de télévision et connaît beaucoup de langues étrangères
+162	81	unexpected	le client aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+163	82	expected	le client aime regarder des émissions de télévision et aime regarder des émissions de télévision
+164	82	unexpected	le client aime regarder des émissions de télévision et aiment regarder des émissions de télévision
+165	83	expected	le client aime regarder des émissions de télévision et a vingt trois ans
+166	83	unexpected	le client aime regarder des émissions de télévision et ont vingt trois ans
+167	84	expected	le client aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+168	84	unexpected	le client aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+169	85	expected	le client aime regarder des émissions de télévision et écrit dans un journal tous les jours
+170	85	unexpected	le client aime regarder des émissions de télévision et écrivent dans un journal tous les jours
+171	86	expected	l' officier aime regarder des émissions de télévision et connaît beaucoup de langues étrangères
+172	86	unexpected	l' officier aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+173	87	expected	l' officier aime regarder des émissions de télévision et aime regarder des émissions de télévision
+174	87	unexpected	l' officier aime regarder des émissions de télévision et aiment regarder des émissions de télévision
+175	88	expected	l' officier aime regarder des émissions de télévision et a vingt trois ans
+176	88	unexpected	l' officier aime regarder des émissions de télévision et ont vingt trois ans
+177	89	expected	l' officier aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+178	89	unexpected	l' officier aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+179	90	expected	l' officier aime regarder des émissions de télévision et écrit dans un journal tous les jours
+180	90	unexpected	l' officier aime regarder des émissions de télévision et écrivent dans un journal tous les jours
+181	91	expected	le pilote aime regarder des émissions de télévision et connaît beaucoup de langues étrangères
+182	91	unexpected	le pilote aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+183	92	expected	le pilote aime regarder des émissions de télévision et aime regarder des émissions de télévision
+184	92	unexpected	le pilote aime regarder des émissions de télévision et aiment regarder des émissions de télévision
+185	93	expected	le pilote aime regarder des émissions de télévision et a vingt trois ans
+186	93	unexpected	le pilote aime regarder des émissions de télévision et ont vingt trois ans
+187	94	expected	le pilote aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+188	94	unexpected	le pilote aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+189	95	expected	le pilote aime regarder des émissions de télévision et écrit dans un journal tous les jours
+190	95	unexpected	le pilote aime regarder des émissions de télévision et écrivent dans un journal tous les jours
+191	96	expected	le consultant aime regarder des émissions de télévision et connaît beaucoup de langues étrangères
+192	96	unexpected	le consultant aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+193	97	expected	le consultant aime regarder des émissions de télévision et aime regarder des émissions de télévision
+194	97	unexpected	le consultant aime regarder des émissions de télévision et aiment regarder des émissions de télévision
+195	98	expected	le consultant aime regarder des émissions de télévision et a vingt trois ans
+196	98	unexpected	le consultant aime regarder des émissions de télévision et ont vingt trois ans
+197	99	expected	le consultant aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+198	99	unexpected	le consultant aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+199	100	expected	le consultant aime regarder des émissions de télévision et écrit dans un journal tous les jours
+200	100	unexpected	le consultant aime regarder des émissions de télévision et écrivent dans un journal tous les jours
+201	101	expected	l' auteur a vingt trois ans et connaît beaucoup de langues étrangères
+202	101	unexpected	l' auteur a vingt trois ans et connaissent beaucoup de langues étrangères
+203	102	expected	l' auteur a vingt trois ans et aime regarder des émissions de télévision
+204	102	unexpected	l' auteur a vingt trois ans et aiment regarder des émissions de télévision
+205	103	expected	l' auteur a vingt trois ans et a vingt trois ans
+206	103	unexpected	l' auteur a vingt trois ans et ont vingt trois ans
+207	104	expected	l' auteur a vingt trois ans et préfère jouer au tennis avec des collègues
+208	104	unexpected	l' auteur a vingt trois ans et préfèrent jouer au tennis avec des collègues
+209	105	expected	l' auteur a vingt trois ans et écrit dans un journal tous les jours
+210	105	unexpected	l' auteur a vingt trois ans et écrivent dans un journal tous les jours
+211	106	expected	le directeur a vingt trois ans et connaît beaucoup de langues étrangères
+212	106	unexpected	le directeur a vingt trois ans et connaissent beaucoup de langues étrangères
+213	107	expected	le directeur a vingt trois ans et aime regarder des émissions de télévision
+214	107	unexpected	le directeur a vingt trois ans et aiment regarder des émissions de télévision
+215	108	expected	le directeur a vingt trois ans et a vingt trois ans
+216	108	unexpected	le directeur a vingt trois ans et ont vingt trois ans
+217	109	expected	le directeur a vingt trois ans et préfère jouer au tennis avec des collègues
+218	109	unexpected	le directeur a vingt trois ans et préfèrent jouer au tennis avec des collègues
+219	110	expected	le directeur a vingt trois ans et écrit dans un journal tous les jours
+220	110	unexpected	le directeur a vingt trois ans et écrivent dans un journal tous les jours
+221	111	expected	l' agriculteur a vingt trois ans et connaît beaucoup de langues étrangères
+222	111	unexpected	l' agriculteur a vingt trois ans et connaissent beaucoup de langues étrangères
+223	112	expected	l' agriculteur a vingt trois ans et aime regarder des émissions de télévision
+224	112	unexpected	l' agriculteur a vingt trois ans et aiment regarder des émissions de télévision
+225	113	expected	l' agriculteur a vingt trois ans et a vingt trois ans
+226	113	unexpected	l' agriculteur a vingt trois ans et ont vingt trois ans
+227	114	expected	l' agriculteur a vingt trois ans et préfère jouer au tennis avec des collègues
+228	114	unexpected	l' agriculteur a vingt trois ans et préfèrent jouer au tennis avec des collègues
+229	115	expected	l' agriculteur a vingt trois ans et écrit dans un journal tous les jours
+230	115	unexpected	l' agriculteur a vingt trois ans et écrivent dans un journal tous les jours
+231	116	expected	le chirurgien a vingt trois ans et connaît beaucoup de langues étrangères
+232	116	unexpected	le chirurgien a vingt trois ans et connaissent beaucoup de langues étrangères
+233	117	expected	le chirurgien a vingt trois ans et aime regarder des émissions de télévision
+234	117	unexpected	le chirurgien a vingt trois ans et aiment regarder des émissions de télévision
+235	118	expected	le chirurgien a vingt trois ans et a vingt trois ans
+236	118	unexpected	le chirurgien a vingt trois ans et ont vingt trois ans
+237	119	expected	le chirurgien a vingt trois ans et préfère jouer au tennis avec des collègues
+238	119	unexpected	le chirurgien a vingt trois ans et préfèrent jouer au tennis avec des collègues
+239	120	expected	le chirurgien a vingt trois ans et écrit dans un journal tous les jours
+240	120	unexpected	le chirurgien a vingt trois ans et écrivent dans un journal tous les jours
+241	121	expected	le sénateur a vingt trois ans et connaît beaucoup de langues étrangères
+242	121	unexpected	le sénateur a vingt trois ans et connaissent beaucoup de langues étrangères
+243	122	expected	le sénateur a vingt trois ans et aime regarder des émissions de télévision
+244	122	unexpected	le sénateur a vingt trois ans et aiment regarder des émissions de télévision
+245	123	expected	le sénateur a vingt trois ans et a vingt trois ans
+246	123	unexpected	le sénateur a vingt trois ans et ont vingt trois ans
+247	124	expected	le sénateur a vingt trois ans et préfère jouer au tennis avec des collègues
+248	124	unexpected	le sénateur a vingt trois ans et préfèrent jouer au tennis avec des collègues
+249	125	expected	le sénateur a vingt trois ans et écrit dans un journal tous les jours
+250	125	unexpected	le sénateur a vingt trois ans et écrivent dans un journal tous les jours
+251	126	expected	le professeur a vingt trois ans et connaît beaucoup de langues étrangères
+252	126	unexpected	le professeur a vingt trois ans et connaissent beaucoup de langues étrangères
+253	127	expected	le professeur a vingt trois ans et aime regarder des émissions de télévision
+254	127	unexpected	le professeur a vingt trois ans et aiment regarder des émissions de télévision
+255	128	expected	le professeur a vingt trois ans et a vingt trois ans
+256	128	unexpected	le professeur a vingt trois ans et ont vingt trois ans
+257	129	expected	le professeur a vingt trois ans et préfère jouer au tennis avec des collègues
+258	129	unexpected	le professeur a vingt trois ans et préfèrent jouer au tennis avec des collègues
+259	130	expected	le professeur a vingt trois ans et écrit dans un journal tous les jours
+260	130	unexpected	le professeur a vingt trois ans et écrivent dans un journal tous les jours
+261	131	expected	le client a vingt trois ans et connaît beaucoup de langues étrangères
+262	131	unexpected	le client a vingt trois ans et connaissent beaucoup de langues étrangères
+263	132	expected	le client a vingt trois ans et aime regarder des émissions de télévision
+264	132	unexpected	le client a vingt trois ans et aiment regarder des émissions de télévision
+265	133	expected	le client a vingt trois ans et a vingt trois ans
+266	133	unexpected	le client a vingt trois ans et ont vingt trois ans
+267	134	expected	le client a vingt trois ans et préfère jouer au tennis avec des collègues
+268	134	unexpected	le client a vingt trois ans et préfèrent jouer au tennis avec des collègues
+269	135	expected	le client a vingt trois ans et écrit dans un journal tous les jours
+270	135	unexpected	le client a vingt trois ans et écrivent dans un journal tous les jours
+271	136	expected	l' officier a vingt trois ans et connaît beaucoup de langues étrangères
+272	136	unexpected	l' officier a vingt trois ans et connaissent beaucoup de langues étrangères
+273	137	expected	l' officier a vingt trois ans et aime regarder des émissions de télévision
+274	137	unexpected	l' officier a vingt trois ans et aiment regarder des émissions de télévision
+275	138	expected	l' officier a vingt trois ans et a vingt trois ans
+276	138	unexpected	l' officier a vingt trois ans et ont vingt trois ans
+277	139	expected	l' officier a vingt trois ans et préfère jouer au tennis avec des collègues
+278	139	unexpected	l' officier a vingt trois ans et préfèrent jouer au tennis avec des collègues
+279	140	expected	l' officier a vingt trois ans et écrit dans un journal tous les jours
+280	140	unexpected	l' officier a vingt trois ans et écrivent dans un journal tous les jours
+281	141	expected	le pilote a vingt trois ans et connaît beaucoup de langues étrangères
+282	141	unexpected	le pilote a vingt trois ans et connaissent beaucoup de langues étrangères
+283	142	expected	le pilote a vingt trois ans et aime regarder des émissions de télévision
+284	142	unexpected	le pilote a vingt trois ans et aiment regarder des émissions de télévision
+285	143	expected	le pilote a vingt trois ans et a vingt trois ans
+286	143	unexpected	le pilote a vingt trois ans et ont vingt trois ans
+287	144	expected	le pilote a vingt trois ans et préfère jouer au tennis avec des collègues
+288	144	unexpected	le pilote a vingt trois ans et préfèrent jouer au tennis avec des collègues
+289	145	expected	le pilote a vingt trois ans et écrit dans un journal tous les jours
+290	145	unexpected	le pilote a vingt trois ans et écrivent dans un journal tous les jours
+291	146	expected	le consultant a vingt trois ans et connaît beaucoup de langues étrangères
+292	146	unexpected	le consultant a vingt trois ans et connaissent beaucoup de langues étrangères
+293	147	expected	le consultant a vingt trois ans et aime regarder des émissions de télévision
+294	147	unexpected	le consultant a vingt trois ans et aiment regarder des émissions de télévision
+295	148	expected	le consultant a vingt trois ans et a vingt trois ans
+296	148	unexpected	le consultant a vingt trois ans et ont vingt trois ans
+297	149	expected	le consultant a vingt trois ans et préfère jouer au tennis avec des collègues
+298	149	unexpected	le consultant a vingt trois ans et préfèrent jouer au tennis avec des collègues
+299	150	expected	le consultant a vingt trois ans et écrit dans un journal tous les jours
+300	150	unexpected	le consultant a vingt trois ans et écrivent dans un journal tous les jours
+301	151	expected	l' auteur préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+302	151	unexpected	l' auteur préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+303	152	expected	l' auteur préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision
+304	152	unexpected	l' auteur préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+305	153	expected	l' auteur préfère jouer au tennis avec des collègues et a vingt trois ans
+306	153	unexpected	l' auteur préfère jouer au tennis avec des collègues et ont vingt trois ans
+307	154	expected	l' auteur préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+308	154	unexpected	l' auteur préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+309	155	expected	l' auteur préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours
+310	155	unexpected	l' auteur préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+311	156	expected	le directeur préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+312	156	unexpected	le directeur préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+313	157	expected	le directeur préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision
+314	157	unexpected	le directeur préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+315	158	expected	le directeur préfère jouer au tennis avec des collègues et a vingt trois ans
+316	158	unexpected	le directeur préfère jouer au tennis avec des collègues et ont vingt trois ans
+317	159	expected	le directeur préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+318	159	unexpected	le directeur préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+319	160	expected	le directeur préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours
+320	160	unexpected	le directeur préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+321	161	expected	l' agriculteur préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+322	161	unexpected	l' agriculteur préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+323	162	expected	l' agriculteur préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision
+324	162	unexpected	l' agriculteur préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+325	163	expected	l' agriculteur préfère jouer au tennis avec des collègues et a vingt trois ans
+326	163	unexpected	l' agriculteur préfère jouer au tennis avec des collègues et ont vingt trois ans
+327	164	expected	l' agriculteur préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+328	164	unexpected	l' agriculteur préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+329	165	expected	l' agriculteur préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours
+330	165	unexpected	l' agriculteur préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+331	166	expected	le chirurgien préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+332	166	unexpected	le chirurgien préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+333	167	expected	le chirurgien préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision
+334	167	unexpected	le chirurgien préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+335	168	expected	le chirurgien préfère jouer au tennis avec des collègues et a vingt trois ans
+336	168	unexpected	le chirurgien préfère jouer au tennis avec des collègues et ont vingt trois ans
+337	169	expected	le chirurgien préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+338	169	unexpected	le chirurgien préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+339	170	expected	le chirurgien préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours
+340	170	unexpected	le chirurgien préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+341	171	expected	le sénateur préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+342	171	unexpected	le sénateur préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+343	172	expected	le sénateur préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision
+344	172	unexpected	le sénateur préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+345	173	expected	le sénateur préfère jouer au tennis avec des collègues et a vingt trois ans
+346	173	unexpected	le sénateur préfère jouer au tennis avec des collègues et ont vingt trois ans
+347	174	expected	le sénateur préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+348	174	unexpected	le sénateur préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+349	175	expected	le sénateur préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours
+350	175	unexpected	le sénateur préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+351	176	expected	le professeur préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+352	176	unexpected	le professeur préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+353	177	expected	le professeur préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision
+354	177	unexpected	le professeur préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+355	178	expected	le professeur préfère jouer au tennis avec des collègues et a vingt trois ans
+356	178	unexpected	le professeur préfère jouer au tennis avec des collègues et ont vingt trois ans
+357	179	expected	le professeur préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+358	179	unexpected	le professeur préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+359	180	expected	le professeur préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours
+360	180	unexpected	le professeur préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+361	181	expected	le client préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+362	181	unexpected	le client préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+363	182	expected	le client préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision
+364	182	unexpected	le client préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+365	183	expected	le client préfère jouer au tennis avec des collègues et a vingt trois ans
+366	183	unexpected	le client préfère jouer au tennis avec des collègues et ont vingt trois ans
+367	184	expected	le client préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+368	184	unexpected	le client préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+369	185	expected	le client préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours
+370	185	unexpected	le client préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+371	186	expected	l' officier préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+372	186	unexpected	l' officier préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+373	187	expected	l' officier préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision
+374	187	unexpected	l' officier préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+375	188	expected	l' officier préfère jouer au tennis avec des collègues et a vingt trois ans
+376	188	unexpected	l' officier préfère jouer au tennis avec des collègues et ont vingt trois ans
+377	189	expected	l' officier préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+378	189	unexpected	l' officier préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+379	190	expected	l' officier préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours
+380	190	unexpected	l' officier préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+381	191	expected	le pilote préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+382	191	unexpected	le pilote préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+383	192	expected	le pilote préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision
+384	192	unexpected	le pilote préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+385	193	expected	le pilote préfère jouer au tennis avec des collègues et a vingt trois ans
+386	193	unexpected	le pilote préfère jouer au tennis avec des collègues et ont vingt trois ans
+387	194	expected	le pilote préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+388	194	unexpected	le pilote préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+389	195	expected	le pilote préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours
+390	195	unexpected	le pilote préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+391	196	expected	le consultant préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+392	196	unexpected	le consultant préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+393	197	expected	le consultant préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision
+394	197	unexpected	le consultant préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+395	198	expected	le consultant préfère jouer au tennis avec des collègues et a vingt trois ans
+396	198	unexpected	le consultant préfère jouer au tennis avec des collègues et ont vingt trois ans
+397	199	expected	le consultant préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+398	199	unexpected	le consultant préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+399	200	expected	le consultant préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours
+400	200	unexpected	le consultant préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+401	201	expected	l' auteur écrit dans un journal tous les jours et connaît beaucoup de langues étrangères
+402	201	unexpected	l' auteur écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères
+403	202	expected	l' auteur écrit dans un journal tous les jours et aime regarder des émissions de télévision
+404	202	unexpected	l' auteur écrit dans un journal tous les jours et aiment regarder des émissions de télévision
+405	203	expected	l' auteur écrit dans un journal tous les jours et a vingt trois ans
+406	203	unexpected	l' auteur écrit dans un journal tous les jours et ont vingt trois ans
+407	204	expected	l' auteur écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+408	204	unexpected	l' auteur écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+409	205	expected	l' auteur écrit dans un journal tous les jours et écrit dans un journal tous les jours
+410	205	unexpected	l' auteur écrit dans un journal tous les jours et écrivent dans un journal tous les jours
+411	206	expected	le directeur écrit dans un journal tous les jours et connaît beaucoup de langues étrangères
+412	206	unexpected	le directeur écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères
+413	207	expected	le directeur écrit dans un journal tous les jours et aime regarder des émissions de télévision
+414	207	unexpected	le directeur écrit dans un journal tous les jours et aiment regarder des émissions de télévision
+415	208	expected	le directeur écrit dans un journal tous les jours et a vingt trois ans
+416	208	unexpected	le directeur écrit dans un journal tous les jours et ont vingt trois ans
+417	209	expected	le directeur écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+418	209	unexpected	le directeur écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+419	210	expected	le directeur écrit dans un journal tous les jours et écrit dans un journal tous les jours
+420	210	unexpected	le directeur écrit dans un journal tous les jours et écrivent dans un journal tous les jours
+421	211	expected	l' agriculteur écrit dans un journal tous les jours et connaît beaucoup de langues étrangères
+422	211	unexpected	l' agriculteur écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères
+423	212	expected	l' agriculteur écrit dans un journal tous les jours et aime regarder des émissions de télévision
+424	212	unexpected	l' agriculteur écrit dans un journal tous les jours et aiment regarder des émissions de télévision
+425	213	expected	l' agriculteur écrit dans un journal tous les jours et a vingt trois ans
+426	213	unexpected	l' agriculteur écrit dans un journal tous les jours et ont vingt trois ans
+427	214	expected	l' agriculteur écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+428	214	unexpected	l' agriculteur écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+429	215	expected	l' agriculteur écrit dans un journal tous les jours et écrit dans un journal tous les jours
+430	215	unexpected	l' agriculteur écrit dans un journal tous les jours et écrivent dans un journal tous les jours
+431	216	expected	le chirurgien écrit dans un journal tous les jours et connaît beaucoup de langues étrangères
+432	216	unexpected	le chirurgien écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères
+433	217	expected	le chirurgien écrit dans un journal tous les jours et aime regarder des émissions de télévision
+434	217	unexpected	le chirurgien écrit dans un journal tous les jours et aiment regarder des émissions de télévision
+435	218	expected	le chirurgien écrit dans un journal tous les jours et a vingt trois ans
+436	218	unexpected	le chirurgien écrit dans un journal tous les jours et ont vingt trois ans
+437	219	expected	le chirurgien écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+438	219	unexpected	le chirurgien écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+439	220	expected	le chirurgien écrit dans un journal tous les jours et écrit dans un journal tous les jours
+440	220	unexpected	le chirurgien écrit dans un journal tous les jours et écrivent dans un journal tous les jours
+441	221	expected	le sénateur écrit dans un journal tous les jours et connaît beaucoup de langues étrangères
+442	221	unexpected	le sénateur écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères
+443	222	expected	le sénateur écrit dans un journal tous les jours et aime regarder des émissions de télévision
+444	222	unexpected	le sénateur écrit dans un journal tous les jours et aiment regarder des émissions de télévision
+445	223	expected	le sénateur écrit dans un journal tous les jours et a vingt trois ans
+446	223	unexpected	le sénateur écrit dans un journal tous les jours et ont vingt trois ans
+447	224	expected	le sénateur écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+448	224	unexpected	le sénateur écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+449	225	expected	le sénateur écrit dans un journal tous les jours et écrit dans un journal tous les jours
+450	225	unexpected	le sénateur écrit dans un journal tous les jours et écrivent dans un journal tous les jours
+451	226	expected	le professeur écrit dans un journal tous les jours et connaît beaucoup de langues étrangères
+452	226	unexpected	le professeur écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères
+453	227	expected	le professeur écrit dans un journal tous les jours et aime regarder des émissions de télévision
+454	227	unexpected	le professeur écrit dans un journal tous les jours et aiment regarder des émissions de télévision
+455	228	expected	le professeur écrit dans un journal tous les jours et a vingt trois ans
+456	228	unexpected	le professeur écrit dans un journal tous les jours et ont vingt trois ans
+457	229	expected	le professeur écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+458	229	unexpected	le professeur écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+459	230	expected	le professeur écrit dans un journal tous les jours et écrit dans un journal tous les jours
+460	230	unexpected	le professeur écrit dans un journal tous les jours et écrivent dans un journal tous les jours
+461	231	expected	le client écrit dans un journal tous les jours et connaît beaucoup de langues étrangères
+462	231	unexpected	le client écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères
+463	232	expected	le client écrit dans un journal tous les jours et aime regarder des émissions de télévision
+464	232	unexpected	le client écrit dans un journal tous les jours et aiment regarder des émissions de télévision
+465	233	expected	le client écrit dans un journal tous les jours et a vingt trois ans
+466	233	unexpected	le client écrit dans un journal tous les jours et ont vingt trois ans
+467	234	expected	le client écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+468	234	unexpected	le client écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+469	235	expected	le client écrit dans un journal tous les jours et écrit dans un journal tous les jours
+470	235	unexpected	le client écrit dans un journal tous les jours et écrivent dans un journal tous les jours
+471	236	expected	l' officier écrit dans un journal tous les jours et connaît beaucoup de langues étrangères
+472	236	unexpected	l' officier écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères
+473	237	expected	l' officier écrit dans un journal tous les jours et aime regarder des émissions de télévision
+474	237	unexpected	l' officier écrit dans un journal tous les jours et aiment regarder des émissions de télévision
+475	238	expected	l' officier écrit dans un journal tous les jours et a vingt trois ans
+476	238	unexpected	l' officier écrit dans un journal tous les jours et ont vingt trois ans
+477	239	expected	l' officier écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+478	239	unexpected	l' officier écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+479	240	expected	l' officier écrit dans un journal tous les jours et écrit dans un journal tous les jours
+480	240	unexpected	l' officier écrit dans un journal tous les jours et écrivent dans un journal tous les jours
+481	241	expected	le pilote écrit dans un journal tous les jours et connaît beaucoup de langues étrangères
+482	241	unexpected	le pilote écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères
+483	242	expected	le pilote écrit dans un journal tous les jours et aime regarder des émissions de télévision
+484	242	unexpected	le pilote écrit dans un journal tous les jours et aiment regarder des émissions de télévision
+485	243	expected	le pilote écrit dans un journal tous les jours et a vingt trois ans
+486	243	unexpected	le pilote écrit dans un journal tous les jours et ont vingt trois ans
+487	244	expected	le pilote écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+488	244	unexpected	le pilote écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+489	245	expected	le pilote écrit dans un journal tous les jours et écrit dans un journal tous les jours
+490	245	unexpected	le pilote écrit dans un journal tous les jours et écrivent dans un journal tous les jours
+491	246	expected	le consultant écrit dans un journal tous les jours et connaît beaucoup de langues étrangères
+492	246	unexpected	le consultant écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères
+493	247	expected	le consultant écrit dans un journal tous les jours et aime regarder des émissions de télévision
+494	247	unexpected	le consultant écrit dans un journal tous les jours et aiment regarder des émissions de télévision
+495	248	expected	le consultant écrit dans un journal tous les jours et a vingt trois ans
+496	248	unexpected	le consultant écrit dans un journal tous les jours et ont vingt trois ans
+497	249	expected	le consultant écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+498	249	unexpected	le consultant écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+499	250	expected	le consultant écrit dans un journal tous les jours et écrit dans un journal tous les jours
+500	250	unexpected	le consultant écrit dans un journal tous les jours et écrivent dans un journal tous les jours
+501	251	expected	les auteurs connaissent beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+502	251	unexpected	les auteurs connaissent beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+503	252	expected	les auteurs connaissent beaucoup de langues étrangères et aiment regarder des émissions de télévision
+504	252	unexpected	les auteurs connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision
+505	253	expected	les auteurs connaissent beaucoup de langues étrangères et ont vingt trois ans
+506	253	unexpected	les auteurs connaissent beaucoup de langues étrangères et a vingt trois ans
+507	254	expected	les auteurs connaissent beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+508	254	unexpected	les auteurs connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+509	255	expected	les auteurs connaissent beaucoup de langues étrangères et écrivent dans un journal tous les jours
+510	255	unexpected	les auteurs connaissent beaucoup de langues étrangères et écrit dans un journal tous les jours
+511	256	expected	les directeurs connaissent beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+512	256	unexpected	les directeurs connaissent beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+513	257	expected	les directeurs connaissent beaucoup de langues étrangères et aiment regarder des émissions de télévision
+514	257	unexpected	les directeurs connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision
+515	258	expected	les directeurs connaissent beaucoup de langues étrangères et ont vingt trois ans
+516	258	unexpected	les directeurs connaissent beaucoup de langues étrangères et a vingt trois ans
+517	259	expected	les directeurs connaissent beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+518	259	unexpected	les directeurs connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+519	260	expected	les directeurs connaissent beaucoup de langues étrangères et écrivent dans un journal tous les jours
+520	260	unexpected	les directeurs connaissent beaucoup de langues étrangères et écrit dans un journal tous les jours
+521	261	expected	les agriculteurs connaissent beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+522	261	unexpected	les agriculteurs connaissent beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+523	262	expected	les agriculteurs connaissent beaucoup de langues étrangères et aiment regarder des émissions de télévision
+524	262	unexpected	les agriculteurs connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision
+525	263	expected	les agriculteurs connaissent beaucoup de langues étrangères et ont vingt trois ans
+526	263	unexpected	les agriculteurs connaissent beaucoup de langues étrangères et a vingt trois ans
+527	264	expected	les agriculteurs connaissent beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+528	264	unexpected	les agriculteurs connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+529	265	expected	les agriculteurs connaissent beaucoup de langues étrangères et écrivent dans un journal tous les jours
+530	265	unexpected	les agriculteurs connaissent beaucoup de langues étrangères et écrit dans un journal tous les jours
+531	266	expected	les chirurgiens connaissent beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+532	266	unexpected	les chirurgiens connaissent beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+533	267	expected	les chirurgiens connaissent beaucoup de langues étrangères et aiment regarder des émissions de télévision
+534	267	unexpected	les chirurgiens connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision
+535	268	expected	les chirurgiens connaissent beaucoup de langues étrangères et ont vingt trois ans
+536	268	unexpected	les chirurgiens connaissent beaucoup de langues étrangères et a vingt trois ans
+537	269	expected	les chirurgiens connaissent beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+538	269	unexpected	les chirurgiens connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+539	270	expected	les chirurgiens connaissent beaucoup de langues étrangères et écrivent dans un journal tous les jours
+540	270	unexpected	les chirurgiens connaissent beaucoup de langues étrangères et écrit dans un journal tous les jours
+541	271	expected	les sénateurs connaissent beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+542	271	unexpected	les sénateurs connaissent beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+543	272	expected	les sénateurs connaissent beaucoup de langues étrangères et aiment regarder des émissions de télévision
+544	272	unexpected	les sénateurs connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision
+545	273	expected	les sénateurs connaissent beaucoup de langues étrangères et ont vingt trois ans
+546	273	unexpected	les sénateurs connaissent beaucoup de langues étrangères et a vingt trois ans
+547	274	expected	les sénateurs connaissent beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+548	274	unexpected	les sénateurs connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+549	275	expected	les sénateurs connaissent beaucoup de langues étrangères et écrivent dans un journal tous les jours
+550	275	unexpected	les sénateurs connaissent beaucoup de langues étrangères et écrit dans un journal tous les jours
+551	276	expected	les professeurs connaissent beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+552	276	unexpected	les professeurs connaissent beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+553	277	expected	les professeurs connaissent beaucoup de langues étrangères et aiment regarder des émissions de télévision
+554	277	unexpected	les professeurs connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision
+555	278	expected	les professeurs connaissent beaucoup de langues étrangères et ont vingt trois ans
+556	278	unexpected	les professeurs connaissent beaucoup de langues étrangères et a vingt trois ans
+557	279	expected	les professeurs connaissent beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+558	279	unexpected	les professeurs connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+559	280	expected	les professeurs connaissent beaucoup de langues étrangères et écrivent dans un journal tous les jours
+560	280	unexpected	les professeurs connaissent beaucoup de langues étrangères et écrit dans un journal tous les jours
+561	281	expected	les clients connaissent beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+562	281	unexpected	les clients connaissent beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+563	282	expected	les clients connaissent beaucoup de langues étrangères et aiment regarder des émissions de télévision
+564	282	unexpected	les clients connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision
+565	283	expected	les clients connaissent beaucoup de langues étrangères et ont vingt trois ans
+566	283	unexpected	les clients connaissent beaucoup de langues étrangères et a vingt trois ans
+567	284	expected	les clients connaissent beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+568	284	unexpected	les clients connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+569	285	expected	les clients connaissent beaucoup de langues étrangères et écrivent dans un journal tous les jours
+570	285	unexpected	les clients connaissent beaucoup de langues étrangères et écrit dans un journal tous les jours
+571	286	expected	les officiers connaissent beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+572	286	unexpected	les officiers connaissent beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+573	287	expected	les officiers connaissent beaucoup de langues étrangères et aiment regarder des émissions de télévision
+574	287	unexpected	les officiers connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision
+575	288	expected	les officiers connaissent beaucoup de langues étrangères et ont vingt trois ans
+576	288	unexpected	les officiers connaissent beaucoup de langues étrangères et a vingt trois ans
+577	289	expected	les officiers connaissent beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+578	289	unexpected	les officiers connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+579	290	expected	les officiers connaissent beaucoup de langues étrangères et écrivent dans un journal tous les jours
+580	290	unexpected	les officiers connaissent beaucoup de langues étrangères et écrit dans un journal tous les jours
+581	291	expected	les pilotes connaissent beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+582	291	unexpected	les pilotes connaissent beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+583	292	expected	les pilotes connaissent beaucoup de langues étrangères et aiment regarder des émissions de télévision
+584	292	unexpected	les pilotes connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision
+585	293	expected	les pilotes connaissent beaucoup de langues étrangères et ont vingt trois ans
+586	293	unexpected	les pilotes connaissent beaucoup de langues étrangères et a vingt trois ans
+587	294	expected	les pilotes connaissent beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+588	294	unexpected	les pilotes connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+589	295	expected	les pilotes connaissent beaucoup de langues étrangères et écrivent dans un journal tous les jours
+590	295	unexpected	les pilotes connaissent beaucoup de langues étrangères et écrit dans un journal tous les jours
+591	296	expected	les consultants connaissent beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+592	296	unexpected	les consultants connaissent beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+593	297	expected	les consultants connaissent beaucoup de langues étrangères et aiment regarder des émissions de télévision
+594	297	unexpected	les consultants connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision
+595	298	expected	les consultants connaissent beaucoup de langues étrangères et ont vingt trois ans
+596	298	unexpected	les consultants connaissent beaucoup de langues étrangères et a vingt trois ans
+597	299	expected	les consultants connaissent beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+598	299	unexpected	les consultants connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+599	300	expected	les consultants connaissent beaucoup de langues étrangères et écrivent dans un journal tous les jours
+600	300	unexpected	les consultants connaissent beaucoup de langues étrangères et écrit dans un journal tous les jours
+601	301	expected	les auteurs aiment regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+602	301	unexpected	les auteurs aiment regarder des émissions de télévision et connaît beaucoup de langues étrangères
+603	302	expected	les auteurs aiment regarder des émissions de télévision et aiment regarder des émissions de télévision
+604	302	unexpected	les auteurs aiment regarder des émissions de télévision et aime regarder des émissions de télévision
+605	303	expected	les auteurs aiment regarder des émissions de télévision et ont vingt trois ans
+606	303	unexpected	les auteurs aiment regarder des émissions de télévision et a vingt trois ans
+607	304	expected	les auteurs aiment regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+608	304	unexpected	les auteurs aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+609	305	expected	les auteurs aiment regarder des émissions de télévision et écrivent dans un journal tous les jours
+610	305	unexpected	les auteurs aiment regarder des émissions de télévision et écrit dans un journal tous les jours
+611	306	expected	les directeurs aiment regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+612	306	unexpected	les directeurs aiment regarder des émissions de télévision et connaît beaucoup de langues étrangères
+613	307	expected	les directeurs aiment regarder des émissions de télévision et aiment regarder des émissions de télévision
+614	307	unexpected	les directeurs aiment regarder des émissions de télévision et aime regarder des émissions de télévision
+615	308	expected	les directeurs aiment regarder des émissions de télévision et ont vingt trois ans
+616	308	unexpected	les directeurs aiment regarder des émissions de télévision et a vingt trois ans
+617	309	expected	les directeurs aiment regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+618	309	unexpected	les directeurs aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+619	310	expected	les directeurs aiment regarder des émissions de télévision et écrivent dans un journal tous les jours
+620	310	unexpected	les directeurs aiment regarder des émissions de télévision et écrit dans un journal tous les jours
+621	311	expected	les agriculteurs aiment regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+622	311	unexpected	les agriculteurs aiment regarder des émissions de télévision et connaît beaucoup de langues étrangères
+623	312	expected	les agriculteurs aiment regarder des émissions de télévision et aiment regarder des émissions de télévision
+624	312	unexpected	les agriculteurs aiment regarder des émissions de télévision et aime regarder des émissions de télévision
+625	313	expected	les agriculteurs aiment regarder des émissions de télévision et ont vingt trois ans
+626	313	unexpected	les agriculteurs aiment regarder des émissions de télévision et a vingt trois ans
+627	314	expected	les agriculteurs aiment regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+628	314	unexpected	les agriculteurs aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+629	315	expected	les agriculteurs aiment regarder des émissions de télévision et écrivent dans un journal tous les jours
+630	315	unexpected	les agriculteurs aiment regarder des émissions de télévision et écrit dans un journal tous les jours
+631	316	expected	les chirurgiens aiment regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+632	316	unexpected	les chirurgiens aiment regarder des émissions de télévision et connaît beaucoup de langues étrangères
+633	317	expected	les chirurgiens aiment regarder des émissions de télévision et aiment regarder des émissions de télévision
+634	317	unexpected	les chirurgiens aiment regarder des émissions de télévision et aime regarder des émissions de télévision
+635	318	expected	les chirurgiens aiment regarder des émissions de télévision et ont vingt trois ans
+636	318	unexpected	les chirurgiens aiment regarder des émissions de télévision et a vingt trois ans
+637	319	expected	les chirurgiens aiment regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+638	319	unexpected	les chirurgiens aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+639	320	expected	les chirurgiens aiment regarder des émissions de télévision et écrivent dans un journal tous les jours
+640	320	unexpected	les chirurgiens aiment regarder des émissions de télévision et écrit dans un journal tous les jours
+641	321	expected	les sénateurs aiment regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+642	321	unexpected	les sénateurs aiment regarder des émissions de télévision et connaît beaucoup de langues étrangères
+643	322	expected	les sénateurs aiment regarder des émissions de télévision et aiment regarder des émissions de télévision
+644	322	unexpected	les sénateurs aiment regarder des émissions de télévision et aime regarder des émissions de télévision
+645	323	expected	les sénateurs aiment regarder des émissions de télévision et ont vingt trois ans
+646	323	unexpected	les sénateurs aiment regarder des émissions de télévision et a vingt trois ans
+647	324	expected	les sénateurs aiment regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+648	324	unexpected	les sénateurs aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+649	325	expected	les sénateurs aiment regarder des émissions de télévision et écrivent dans un journal tous les jours
+650	325	unexpected	les sénateurs aiment regarder des émissions de télévision et écrit dans un journal tous les jours
+651	326	expected	les professeurs aiment regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+652	326	unexpected	les professeurs aiment regarder des émissions de télévision et connaît beaucoup de langues étrangères
+653	327	expected	les professeurs aiment regarder des émissions de télévision et aiment regarder des émissions de télévision
+654	327	unexpected	les professeurs aiment regarder des émissions de télévision et aime regarder des émissions de télévision
+655	328	expected	les professeurs aiment regarder des émissions de télévision et ont vingt trois ans
+656	328	unexpected	les professeurs aiment regarder des émissions de télévision et a vingt trois ans
+657	329	expected	les professeurs aiment regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+658	329	unexpected	les professeurs aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+659	330	expected	les professeurs aiment regarder des émissions de télévision et écrivent dans un journal tous les jours
+660	330	unexpected	les professeurs aiment regarder des émissions de télévision et écrit dans un journal tous les jours
+661	331	expected	les clients aiment regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+662	331	unexpected	les clients aiment regarder des émissions de télévision et connaît beaucoup de langues étrangères
+663	332	expected	les clients aiment regarder des émissions de télévision et aiment regarder des émissions de télévision
+664	332	unexpected	les clients aiment regarder des émissions de télévision et aime regarder des émissions de télévision
+665	333	expected	les clients aiment regarder des émissions de télévision et ont vingt trois ans
+666	333	unexpected	les clients aiment regarder des émissions de télévision et a vingt trois ans
+667	334	expected	les clients aiment regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+668	334	unexpected	les clients aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+669	335	expected	les clients aiment regarder des émissions de télévision et écrivent dans un journal tous les jours
+670	335	unexpected	les clients aiment regarder des émissions de télévision et écrit dans un journal tous les jours
+671	336	expected	les officiers aiment regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+672	336	unexpected	les officiers aiment regarder des émissions de télévision et connaît beaucoup de langues étrangères
+673	337	expected	les officiers aiment regarder des émissions de télévision et aiment regarder des émissions de télévision
+674	337	unexpected	les officiers aiment regarder des émissions de télévision et aime regarder des émissions de télévision
+675	338	expected	les officiers aiment regarder des émissions de télévision et ont vingt trois ans
+676	338	unexpected	les officiers aiment regarder des émissions de télévision et a vingt trois ans
+677	339	expected	les officiers aiment regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+678	339	unexpected	les officiers aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+679	340	expected	les officiers aiment regarder des émissions de télévision et écrivent dans un journal tous les jours
+680	340	unexpected	les officiers aiment regarder des émissions de télévision et écrit dans un journal tous les jours
+681	341	expected	les pilotes aiment regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+682	341	unexpected	les pilotes aiment regarder des émissions de télévision et connaît beaucoup de langues étrangères
+683	342	expected	les pilotes aiment regarder des émissions de télévision et aiment regarder des émissions de télévision
+684	342	unexpected	les pilotes aiment regarder des émissions de télévision et aime regarder des émissions de télévision
+685	343	expected	les pilotes aiment regarder des émissions de télévision et ont vingt trois ans
+686	343	unexpected	les pilotes aiment regarder des émissions de télévision et a vingt trois ans
+687	344	expected	les pilotes aiment regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+688	344	unexpected	les pilotes aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+689	345	expected	les pilotes aiment regarder des émissions de télévision et écrivent dans un journal tous les jours
+690	345	unexpected	les pilotes aiment regarder des émissions de télévision et écrit dans un journal tous les jours
+691	346	expected	les consultants aiment regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+692	346	unexpected	les consultants aiment regarder des émissions de télévision et connaît beaucoup de langues étrangères
+693	347	expected	les consultants aiment regarder des émissions de télévision et aiment regarder des émissions de télévision
+694	347	unexpected	les consultants aiment regarder des émissions de télévision et aime regarder des émissions de télévision
+695	348	expected	les consultants aiment regarder des émissions de télévision et ont vingt trois ans
+696	348	unexpected	les consultants aiment regarder des émissions de télévision et a vingt trois ans
+697	349	expected	les consultants aiment regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+698	349	unexpected	les consultants aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+699	350	expected	les consultants aiment regarder des émissions de télévision et écrivent dans un journal tous les jours
+700	350	unexpected	les consultants aiment regarder des émissions de télévision et écrit dans un journal tous les jours
+701	351	expected	les auteurs ont vingt trois ans et connaissent beaucoup de langues étrangères
+702	351	unexpected	les auteurs ont vingt trois ans et connaît beaucoup de langues étrangères
+703	352	expected	les auteurs ont vingt trois ans et aiment regarder des émissions de télévision
+704	352	unexpected	les auteurs ont vingt trois ans et aime regarder des émissions de télévision
+705	353	expected	les auteurs ont vingt trois ans et ont vingt trois ans
+706	353	unexpected	les auteurs ont vingt trois ans et a vingt trois ans
+707	354	expected	les auteurs ont vingt trois ans et préfèrent jouer au tennis avec des collègues
+708	354	unexpected	les auteurs ont vingt trois ans et préfère jouer au tennis avec des collègues
+709	355	expected	les auteurs ont vingt trois ans et écrivent dans un journal tous les jours
+710	355	unexpected	les auteurs ont vingt trois ans et écrit dans un journal tous les jours
+711	356	expected	les directeurs ont vingt trois ans et connaissent beaucoup de langues étrangères
+712	356	unexpected	les directeurs ont vingt trois ans et connaît beaucoup de langues étrangères
+713	357	expected	les directeurs ont vingt trois ans et aiment regarder des émissions de télévision
+714	357	unexpected	les directeurs ont vingt trois ans et aime regarder des émissions de télévision
+715	358	expected	les directeurs ont vingt trois ans et ont vingt trois ans
+716	358	unexpected	les directeurs ont vingt trois ans et a vingt trois ans
+717	359	expected	les directeurs ont vingt trois ans et préfèrent jouer au tennis avec des collègues
+718	359	unexpected	les directeurs ont vingt trois ans et préfère jouer au tennis avec des collègues
+719	360	expected	les directeurs ont vingt trois ans et écrivent dans un journal tous les jours
+720	360	unexpected	les directeurs ont vingt trois ans et écrit dans un journal tous les jours
+721	361	expected	les agriculteurs ont vingt trois ans et connaissent beaucoup de langues étrangères
+722	361	unexpected	les agriculteurs ont vingt trois ans et connaît beaucoup de langues étrangères
+723	362	expected	les agriculteurs ont vingt trois ans et aiment regarder des émissions de télévision
+724	362	unexpected	les agriculteurs ont vingt trois ans et aime regarder des émissions de télévision
+725	363	expected	les agriculteurs ont vingt trois ans et ont vingt trois ans
+726	363	unexpected	les agriculteurs ont vingt trois ans et a vingt trois ans
+727	364	expected	les agriculteurs ont vingt trois ans et préfèrent jouer au tennis avec des collègues
+728	364	unexpected	les agriculteurs ont vingt trois ans et préfère jouer au tennis avec des collègues
+729	365	expected	les agriculteurs ont vingt trois ans et écrivent dans un journal tous les jours
+730	365	unexpected	les agriculteurs ont vingt trois ans et écrit dans un journal tous les jours
+731	366	expected	les chirurgiens ont vingt trois ans et connaissent beaucoup de langues étrangères
+732	366	unexpected	les chirurgiens ont vingt trois ans et connaît beaucoup de langues étrangères
+733	367	expected	les chirurgiens ont vingt trois ans et aiment regarder des émissions de télévision
+734	367	unexpected	les chirurgiens ont vingt trois ans et aime regarder des émissions de télévision
+735	368	expected	les chirurgiens ont vingt trois ans et ont vingt trois ans
+736	368	unexpected	les chirurgiens ont vingt trois ans et a vingt trois ans
+737	369	expected	les chirurgiens ont vingt trois ans et préfèrent jouer au tennis avec des collègues
+738	369	unexpected	les chirurgiens ont vingt trois ans et préfère jouer au tennis avec des collègues
+739	370	expected	les chirurgiens ont vingt trois ans et écrivent dans un journal tous les jours
+740	370	unexpected	les chirurgiens ont vingt trois ans et écrit dans un journal tous les jours
+741	371	expected	les sénateurs ont vingt trois ans et connaissent beaucoup de langues étrangères
+742	371	unexpected	les sénateurs ont vingt trois ans et connaît beaucoup de langues étrangères
+743	372	expected	les sénateurs ont vingt trois ans et aiment regarder des émissions de télévision
+744	372	unexpected	les sénateurs ont vingt trois ans et aime regarder des émissions de télévision
+745	373	expected	les sénateurs ont vingt trois ans et ont vingt trois ans
+746	373	unexpected	les sénateurs ont vingt trois ans et a vingt trois ans
+747	374	expected	les sénateurs ont vingt trois ans et préfèrent jouer au tennis avec des collègues
+748	374	unexpected	les sénateurs ont vingt trois ans et préfère jouer au tennis avec des collègues
+749	375	expected	les sénateurs ont vingt trois ans et écrivent dans un journal tous les jours
+750	375	unexpected	les sénateurs ont vingt trois ans et écrit dans un journal tous les jours
+751	376	expected	les professeurs ont vingt trois ans et connaissent beaucoup de langues étrangères
+752	376	unexpected	les professeurs ont vingt trois ans et connaît beaucoup de langues étrangères
+753	377	expected	les professeurs ont vingt trois ans et aiment regarder des émissions de télévision
+754	377	unexpected	les professeurs ont vingt trois ans et aime regarder des émissions de télévision
+755	378	expected	les professeurs ont vingt trois ans et ont vingt trois ans
+756	378	unexpected	les professeurs ont vingt trois ans et a vingt trois ans
+757	379	expected	les professeurs ont vingt trois ans et préfèrent jouer au tennis avec des collègues
+758	379	unexpected	les professeurs ont vingt trois ans et préfère jouer au tennis avec des collègues
+759	380	expected	les professeurs ont vingt trois ans et écrivent dans un journal tous les jours
+760	380	unexpected	les professeurs ont vingt trois ans et écrit dans un journal tous les jours
+761	381	expected	les clients ont vingt trois ans et connaissent beaucoup de langues étrangères
+762	381	unexpected	les clients ont vingt trois ans et connaît beaucoup de langues étrangères
+763	382	expected	les clients ont vingt trois ans et aiment regarder des émissions de télévision
+764	382	unexpected	les clients ont vingt trois ans et aime regarder des émissions de télévision
+765	383	expected	les clients ont vingt trois ans et ont vingt trois ans
+766	383	unexpected	les clients ont vingt trois ans et a vingt trois ans
+767	384	expected	les clients ont vingt trois ans et préfèrent jouer au tennis avec des collègues
+768	384	unexpected	les clients ont vingt trois ans et préfère jouer au tennis avec des collègues
+769	385	expected	les clients ont vingt trois ans et écrivent dans un journal tous les jours
+770	385	unexpected	les clients ont vingt trois ans et écrit dans un journal tous les jours
+771	386	expected	les officiers ont vingt trois ans et connaissent beaucoup de langues étrangères
+772	386	unexpected	les officiers ont vingt trois ans et connaît beaucoup de langues étrangères
+773	387	expected	les officiers ont vingt trois ans et aiment regarder des émissions de télévision
+774	387	unexpected	les officiers ont vingt trois ans et aime regarder des émissions de télévision
+775	388	expected	les officiers ont vingt trois ans et ont vingt trois ans
+776	388	unexpected	les officiers ont vingt trois ans et a vingt trois ans
+777	389	expected	les officiers ont vingt trois ans et préfèrent jouer au tennis avec des collègues
+778	389	unexpected	les officiers ont vingt trois ans et préfère jouer au tennis avec des collègues
+779	390	expected	les officiers ont vingt trois ans et écrivent dans un journal tous les jours
+780	390	unexpected	les officiers ont vingt trois ans et écrit dans un journal tous les jours
+781	391	expected	les pilotes ont vingt trois ans et connaissent beaucoup de langues étrangères
+782	391	unexpected	les pilotes ont vingt trois ans et connaît beaucoup de langues étrangères
+783	392	expected	les pilotes ont vingt trois ans et aiment regarder des émissions de télévision
+784	392	unexpected	les pilotes ont vingt trois ans et aime regarder des émissions de télévision
+785	393	expected	les pilotes ont vingt trois ans et ont vingt trois ans
+786	393	unexpected	les pilotes ont vingt trois ans et a vingt trois ans
+787	394	expected	les pilotes ont vingt trois ans et préfèrent jouer au tennis avec des collègues
+788	394	unexpected	les pilotes ont vingt trois ans et préfère jouer au tennis avec des collègues
+789	395	expected	les pilotes ont vingt trois ans et écrivent dans un journal tous les jours
+790	395	unexpected	les pilotes ont vingt trois ans et écrit dans un journal tous les jours
+791	396	expected	les consultants ont vingt trois ans et connaissent beaucoup de langues étrangères
+792	396	unexpected	les consultants ont vingt trois ans et connaît beaucoup de langues étrangères
+793	397	expected	les consultants ont vingt trois ans et aiment regarder des émissions de télévision
+794	397	unexpected	les consultants ont vingt trois ans et aime regarder des émissions de télévision
+795	398	expected	les consultants ont vingt trois ans et ont vingt trois ans
+796	398	unexpected	les consultants ont vingt trois ans et a vingt trois ans
+797	399	expected	les consultants ont vingt trois ans et préfèrent jouer au tennis avec des collègues
+798	399	unexpected	les consultants ont vingt trois ans et préfère jouer au tennis avec des collègues
+799	400	expected	les consultants ont vingt trois ans et écrivent dans un journal tous les jours
+800	400	unexpected	les consultants ont vingt trois ans et écrit dans un journal tous les jours
+801	401	expected	les auteurs préfèrent jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+802	401	unexpected	les auteurs préfèrent jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+803	402	expected	les auteurs préfèrent jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+804	402	unexpected	les auteurs préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision
+805	403	expected	les auteurs préfèrent jouer au tennis avec des collègues et ont vingt trois ans
+806	403	unexpected	les auteurs préfèrent jouer au tennis avec des collègues et a vingt trois ans
+807	404	expected	les auteurs préfèrent jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+808	404	unexpected	les auteurs préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+809	405	expected	les auteurs préfèrent jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+810	405	unexpected	les auteurs préfèrent jouer au tennis avec des collègues et écrit dans un journal tous les jours
+811	406	expected	les directeurs préfèrent jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+812	406	unexpected	les directeurs préfèrent jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+813	407	expected	les directeurs préfèrent jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+814	407	unexpected	les directeurs préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision
+815	408	expected	les directeurs préfèrent jouer au tennis avec des collègues et ont vingt trois ans
+816	408	unexpected	les directeurs préfèrent jouer au tennis avec des collègues et a vingt trois ans
+817	409	expected	les directeurs préfèrent jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+818	409	unexpected	les directeurs préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+819	410	expected	les directeurs préfèrent jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+820	410	unexpected	les directeurs préfèrent jouer au tennis avec des collègues et écrit dans un journal tous les jours
+821	411	expected	les agriculteurs préfèrent jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+822	411	unexpected	les agriculteurs préfèrent jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+823	412	expected	les agriculteurs préfèrent jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+824	412	unexpected	les agriculteurs préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision
+825	413	expected	les agriculteurs préfèrent jouer au tennis avec des collègues et ont vingt trois ans
+826	413	unexpected	les agriculteurs préfèrent jouer au tennis avec des collègues et a vingt trois ans
+827	414	expected	les agriculteurs préfèrent jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+828	414	unexpected	les agriculteurs préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+829	415	expected	les agriculteurs préfèrent jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+830	415	unexpected	les agriculteurs préfèrent jouer au tennis avec des collègues et écrit dans un journal tous les jours
+831	416	expected	les chirurgiens préfèrent jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+832	416	unexpected	les chirurgiens préfèrent jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+833	417	expected	les chirurgiens préfèrent jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+834	417	unexpected	les chirurgiens préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision
+835	418	expected	les chirurgiens préfèrent jouer au tennis avec des collègues et ont vingt trois ans
+836	418	unexpected	les chirurgiens préfèrent jouer au tennis avec des collègues et a vingt trois ans
+837	419	expected	les chirurgiens préfèrent jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+838	419	unexpected	les chirurgiens préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+839	420	expected	les chirurgiens préfèrent jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+840	420	unexpected	les chirurgiens préfèrent jouer au tennis avec des collègues et écrit dans un journal tous les jours
+841	421	expected	les sénateurs préfèrent jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+842	421	unexpected	les sénateurs préfèrent jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+843	422	expected	les sénateurs préfèrent jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+844	422	unexpected	les sénateurs préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision
+845	423	expected	les sénateurs préfèrent jouer au tennis avec des collègues et ont vingt trois ans
+846	423	unexpected	les sénateurs préfèrent jouer au tennis avec des collègues et a vingt trois ans
+847	424	expected	les sénateurs préfèrent jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+848	424	unexpected	les sénateurs préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+849	425	expected	les sénateurs préfèrent jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+850	425	unexpected	les sénateurs préfèrent jouer au tennis avec des collègues et écrit dans un journal tous les jours
+851	426	expected	les professeurs préfèrent jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+852	426	unexpected	les professeurs préfèrent jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+853	427	expected	les professeurs préfèrent jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+854	427	unexpected	les professeurs préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision
+855	428	expected	les professeurs préfèrent jouer au tennis avec des collègues et ont vingt trois ans
+856	428	unexpected	les professeurs préfèrent jouer au tennis avec des collègues et a vingt trois ans
+857	429	expected	les professeurs préfèrent jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+858	429	unexpected	les professeurs préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+859	430	expected	les professeurs préfèrent jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+860	430	unexpected	les professeurs préfèrent jouer au tennis avec des collègues et écrit dans un journal tous les jours
+861	431	expected	les clients préfèrent jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+862	431	unexpected	les clients préfèrent jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+863	432	expected	les clients préfèrent jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+864	432	unexpected	les clients préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision
+865	433	expected	les clients préfèrent jouer au tennis avec des collègues et ont vingt trois ans
+866	433	unexpected	les clients préfèrent jouer au tennis avec des collègues et a vingt trois ans
+867	434	expected	les clients préfèrent jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+868	434	unexpected	les clients préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+869	435	expected	les clients préfèrent jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+870	435	unexpected	les clients préfèrent jouer au tennis avec des collègues et écrit dans un journal tous les jours
+871	436	expected	les officiers préfèrent jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+872	436	unexpected	les officiers préfèrent jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+873	437	expected	les officiers préfèrent jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+874	437	unexpected	les officiers préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision
+875	438	expected	les officiers préfèrent jouer au tennis avec des collègues et ont vingt trois ans
+876	438	unexpected	les officiers préfèrent jouer au tennis avec des collègues et a vingt trois ans
+877	439	expected	les officiers préfèrent jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+878	439	unexpected	les officiers préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+879	440	expected	les officiers préfèrent jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+880	440	unexpected	les officiers préfèrent jouer au tennis avec des collègues et écrit dans un journal tous les jours
+881	441	expected	les pilotes préfèrent jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+882	441	unexpected	les pilotes préfèrent jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+883	442	expected	les pilotes préfèrent jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+884	442	unexpected	les pilotes préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision
+885	443	expected	les pilotes préfèrent jouer au tennis avec des collègues et ont vingt trois ans
+886	443	unexpected	les pilotes préfèrent jouer au tennis avec des collègues et a vingt trois ans
+887	444	expected	les pilotes préfèrent jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+888	444	unexpected	les pilotes préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+889	445	expected	les pilotes préfèrent jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+890	445	unexpected	les pilotes préfèrent jouer au tennis avec des collègues et écrit dans un journal tous les jours
+891	446	expected	les consultants préfèrent jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+892	446	unexpected	les consultants préfèrent jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+893	447	expected	les consultants préfèrent jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+894	447	unexpected	les consultants préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision
+895	448	expected	les consultants préfèrent jouer au tennis avec des collègues et ont vingt trois ans
+896	448	unexpected	les consultants préfèrent jouer au tennis avec des collègues et a vingt trois ans
+897	449	expected	les consultants préfèrent jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+898	449	unexpected	les consultants préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+899	450	expected	les consultants préfèrent jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+900	450	unexpected	les consultants préfèrent jouer au tennis avec des collègues et écrit dans un journal tous les jours
+901	451	expected	les auteurs écrivent dans un journal tous les jours et connaissent beaucoup de langues étrangères
+902	451	unexpected	les auteurs écrivent dans un journal tous les jours et connaît beaucoup de langues étrangères
+903	452	expected	les auteurs écrivent dans un journal tous les jours et aiment regarder des émissions de télévision
+904	452	unexpected	les auteurs écrivent dans un journal tous les jours et aime regarder des émissions de télévision
+905	453	expected	les auteurs écrivent dans un journal tous les jours et ont vingt trois ans
+906	453	unexpected	les auteurs écrivent dans un journal tous les jours et a vingt trois ans
+907	454	expected	les auteurs écrivent dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+908	454	unexpected	les auteurs écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues
+909	455	expected	les auteurs écrivent dans un journal tous les jours et écrivent dans un journal tous les jours
+910	455	unexpected	les auteurs écrivent dans un journal tous les jours et écrit dans un journal tous les jours
+911	456	expected	les directeurs écrivent dans un journal tous les jours et connaissent beaucoup de langues étrangères
+912	456	unexpected	les directeurs écrivent dans un journal tous les jours et connaît beaucoup de langues étrangères
+913	457	expected	les directeurs écrivent dans un journal tous les jours et aiment regarder des émissions de télévision
+914	457	unexpected	les directeurs écrivent dans un journal tous les jours et aime regarder des émissions de télévision
+915	458	expected	les directeurs écrivent dans un journal tous les jours et ont vingt trois ans
+916	458	unexpected	les directeurs écrivent dans un journal tous les jours et a vingt trois ans
+917	459	expected	les directeurs écrivent dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+918	459	unexpected	les directeurs écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues
+919	460	expected	les directeurs écrivent dans un journal tous les jours et écrivent dans un journal tous les jours
+920	460	unexpected	les directeurs écrivent dans un journal tous les jours et écrit dans un journal tous les jours
+921	461	expected	les agriculteurs écrivent dans un journal tous les jours et connaissent beaucoup de langues étrangères
+922	461	unexpected	les agriculteurs écrivent dans un journal tous les jours et connaît beaucoup de langues étrangères
+923	462	expected	les agriculteurs écrivent dans un journal tous les jours et aiment regarder des émissions de télévision
+924	462	unexpected	les agriculteurs écrivent dans un journal tous les jours et aime regarder des émissions de télévision
+925	463	expected	les agriculteurs écrivent dans un journal tous les jours et ont vingt trois ans
+926	463	unexpected	les agriculteurs écrivent dans un journal tous les jours et a vingt trois ans
+927	464	expected	les agriculteurs écrivent dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+928	464	unexpected	les agriculteurs écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues
+929	465	expected	les agriculteurs écrivent dans un journal tous les jours et écrivent dans un journal tous les jours
+930	465	unexpected	les agriculteurs écrivent dans un journal tous les jours et écrit dans un journal tous les jours
+931	466	expected	les chirurgiens écrivent dans un journal tous les jours et connaissent beaucoup de langues étrangères
+932	466	unexpected	les chirurgiens écrivent dans un journal tous les jours et connaît beaucoup de langues étrangères
+933	467	expected	les chirurgiens écrivent dans un journal tous les jours et aiment regarder des émissions de télévision
+934	467	unexpected	les chirurgiens écrivent dans un journal tous les jours et aime regarder des émissions de télévision
+935	468	expected	les chirurgiens écrivent dans un journal tous les jours et ont vingt trois ans
+936	468	unexpected	les chirurgiens écrivent dans un journal tous les jours et a vingt trois ans
+937	469	expected	les chirurgiens écrivent dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+938	469	unexpected	les chirurgiens écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues
+939	470	expected	les chirurgiens écrivent dans un journal tous les jours et écrivent dans un journal tous les jours
+940	470	unexpected	les chirurgiens écrivent dans un journal tous les jours et écrit dans un journal tous les jours
+941	471	expected	les sénateurs écrivent dans un journal tous les jours et connaissent beaucoup de langues étrangères
+942	471	unexpected	les sénateurs écrivent dans un journal tous les jours et connaît beaucoup de langues étrangères
+943	472	expected	les sénateurs écrivent dans un journal tous les jours et aiment regarder des émissions de télévision
+944	472	unexpected	les sénateurs écrivent dans un journal tous les jours et aime regarder des émissions de télévision
+945	473	expected	les sénateurs écrivent dans un journal tous les jours et ont vingt trois ans
+946	473	unexpected	les sénateurs écrivent dans un journal tous les jours et a vingt trois ans
+947	474	expected	les sénateurs écrivent dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+948	474	unexpected	les sénateurs écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues
+949	475	expected	les sénateurs écrivent dans un journal tous les jours et écrivent dans un journal tous les jours
+950	475	unexpected	les sénateurs écrivent dans un journal tous les jours et écrit dans un journal tous les jours
+951	476	expected	les professeurs écrivent dans un journal tous les jours et connaissent beaucoup de langues étrangères
+952	476	unexpected	les professeurs écrivent dans un journal tous les jours et connaît beaucoup de langues étrangères
+953	477	expected	les professeurs écrivent dans un journal tous les jours et aiment regarder des émissions de télévision
+954	477	unexpected	les professeurs écrivent dans un journal tous les jours et aime regarder des émissions de télévision
+955	478	expected	les professeurs écrivent dans un journal tous les jours et ont vingt trois ans
+956	478	unexpected	les professeurs écrivent dans un journal tous les jours et a vingt trois ans
+957	479	expected	les professeurs écrivent dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+958	479	unexpected	les professeurs écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues
+959	480	expected	les professeurs écrivent dans un journal tous les jours et écrivent dans un journal tous les jours
+960	480	unexpected	les professeurs écrivent dans un journal tous les jours et écrit dans un journal tous les jours
+961	481	expected	les clients écrivent dans un journal tous les jours et connaissent beaucoup de langues étrangères
+962	481	unexpected	les clients écrivent dans un journal tous les jours et connaît beaucoup de langues étrangères
+963	482	expected	les clients écrivent dans un journal tous les jours et aiment regarder des émissions de télévision
+964	482	unexpected	les clients écrivent dans un journal tous les jours et aime regarder des émissions de télévision
+965	483	expected	les clients écrivent dans un journal tous les jours et ont vingt trois ans
+966	483	unexpected	les clients écrivent dans un journal tous les jours et a vingt trois ans
+967	484	expected	les clients écrivent dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+968	484	unexpected	les clients écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues
+969	485	expected	les clients écrivent dans un journal tous les jours et écrivent dans un journal tous les jours
+970	485	unexpected	les clients écrivent dans un journal tous les jours et écrit dans un journal tous les jours
+971	486	expected	les officiers écrivent dans un journal tous les jours et connaissent beaucoup de langues étrangères
+972	486	unexpected	les officiers écrivent dans un journal tous les jours et connaît beaucoup de langues étrangères
+973	487	expected	les officiers écrivent dans un journal tous les jours et aiment regarder des émissions de télévision
+974	487	unexpected	les officiers écrivent dans un journal tous les jours et aime regarder des émissions de télévision
+975	488	expected	les officiers écrivent dans un journal tous les jours et ont vingt trois ans
+976	488	unexpected	les officiers écrivent dans un journal tous les jours et a vingt trois ans
+977	489	expected	les officiers écrivent dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+978	489	unexpected	les officiers écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues
+979	490	expected	les officiers écrivent dans un journal tous les jours et écrivent dans un journal tous les jours
+980	490	unexpected	les officiers écrivent dans un journal tous les jours et écrit dans un journal tous les jours
+981	491	expected	les pilotes écrivent dans un journal tous les jours et connaissent beaucoup de langues étrangères
+982	491	unexpected	les pilotes écrivent dans un journal tous les jours et connaît beaucoup de langues étrangères
+983	492	expected	les pilotes écrivent dans un journal tous les jours et aiment regarder des émissions de télévision
+984	492	unexpected	les pilotes écrivent dans un journal tous les jours et aime regarder des émissions de télévision
+985	493	expected	les pilotes écrivent dans un journal tous les jours et ont vingt trois ans
+986	493	unexpected	les pilotes écrivent dans un journal tous les jours et a vingt trois ans
+987	494	expected	les pilotes écrivent dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+988	494	unexpected	les pilotes écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues
+989	495	expected	les pilotes écrivent dans un journal tous les jours et écrivent dans un journal tous les jours
+990	495	unexpected	les pilotes écrivent dans un journal tous les jours et écrit dans un journal tous les jours
+991	496	expected	les consultants écrivent dans un journal tous les jours et connaissent beaucoup de langues étrangères
+992	496	unexpected	les consultants écrivent dans un journal tous les jours et connaît beaucoup de langues étrangères
+993	497	expected	les consultants écrivent dans un journal tous les jours et aiment regarder des émissions de télévision
+994	497	unexpected	les consultants écrivent dans un journal tous les jours et aime regarder des émissions de télévision
+995	498	expected	les consultants écrivent dans un journal tous les jours et ont vingt trois ans
+996	498	unexpected	les consultants écrivent dans un journal tous les jours et a vingt trois ans
+997	499	expected	les consultants écrivent dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+998	499	unexpected	les consultants écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues
+999	500	expected	les consultants écrivent dans un journal tous les jours et écrivent dans un journal tous les jours
+1000	500	unexpected	les consultants écrivent dans un journal tous les jours et écrit dans un journal tous les jours

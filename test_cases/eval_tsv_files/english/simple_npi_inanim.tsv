@@ -1,0 +1,253 @@
+sentid	pairid	comparison	sentence
+1	1	expected	no movies have ever been seen
+2	1	unexpected	the movies have ever been seen
+3	2	expected	no movies have ever been appreciatedbeen ignored
+4	2	unexpected	the movies have ever been appreciatedbeen ignored
+5	3	expected	no movies have ever gotten old
+6	3	unexpected	the movies have ever gotten old
+7	4	expected	no books have ever been seen
+8	4	unexpected	the books have ever been seen
+9	5	expected	no books have ever been appreciatedbeen ignored
+10	5	unexpected	the books have ever been appreciatedbeen ignored
+11	6	expected	no books have ever gotten old
+12	6	unexpected	the books have ever gotten old
+13	7	expected	no games have ever been seen
+14	7	unexpected	the games have ever been seen
+15	8	expected	no games have ever been appreciatedbeen ignored
+16	8	unexpected	the games have ever been appreciatedbeen ignored
+17	9	expected	no games have ever gotten old
+18	9	unexpected	the games have ever gotten old
+19	10	expected	no songs have ever been seen
+20	10	unexpected	the songs have ever been seen
+21	11	expected	no songs have ever been appreciatedbeen ignored
+22	11	unexpected	the songs have ever been appreciatedbeen ignored
+23	12	expected	no songs have ever gotten old
+24	12	unexpected	the songs have ever gotten old
+25	13	expected	no pictures have ever been seen
+26	13	unexpected	the pictures have ever been seen
+27	14	expected	no pictures have ever been appreciatedbeen ignored
+28	14	unexpected	the pictures have ever been appreciatedbeen ignored
+29	15	expected	no pictures have ever gotten old
+30	15	unexpected	the pictures have ever gotten old
+31	16	expected	no paintings have ever been seen
+32	16	unexpected	the paintings have ever been seen
+33	17	expected	no paintings have ever been appreciatedbeen ignored
+34	17	unexpected	the paintings have ever been appreciatedbeen ignored
+35	18	expected	no paintings have ever gotten old
+36	18	unexpected	the paintings have ever gotten old
+37	19	expected	no novels have ever been seen
+38	19	unexpected	the novels have ever been seen
+39	20	expected	no novels have ever been appreciatedbeen ignored
+40	20	unexpected	the novels have ever been appreciatedbeen ignored
+41	21	expected	no novels have ever gotten old
+42	21	unexpected	the novels have ever gotten old
+43	22	expected	no poems have ever been seen
+44	22	unexpected	the poems have ever been seen
+45	23	expected	no poems have ever been appreciatedbeen ignored
+46	23	unexpected	the poems have ever been appreciatedbeen ignored
+47	24	expected	no poems have ever gotten old
+48	24	unexpected	the poems have ever gotten old
+49	25	expected	no shows have ever been seen
+50	25	unexpected	the shows have ever been seen
+51	26	expected	no shows have ever been appreciatedbeen ignored
+52	26	unexpected	the shows have ever been appreciatedbeen ignored
+53	27	expected	no shows have ever gotten old
+54	27	unexpected	the shows have ever gotten old
+55	28	expected	few movies have ever been seen
+56	28	unexpected	some movies have ever been seen
+57	29	expected	few movies have ever been appreciatedbeen ignored
+58	29	unexpected	some movies have ever been appreciatedbeen ignored
+59	30	expected	few movies have ever gotten old
+60	30	unexpected	some movies have ever gotten old
+61	31	expected	few books have ever been seen
+62	31	unexpected	some books have ever been seen
+63	32	expected	few books have ever been appreciatedbeen ignored
+64	32	unexpected	some books have ever been appreciatedbeen ignored
+65	33	expected	few books have ever gotten old
+66	33	unexpected	some books have ever gotten old
+67	34	expected	few games have ever been seen
+68	34	unexpected	some games have ever been seen
+69	35	expected	few games have ever been appreciatedbeen ignored
+70	35	unexpected	some games have ever been appreciatedbeen ignored
+71	36	expected	few games have ever gotten old
+72	36	unexpected	some games have ever gotten old
+73	37	expected	few songs have ever been seen
+74	37	unexpected	some songs have ever been seen
+75	38	expected	few songs have ever been appreciatedbeen ignored
+76	38	unexpected	some songs have ever been appreciatedbeen ignored
+77	39	expected	few songs have ever gotten old
+78	39	unexpected	some songs have ever gotten old
+79	40	expected	few pictures have ever been seen
+80	40	unexpected	some pictures have ever been seen
+81	41	expected	few pictures have ever been appreciatedbeen ignored
+82	41	unexpected	some pictures have ever been appreciatedbeen ignored
+83	42	expected	few pictures have ever gotten old
+84	42	unexpected	some pictures have ever gotten old
+85	43	expected	few paintings have ever been seen
+86	43	unexpected	some paintings have ever been seen
+87	44	expected	few paintings have ever been appreciatedbeen ignored
+88	44	unexpected	some paintings have ever been appreciatedbeen ignored
+89	45	expected	few paintings have ever gotten old
+90	45	unexpected	some paintings have ever gotten old
+91	46	expected	few novels have ever been seen
+92	46	unexpected	some novels have ever been seen
+93	47	expected	few novels have ever been appreciatedbeen ignored
+94	47	unexpected	some novels have ever been appreciatedbeen ignored
+95	48	expected	few novels have ever gotten old
+96	48	unexpected	some novels have ever gotten old
+97	49	expected	few poems have ever been seen
+98	49	unexpected	some poems have ever been seen
+99	50	expected	few poems have ever been appreciatedbeen ignored
+100	50	unexpected	some poems have ever been appreciatedbeen ignored
+101	51	expected	few poems have ever gotten old
+102	51	unexpected	some poems have ever gotten old
+103	52	expected	few shows have ever been seen
+104	52	unexpected	some shows have ever been seen
+105	53	expected	few shows have ever been appreciatedbeen ignored
+106	53	unexpected	some shows have ever been appreciatedbeen ignored
+107	54	expected	few shows have ever gotten old
+108	54	unexpected	some shows have ever gotten old
+109	55	expected	no movies will ever be seen
+110	55	unexpected	the movies will ever be seen
+111	56	expected	no movies will ever be appreciated
+112	56	unexpected	the movies will ever be appreciated
+113	57	expected	no movies will ever be ignored
+114	57	unexpected	the movies will ever be ignored
+115	58	expected	no movies will ever get old
+116	58	unexpected	the movies will ever get old
+117	59	expected	no books will ever be seen
+118	59	unexpected	the books will ever be seen
+119	60	expected	no books will ever be appreciated
+120	60	unexpected	the books will ever be appreciated
+121	61	expected	no books will ever be ignored
+122	61	unexpected	the books will ever be ignored
+123	62	expected	no books will ever get old
+124	62	unexpected	the books will ever get old
+125	63	expected	no games will ever be seen
+126	63	unexpected	the games will ever be seen
+127	64	expected	no games will ever be appreciated
+128	64	unexpected	the games will ever be appreciated
+129	65	expected	no games will ever be ignored
+130	65	unexpected	the games will ever be ignored
+131	66	expected	no games will ever get old
+132	66	unexpected	the games will ever get old
+133	67	expected	no songs will ever be seen
+134	67	unexpected	the songs will ever be seen
+135	68	expected	no songs will ever be appreciated
+136	68	unexpected	the songs will ever be appreciated
+137	69	expected	no songs will ever be ignored
+138	69	unexpected	the songs will ever be ignored
+139	70	expected	no songs will ever get old
+140	70	unexpected	the songs will ever get old
+141	71	expected	no pictures will ever be seen
+142	71	unexpected	the pictures will ever be seen
+143	72	expected	no pictures will ever be appreciated
+144	72	unexpected	the pictures will ever be appreciated
+145	73	expected	no pictures will ever be ignored
+146	73	unexpected	the pictures will ever be ignored
+147	74	expected	no pictures will ever get old
+148	74	unexpected	the pictures will ever get old
+149	75	expected	no paintings will ever be seen
+150	75	unexpected	the paintings will ever be seen
+151	76	expected	no paintings will ever be appreciated
+152	76	unexpected	the paintings will ever be appreciated
+153	77	expected	no paintings will ever be ignored
+154	77	unexpected	the paintings will ever be ignored
+155	78	expected	no paintings will ever get old
+156	78	unexpected	the paintings will ever get old
+157	79	expected	no novels will ever be seen
+158	79	unexpected	the novels will ever be seen
+159	80	expected	no novels will ever be appreciated
+160	80	unexpected	the novels will ever be appreciated
+161	81	expected	no novels will ever be ignored
+162	81	unexpected	the novels will ever be ignored
+163	82	expected	no novels will ever get old
+164	82	unexpected	the novels will ever get old
+165	83	expected	no poems will ever be seen
+166	83	unexpected	the poems will ever be seen
+167	84	expected	no poems will ever be appreciated
+168	84	unexpected	the poems will ever be appreciated
+169	85	expected	no poems will ever be ignored
+170	85	unexpected	the poems will ever be ignored
+171	86	expected	no poems will ever get old
+172	86	unexpected	the poems will ever get old
+173	87	expected	no shows will ever be seen
+174	87	unexpected	the shows will ever be seen
+175	88	expected	no shows will ever be appreciated
+176	88	unexpected	the shows will ever be appreciated
+177	89	expected	no shows will ever be ignored
+178	89	unexpected	the shows will ever be ignored
+179	90	expected	no shows will ever get old
+180	90	unexpected	the shows will ever get old
+181	91	expected	few movies will ever be seen
+182	91	unexpected	some movies will ever be seen
+183	92	expected	few movies will ever be appreciated
+184	92	unexpected	some movies will ever be appreciated
+185	93	expected	few movies will ever be ignored
+186	93	unexpected	some movies will ever be ignored
+187	94	expected	few movies will ever get old
+188	94	unexpected	some movies will ever get old
+189	95	expected	few books will ever be seen
+190	95	unexpected	some books will ever be seen
+191	96	expected	few books will ever be appreciated
+192	96	unexpected	some books will ever be appreciated
+193	97	expected	few books will ever be ignored
+194	97	unexpected	some books will ever be ignored
+195	98	expected	few books will ever get old
+196	98	unexpected	some books will ever get old
+197	99	expected	few games will ever be seen
+198	99	unexpected	some games will ever be seen
+199	100	expected	few games will ever be appreciated
+200	100	unexpected	some games will ever be appreciated
+201	101	expected	few games will ever be ignored
+202	101	unexpected	some games will ever be ignored
+203	102	expected	few games will ever get old
+204	102	unexpected	some games will ever get old
+205	103	expected	few songs will ever be seen
+206	103	unexpected	some songs will ever be seen
+207	104	expected	few songs will ever be appreciated
+208	104	unexpected	some songs will ever be appreciated
+209	105	expected	few songs will ever be ignored
+210	105	unexpected	some songs will ever be ignored
+211	106	expected	few songs will ever get old
+212	106	unexpected	some songs will ever get old
+213	107	expected	few pictures will ever be seen
+214	107	unexpected	some pictures will ever be seen
+215	108	expected	few pictures will ever be appreciated
+216	108	unexpected	some pictures will ever be appreciated
+217	109	expected	few pictures will ever be ignored
+218	109	unexpected	some pictures will ever be ignored
+219	110	expected	few pictures will ever get old
+220	110	unexpected	some pictures will ever get old
+221	111	expected	few paintings will ever be seen
+222	111	unexpected	some paintings will ever be seen
+223	112	expected	few paintings will ever be appreciated
+224	112	unexpected	some paintings will ever be appreciated
+225	113	expected	few paintings will ever be ignored
+226	113	unexpected	some paintings will ever be ignored
+227	114	expected	few paintings will ever get old
+228	114	unexpected	some paintings will ever get old
+229	115	expected	few novels will ever be seen
+230	115	unexpected	some novels will ever be seen
+231	116	expected	few novels will ever be appreciated
+232	116	unexpected	some novels will ever be appreciated
+233	117	expected	few novels will ever be ignored
+234	117	unexpected	some novels will ever be ignored
+235	118	expected	few novels will ever get old
+236	118	unexpected	some novels will ever get old
+237	119	expected	few poems will ever be seen
+238	119	unexpected	some poems will ever be seen
+239	120	expected	few poems will ever be appreciated
+240	120	unexpected	some poems will ever be appreciated
+241	121	expected	few poems will ever be ignored
+242	121	unexpected	some poems will ever be ignored
+243	122	expected	few poems will ever get old
+244	122	unexpected	some poems will ever get old
+245	123	expected	few shows will ever be seen
+246	123	unexpected	some shows will ever be seen
+247	124	expected	few shows will ever be appreciated
+248	124	unexpected	some shows will ever be appreciated
+249	125	expected	few shows will ever be ignored
+250	125	unexpected	some shows will ever be ignored
+251	126	expected	few shows will ever get old
+252	126	unexpected	some shows will ever get old

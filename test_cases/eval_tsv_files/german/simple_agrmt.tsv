@@ -1,0 +1,281 @@
+sentid	pairid	comparison	sentence
+1	1	expected	die Schriftsteller sind alt
+2	1	unexpected	die Schriftsteller ist alt
+3	2	expected	die Schriftsteller sind jung
+4	2	unexpected	die Schriftsteller ist jung
+5	3	expected	die Schriftsteller sind klein
+6	3	unexpected	die Schriftsteller ist klein
+7	4	expected	die Schriftsteller sind groß
+8	4	unexpected	die Schriftsteller ist groß
+9	5	expected	die Schriftsteller schwimmen
+10	5	unexpected	die Schriftsteller schwimmt
+11	6	expected	die Schriftsteller sprechen
+12	6	unexpected	die Schriftsteller spricht
+13	7	expected	die Schriftsteller lachen
+14	7	unexpected	die Schriftsteller lacht
+15	8	expected	die Direktoren sind alt
+16	8	unexpected	die Direktoren ist alt
+17	9	expected	die Direktoren sind jung
+18	9	unexpected	die Direktoren ist jung
+19	10	expected	die Direktoren sind klein
+20	10	unexpected	die Direktoren ist klein
+21	11	expected	die Direktoren sind groß
+22	11	unexpected	die Direktoren ist groß
+23	12	expected	die Direktoren schwimmen
+24	12	unexpected	die Direktoren schwimmt
+25	13	expected	die Direktoren sprechen
+26	13	unexpected	die Direktoren spricht
+27	14	expected	die Direktoren lachen
+28	14	unexpected	die Direktoren lacht
+29	15	expected	die Bauern sind alt
+30	15	unexpected	die Bauern ist alt
+31	16	expected	die Bauern sind jung
+32	16	unexpected	die Bauern ist jung
+33	17	expected	die Bauern sind klein
+34	17	unexpected	die Bauern ist klein
+35	18	expected	die Bauern sind groß
+36	18	unexpected	die Bauern ist groß
+37	19	expected	die Bauern schwimmen
+38	19	unexpected	die Bauern schwimmt
+39	20	expected	die Bauern sprechen
+40	20	unexpected	die Bauern spricht
+41	21	expected	die Bauern lachen
+42	21	unexpected	die Bauern lacht
+43	22	expected	die Chirurgen sind alt
+44	22	unexpected	die Chirurgen ist alt
+45	23	expected	die Chirurgen sind jung
+46	23	unexpected	die Chirurgen ist jung
+47	24	expected	die Chirurgen sind klein
+48	24	unexpected	die Chirurgen ist klein
+49	25	expected	die Chirurgen sind groß
+50	25	unexpected	die Chirurgen ist groß
+51	26	expected	die Chirurgen schwimmen
+52	26	unexpected	die Chirurgen schwimmt
+53	27	expected	die Chirurgen sprechen
+54	27	unexpected	die Chirurgen spricht
+55	28	expected	die Chirurgen lachen
+56	28	unexpected	die Chirurgen lacht
+57	29	expected	die Senatoren sind alt
+58	29	unexpected	die Senatoren ist alt
+59	30	expected	die Senatoren sind jung
+60	30	unexpected	die Senatoren ist jung
+61	31	expected	die Senatoren sind klein
+62	31	unexpected	die Senatoren ist klein
+63	32	expected	die Senatoren sind groß
+64	32	unexpected	die Senatoren ist groß
+65	33	expected	die Senatoren schwimmen
+66	33	unexpected	die Senatoren schwimmt
+67	34	expected	die Senatoren sprechen
+68	34	unexpected	die Senatoren spricht
+69	35	expected	die Senatoren lachen
+70	35	unexpected	die Senatoren lacht
+71	36	expected	die Lehrer sind alt
+72	36	unexpected	die Lehrer ist alt
+73	37	expected	die Lehrer sind jung
+74	37	unexpected	die Lehrer ist jung
+75	38	expected	die Lehrer sind klein
+76	38	unexpected	die Lehrer ist klein
+77	39	expected	die Lehrer sind groß
+78	39	unexpected	die Lehrer ist groß
+79	40	expected	die Lehrer schwimmen
+80	40	unexpected	die Lehrer schwimmt
+81	41	expected	die Lehrer sprechen
+82	41	unexpected	die Lehrer spricht
+83	42	expected	die Lehrer lachen
+84	42	unexpected	die Lehrer lacht
+85	43	expected	die Kunden sind alt
+86	43	unexpected	die Kunden ist alt
+87	44	expected	die Kunden sind jung
+88	44	unexpected	die Kunden ist jung
+89	45	expected	die Kunden sind klein
+90	45	unexpected	die Kunden ist klein
+91	46	expected	die Kunden sind groß
+92	46	unexpected	die Kunden ist groß
+93	47	expected	die Kunden schwimmen
+94	47	unexpected	die Kunden schwimmt
+95	48	expected	die Kunden sprechen
+96	48	unexpected	die Kunden spricht
+97	49	expected	die Kunden lachen
+98	49	unexpected	die Kunden lacht
+99	50	expected	die Polizisten sind alt
+100	50	unexpected	die Polizisten ist alt
+101	51	expected	die Polizisten sind jung
+102	51	unexpected	die Polizisten ist jung
+103	52	expected	die Polizisten sind klein
+104	52	unexpected	die Polizisten ist klein
+105	53	expected	die Polizisten sind groß
+106	53	unexpected	die Polizisten ist groß
+107	54	expected	die Polizisten schwimmen
+108	54	unexpected	die Polizisten schwimmt
+109	55	expected	die Polizisten sprechen
+110	55	unexpected	die Polizisten spricht
+111	56	expected	die Polizisten lachen
+112	56	unexpected	die Polizisten lacht
+113	57	expected	die Piloten sind alt
+114	57	unexpected	die Piloten ist alt
+115	58	expected	die Piloten sind jung
+116	58	unexpected	die Piloten ist jung
+117	59	expected	die Piloten sind klein
+118	59	unexpected	die Piloten ist klein
+119	60	expected	die Piloten sind groß
+120	60	unexpected	die Piloten ist groß
+121	61	expected	die Piloten schwimmen
+122	61	unexpected	die Piloten schwimmt
+123	62	expected	die Piloten sprechen
+124	62	unexpected	die Piloten spricht
+125	63	expected	die Piloten lachen
+126	63	unexpected	die Piloten lacht
+127	64	expected	die Berater sind alt
+128	64	unexpected	die Berater ist alt
+129	65	expected	die Berater sind jung
+130	65	unexpected	die Berater ist jung
+131	66	expected	die Berater sind klein
+132	66	unexpected	die Berater ist klein
+133	67	expected	die Berater sind groß
+134	67	unexpected	die Berater ist groß
+135	68	expected	die Berater schwimmen
+136	68	unexpected	die Berater schwimmt
+137	69	expected	die Berater sprechen
+138	69	unexpected	die Berater spricht
+139	70	expected	die Berater lachen
+140	70	unexpected	die Berater lacht
+141	71	expected	der Schriftsteller ist alt
+142	71	unexpected	der Schriftsteller sind alt
+143	72	expected	der Schriftsteller ist jung
+144	72	unexpected	der Schriftsteller sind jung
+145	73	expected	der Schriftsteller ist klein
+146	73	unexpected	der Schriftsteller sind klein
+147	74	expected	der Schriftsteller ist groß
+148	74	unexpected	der Schriftsteller sind groß
+149	75	expected	der Schriftsteller schwimmt
+150	75	unexpected	der Schriftsteller schwimmen
+151	76	expected	der Schriftsteller spricht
+152	76	unexpected	der Schriftsteller sprechen
+153	77	expected	der Schriftsteller lacht
+154	77	unexpected	der Schriftsteller lachen
+155	78	expected	der Direktor ist alt
+156	78	unexpected	der Direktor sind alt
+157	79	expected	der Direktor ist jung
+158	79	unexpected	der Direktor sind jung
+159	80	expected	der Direktor ist klein
+160	80	unexpected	der Direktor sind klein
+161	81	expected	der Direktor ist groß
+162	81	unexpected	der Direktor sind groß
+163	82	expected	der Direktor schwimmt
+164	82	unexpected	der Direktor schwimmen
+165	83	expected	der Direktor spricht
+166	83	unexpected	der Direktor sprechen
+167	84	expected	der Direktor lacht
+168	84	unexpected	der Direktor lachen
+169	85	expected	der Bauer ist alt
+170	85	unexpected	der Bauer sind alt
+171	86	expected	der Bauer ist jung
+172	86	unexpected	der Bauer sind jung
+173	87	expected	der Bauer ist klein
+174	87	unexpected	der Bauer sind klein
+175	88	expected	der Bauer ist groß
+176	88	unexpected	der Bauer sind groß
+177	89	expected	der Bauer schwimmt
+178	89	unexpected	der Bauer schwimmen
+179	90	expected	der Bauer spricht
+180	90	unexpected	der Bauer sprechen
+181	91	expected	der Bauer lacht
+182	91	unexpected	der Bauer lachen
+183	92	expected	der Chirurg ist alt
+184	92	unexpected	der Chirurg sind alt
+185	93	expected	der Chirurg ist jung
+186	93	unexpected	der Chirurg sind jung
+187	94	expected	der Chirurg ist klein
+188	94	unexpected	der Chirurg sind klein
+189	95	expected	der Chirurg ist groß
+190	95	unexpected	der Chirurg sind groß
+191	96	expected	der Chirurg schwimmt
+192	96	unexpected	der Chirurg schwimmen
+193	97	expected	der Chirurg spricht
+194	97	unexpected	der Chirurg sprechen
+195	98	expected	der Chirurg lacht
+196	98	unexpected	der Chirurg lachen
+197	99	expected	der Senator ist alt
+198	99	unexpected	der Senator sind alt
+199	100	expected	der Senator ist jung
+200	100	unexpected	der Senator sind jung
+201	101	expected	der Senator ist klein
+202	101	unexpected	der Senator sind klein
+203	102	expected	der Senator ist groß
+204	102	unexpected	der Senator sind groß
+205	103	expected	der Senator schwimmt
+206	103	unexpected	der Senator schwimmen
+207	104	expected	der Senator spricht
+208	104	unexpected	der Senator sprechen
+209	105	expected	der Senator lacht
+210	105	unexpected	der Senator lachen
+211	106	expected	der Lehrer ist alt
+212	106	unexpected	der Lehrer sind alt
+213	107	expected	der Lehrer ist jung
+214	107	unexpected	der Lehrer sind jung
+215	108	expected	der Lehrer ist klein
+216	108	unexpected	der Lehrer sind klein
+217	109	expected	der Lehrer ist groß
+218	109	unexpected	der Lehrer sind groß
+219	110	expected	der Lehrer schwimmt
+220	110	unexpected	der Lehrer schwimmen
+221	111	expected	der Lehrer spricht
+222	111	unexpected	der Lehrer sprechen
+223	112	expected	der Lehrer lacht
+224	112	unexpected	der Lehrer lachen
+225	113	expected	der Kunde ist alt
+226	113	unexpected	der Kunde sind alt
+227	114	expected	der Kunde ist jung
+228	114	unexpected	der Kunde sind jung
+229	115	expected	der Kunde ist klein
+230	115	unexpected	der Kunde sind klein
+231	116	expected	der Kunde ist groß
+232	116	unexpected	der Kunde sind groß
+233	117	expected	der Kunde schwimmt
+234	117	unexpected	der Kunde schwimmen
+235	118	expected	der Kunde spricht
+236	118	unexpected	der Kunde sprechen
+237	119	expected	der Kunde lacht
+238	119	unexpected	der Kunde lachen
+239	120	expected	der Polizist ist alt
+240	120	unexpected	der Polizist sind alt
+241	121	expected	der Polizist ist jung
+242	121	unexpected	der Polizist sind jung
+243	122	expected	der Polizist ist klein
+244	122	unexpected	der Polizist sind klein
+245	123	expected	der Polizist ist groß
+246	123	unexpected	der Polizist sind groß
+247	124	expected	der Polizist schwimmt
+248	124	unexpected	der Polizist schwimmen
+249	125	expected	der Polizist spricht
+250	125	unexpected	der Polizist sprechen
+251	126	expected	der Polizist lacht
+252	126	unexpected	der Polizist lachen
+253	127	expected	der Pilot ist alt
+254	127	unexpected	der Pilot sind alt
+255	128	expected	der Pilot ist jung
+256	128	unexpected	der Pilot sind jung
+257	129	expected	der Pilot ist klein
+258	129	unexpected	der Pilot sind klein
+259	130	expected	der Pilot ist groß
+260	130	unexpected	der Pilot sind groß
+261	131	expected	der Pilot schwimmt
+262	131	unexpected	der Pilot schwimmen
+263	132	expected	der Pilot spricht
+264	132	unexpected	der Pilot sprechen
+265	133	expected	der Pilot lacht
+266	133	unexpected	der Pilot lachen
+267	134	expected	der Berater ist alt
+268	134	unexpected	der Berater sind alt
+269	135	expected	der Berater ist jung
+270	135	unexpected	der Berater sind jung
+271	136	expected	der Berater ist klein
+272	136	unexpected	der Berater sind klein
+273	137	expected	der Berater ist groß
+274	137	unexpected	der Berater sind groß
+275	138	expected	der Berater schwimmt
+276	138	unexpected	der Berater schwimmen
+277	139	expected	der Berater spricht
+278	139	unexpected	der Berater sprechen
+279	140	expected	der Berater lacht
+280	140	unexpected	der Berater lachen
