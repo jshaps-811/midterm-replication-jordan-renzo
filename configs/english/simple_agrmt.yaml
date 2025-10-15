@@ -6,9 +6,9 @@ mode:
 
 models:
     hf_causal_model:
-      - bert-base-mulitlingual-cased
+      - mbert-base-multilingual-cased
 
-predfpath: ./predictions/pred_./test_cases/eval_tsv_files/english/simple_agrmt.tsv
+predfpath: ./predictions/pred_simple_agrmt.tsv
 datafpath: ./data/./test_cases/eval_tsv_files/english/simple_agrmt.tsv
-resultsfpath: ./results/results_./test_cases/eval_tsv_files/english/simple_agrmt.tsv
+resultsfpath: ./results/results_simple_agrmt.tsv
 save: by_word, by_pair, by_cond
