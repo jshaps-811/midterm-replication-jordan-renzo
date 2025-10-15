@@ -1,0 +1,14 @@
+exp: MinimalPair
+
+mode: 
+    - evaluate
+    - analyze
+
+models:
+    hf_causal_model:
+      - bert-base-mulitlingual-cased
+
+predfpath: ./predictions/pred_./test_cases/eval_tsv_files/german/long_vp_coord.tsv
+datafpath: ./data/./test_cases/eval_tsv_files/german/long_vp_coord.tsv
+resultsfpath: ./results/results_./test_cases/eval_tsv_files/german/long_vp_coord.tsv
+save: by_word, by_pair, by_cond

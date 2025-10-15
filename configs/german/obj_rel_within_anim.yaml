@@ -1,0 +1,14 @@
+exp: MinimalPair
+
+mode: 
+    - evaluate
+    - analyze
+
+models:
+    hf_causal_model:
+      - bert-base-mulitlingual-cased
+
+predfpath: ./predictions/pred_./test_cases/eval_tsv_files/german/obj_rel_within_anim.tsv
+datafpath: ./data/./test_cases/eval_tsv_files/german/obj_rel_within_anim.tsv
+resultsfpath: ./results/results_./test_cases/eval_tsv_files/german/obj_rel_within_anim.tsv
+save: by_word, by_pair, by_cond
