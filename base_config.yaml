@@ -1,1 +1,1 @@
-exp: MinimalPairmode:     - evaluate    - analyzemodels:    hf_masked_model:      - google-bert/bert-base-multilingual-casedpredfpath: ./predictions/minimal_pairs_bad.tsvdatafpath: ./data/minimal_pairs_bad.tsvresultsfpath: ./results/result.tsvsave: by_pair
+exp: MinimalPairdevice: cudamode:     - evaluate    - analyzemodels:    hf_masked_model:      - google-bert/bert-base-multilingual-casedpredfpath: ./predictions/minimal_pairs_bad.tsvdatafpath: ./data/minimal_pairs_bad.tsvresultsfpath: ./results/result.tsvsave: by_pair
