@@ -1,0 +1,1 @@
+exp: MinimalPairdevice: cudamode:     - evaluate    - analyzemodels:    hf_masked_model:      - bert-base-uncasedpredfpath: ./predictions/minimal_pairs_bad.tsvdatafpath: ./data/minimal_pairs_bad.tsvresultsfpath: ./results/result.tsvsave: by_pair

@@ -1,0 +1,16 @@
+exp: MinimalPair
+
+device: cuda
+
+mode: 
+    - evaluate
+    - analyze
+
+models:
+    hf_masked_model:
+      - bert-base-uncased
+
+predfpath: ./midterm-replication-jordan-renzo/predictions/pred_obj_rel_no_comp_within_inanim.tsv
+datafpath: ./midterm-replication-jordan-renzo/test_cases/eval_tsv_files/english/obj_rel_no_comp_within_inanim.tsv
+resultsfpath: ./midterm-replication-jordan-renzo/results/results_obj_rel_no_comp_within_inanim.tsv
+save: by_pair

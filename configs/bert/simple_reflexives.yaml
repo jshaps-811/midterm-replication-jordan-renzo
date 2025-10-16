@@ -1,0 +1,16 @@
+exp: MinimalPair
+
+device: cuda
+
+mode: 
+    - evaluate
+    - analyze
+
+models:
+    hf_masked_model:
+      - bert-base-uncased
+
+predfpath: ./midterm-replication-jordan-renzo/predictions/pred_simple_reflexives.tsv
+datafpath: ./midterm-replication-jordan-renzo/test_cases/eval_tsv_files/english/simple_reflexives.tsv
+resultsfpath: ./midterm-replication-jordan-renzo/results/results_simple_reflexives.tsv
+save: by_pair
