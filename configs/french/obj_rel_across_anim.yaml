@@ -11,4 +11,4 @@ models:
 predfpath: ./midterm-replication-jordan-renzo/predictions/pred_obj_rel_across_anim.tsv
 datafpath: ./midterm-replication-jordan-renzo/test_cases/eval_tsv_files/french/obj_rel_across_anim.tsv
 resultsfpath: ./midterm-replication-jordan-renzo/results/results_obj_rel_across_anim.tsv
-save: by_word, by_pair, by_cond
+save: by_pair
