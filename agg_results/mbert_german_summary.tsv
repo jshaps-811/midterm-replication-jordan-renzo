@@ -1,0 +1,8 @@
+model	type	mean_acc
+google-bert/bert-base-multilingual-cased	results subj rel bypair	0.8413392857142857
+google-bert/bert-base-multilingual-cased	results prep anim bypair	0.9053968253968254
+google-bert/bert-base-multilingual-cased	results simple agrmt bypair	0.9571428571428572
+google-bert/bert-base-multilingual-cased	results obj rel across anim bypair	0.8766071428571428
+google-bert/bert-base-multilingual-cased	results vp coord bypair	0.9061224489795918
+google-bert/bert-base-multilingual-cased	results long vp coord bypair	0.96
+google-bert/bert-base-multilingual-cased	results obj rel within anim bypair	0.7425892857142857

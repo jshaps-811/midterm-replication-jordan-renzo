@@ -1,0 +1,19 @@
+model	type	mean_acc
+bert-base-uncased	results subj rel bypair	0.7889285714285714
+bert-base-uncased	results obj rel across inanim bypair	0.9514880952380952
+bert-base-uncased	results prep anim bypair	0.7803571428571429
+bert-base-uncased	results simple agrmt bypair	0.8857142857142857
+bert-base-uncased	results obj rel across anim bypair	0.81375
+bert-base-uncased	results simple reflexives bypair	0.9964285714285714
+bert-base-uncased	results reflexives across bypair	0.8194642857142858
+bert-base-uncased	results obj rel no comp across anim bypair	0.7699107142857143
+bert-base-uncased	results vp coord bypair	0.9119047619047619
+bert-base-uncased	results long vp coord bypair	0.9625
+bert-base-uncased	results obj rel within inanim bypair	0.8985119047619048
+bert-base-uncased	results obj rel within anim bypair	0.9421428571428572
+bert-base-uncased	results obj rel no comp within anim bypair	0.7466964285714286
+bert-base-uncased	results obj rel no comp across inanim bypair	0.9254960317460318
+bert-base-uncased	results prep inanim bypair	0.9595238095238096
+bert-base-uncased	results sent comp bypair	0.8107142857142857
+bert-base-uncased	results obj rel no comp within inanim bypair	0.81875
+bert-base-uncased	results reflexive sent comp bypair	0.9327380952380953

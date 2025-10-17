@@ -1,0 +1,21 @@
+model	type	mean_acc
+google-bert/bert-base-multilingual-cased	results subj rel bypair	0.5449107142857142
+google-bert/bert-base-multilingual-cased	results obj rel across inanim bypair	0.7868055555555555
+google-bert/bert-base-multilingual-cased	results prep anim bypair	0.6978571428571428
+google-bert/bert-base-multilingual-cased	results simple agrmt bypair	0.7714285714285715
+google-bert/bert-base-multilingual-cased	results obj rel across anim bypair	0.6289285714285714
+google-bert/bert-base-multilingual-cased	results simple reflexives bypair	0.9535714285714286
+google-bert/bert-base-multilingual-cased	results reflexives across bypair	0.6720982142857143
+google-bert/bert-base-multilingual-cased	results obj rel no comp across anim bypair	0.48
+google-bert/bert-base-multilingual-cased	results npi across inanim bypair	0.6807539682539683
+google-bert/bert-base-multilingual-cased	results vp coord bypair	0.8011904761904762
+google-bert/bert-base-multilingual-cased	results long vp coord bypair	0.89
+google-bert/bert-base-multilingual-cased	results obj rel within inanim bypair	0.5723214285714285
+google-bert/bert-base-multilingual-cased	results obj rel within anim bypair	0.5234821428571429
+google-bert/bert-base-multilingual-cased	results npi across anim bypair	0.6358333333333334
+google-bert/bert-base-multilingual-cased	results obj rel no comp within anim bypair	0.57125
+google-bert/bert-base-multilingual-cased	results obj rel no comp across inanim bypair	0.594047619047619
+google-bert/bert-base-multilingual-cased	results prep inanim bypair	0.9009920634920635
+google-bert/bert-base-multilingual-cased	results sent comp bypair	0.8041666666666667
+google-bert/bert-base-multilingual-cased	results obj rel no comp within inanim bypair	0.5330357142857143
+google-bert/bert-base-multilingual-cased	results reflexive sent comp bypair	0.9095238095238095
